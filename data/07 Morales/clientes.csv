@@ -1,0 +1,856 @@
+Codigo,Cliente,Domicilio,Localidad,Telefono,Cuit,Transporte,Email 1,PROVINCIA,TIPOIVA,Contacto,dto,condicion de pago,Vendedor
+3.00,Knappe Arturo (Agroventas),Av Los Cafetales S/N,Campo Grande,03755-499257,20-13135928-5,74,(en blanco),Misiones,Inscripto   ,(en blanco),71.3,15 C/REEMB.,7
+15.00,Gonzalez Azcona Lorena Y Gonzalez A M,Av Riavitz 221,Plottier,0299-4933568,30-71405489-5,584,maleg04@hotmail.com,Neuquen,Inscripto   ,(en blanco),77,7 DIAS F.F,7
+22.00,Lorente Orlando*****,Juan B Justo l57,Allen,02984-452636,20-08215985-2,16,buloneriallen@hotmail.com,Rio Negro,Inscripto   ,(en blanco),77,30 DIAS FF,7
+53.00,Bragabul SA,Gral. Paz 1440,Bragado,02342-426140,30-66444785-8,590,bragabul@fibertel.com.ar,Buenos Aires,Inscripto   ,ANA,77,30 DS C/REEMBOLSO,7
+80.00,Etcheverry Cecilia******,Mitre 1660,Chajari,03456-424314,27-29170922-8,483,bulonera-chajari@hotmail.com.ar,Entre Rios,Inscripto   ,CRISTIAN,77,ANTIC. // DEVOLVIO C/REEMB. PELIGROSO,7
+87.00,Bracco Berto German ***,San Martin 976,Curuzu Cuatia,Part. 03774-422889/ 15634,20-04183372-7,418,casapuky@hotmail.com,Corrientes,Monotributo ,GERMAN,77,30 DS FECHA FACTURA COBIMPRO,7
+100.00,Centro Bul. Tres Arroyos SRL**,San Martin 632,Tres Arroyos,02983-431467/421144,30-56792744-6,541,contacto@centrobulonero.com,Buenos Aires,Inscripto   ,ALAN / PATRICIA / CESAR,80.6,CTA CTE,7
+110.00,Chersicla Alberto Jose***,España y Remedios de Escalada,Villa Regina,02984-464271,20-07568141-1,705,ajchersicla@hotmail.com,Rio Negro,Inscripto   ,(en blanco),77,15 DIAS F/FACTURA,7
+112.00,Campoy Daniel Anibal,41 y 11,Santa Teresita,02246-420361,20-12735464-7,225,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,7 DIAS CTA CTE,7
+113.00,Ferremat Bulonera Del Sur SA ***,Av 59 N 2301,Necochea,02262-428485/437130 pagos,30-58831429-0,397,listadeprecio@buloneradelsursa.com.ar,Buenos Aires,Inscripto   ,ROBERTO (DUEÑO),77,7 DIAS CTA CTE,7
+137.00,El Cruce SRL Ferreteria,Ruta 12 y Cocomarola,Posadas,03764-433888,23-07585362-9,50,(en blanco),Misiones,Inscripto   ,(en blanco),71.3,15 DIAS C/ REEMBOLSO.,7
+146.00,Bonomo Nestor Dario,Sarmiento 1375,Bragado,02342-422982,20-22171532-3,33,bulonera7deagosto@hotmail.com,Buenos Aires,Inscripto   ,NESTOR,77,30 DS F/FACTURA,7
+148.00,Batle Carlos Esteban ***,Ruta 26 Km 5,San Jose,03447-472022/470912,20-23038768-1,127,administracion@batllerepuestos.com.ar,Entre Rios,Inscripto   ,CARLOS / Alba / Claudia,77,15 DIAS F/FACTURA,7
+161.00,Gaspar Hnos SRL*******,Ruta 3 y Av Polonia,Comodoro Rivadavia,0297-4462470-4476568,30-59493385-7,57,gasparhnossrl2@gmail.com,Chubut,Inscripto   ,Ruben/JOSE/JORGE/MELISA,71.4,15 DIAS C/ REEMBOLSO,7
+178.00,Van De Moortele Jean Marie,Las Retamas 124,Villa La Angostura,02944-494346,20-92427075-7,83,jmvdmbayo@hotmail.com,Neuquen,Inscripto   ,(en blanco),77,ANTICIPADO,7
+198.00,Papareli Omar Humberto,Av. San Martin 434,Carlos Casares,02395-455096,20-17498612-7,46,omar_paparelli@hotmail.com ,Buenos Aires,Inscripto   ,(en blanco),77,NO VENDER SI NO ES CDO ANTICIPADO.,7
+206.00,Lopez Diego Manuel,Rawson 53,Lincoln,02355-421620,20-23168556-2,774,bulonerialopez@gmail.com,Buenos Aires,Inscripto   ,(en blanco),77,15 DS F/FACT. RETIRAR 20 CAR 399 DEL 2/2/2010,7
+224.00,Leonhardt Graciela Maricel,Calle 31 Nª 666,Huanguelen,02933-432447,27-23484787-8,651,rodamientosleonhardt@hotmail.com,Buenos Aires,Inscripto   ,MARICEL,77,7 DIAS FF COBINPRO,7
+238.00,Vignolo Alfredo,Bvar España 532,Villa Maria,0535 20292,20-06687445-6,62,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 dias c/reembolso,7
+263.00,Orcellet Martin Angel,Av Peron y Gaillard,Colon,03447-422541 /421662,23-05812830-9,127,ventasmartinorcellet@gmail.com,Entre Rios,Inscripto   ,LITO,77,15 DS fecha factura ,7
+306.00,Roscar Bul.de Fellay Derrudder,Galarza 1374,Concepcion del Uruguay,03442-425388,20-13599233-0,490,ferreteriaroscar@gmail.com,Entre Rios,Inscripto   ,(en blanco),77,30 DIAS F/FACTURA,7
+336.00,Casa Sarandi de A. Perez,Pellegrini 2080,Bragado,02342-424090,20-92330775-4,111,ajpb@speedy.com.ar,Buenos Aires,Inscripto   ,(en blanco),77,7 Dias fecha factura,7
+343.00,Canto Ariel Daniel,Belgrano 251,Cipolletti,0299-4782231/4775623,20-13837872-2,15,todobulonesehidraulicos@hotmail.com,Rio Negro,Inscripto   ,(en blanco),77,7 Dias fecha factura,7
+379.00,Horacio Rene Pizzorno Y Cia,Garralda y 9 de Julio,Rauch,02297-442645,30-61956683-8,643,pizzornoycia@ciudad.com.ar,Buenos Aires,Inscripto   ,Belmartino Luis,77,20 DIAS FECHA FACTURA,7
+382.00,Repuestos Iguazu SACIFIA,Av Uruguay 3075,Posadas,0752-23806,30-53831882-1,18,(en blanco),Misiones,Inscripto   ,(en blanco),71.3,15 ds c/reembolso,7
+405.00,Buloneria Concepcion S.R.L.,España 687,Concepcion,03865-426786,30-71132791-2,414,buloneriaconcepcion@yahoo.com.ar,Tucuman,Inscripto   ,VERONICA / Karina,77,30 DIAS FECHA FACTURA,7
+415.00,Corralon Corona De Mauro E Corona,Sgto Cabral 443,Luis Beltran,02946-480206,20-10586537-7,658,corraloncorona@patagoniadata.com.ar,Rio Negro,Inscripto   ,(en blanco),77,7 DS.C/REEMB.,7
+430.00,Lubri-Fer S.H de Monteverdi,Brigadier Bustos 591/595,San Francisco,0564-22588,30-65693386-7,280,(en blanco),Cordoba,Inscripto   ,(en blanco),77, 15 ds c/reembolso,7
+469.00,Cueto Fernando Edgardo,Laprida esq. Santa Fe,Corzuela,03731-470276,20-24067498-0,136,corraloncorzuelaf@hotmail.com,Chaco,Inscripto   ,(en blanco),77,30 DS.FECHA FACTURA,7
+477.00,Casa Trachta SRL,San Martin 698,Ibarreta,03716-432122,30-52282346-1,495,(en blanco),Formosa,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+493.00,Zilloni Ulises Ariel,Salta y Sarmiento,Monte Caseros,03775-422830,20-30429362-5,4,ulizilloni@hotmail.com,Corrientes,Inscripto   ,ULISES HIJO,77,30 DS FECHA FACTURA COBINPRO,7
+552.00,Felis Roberto Eniquer.,Isla Victoria 60,Manzanares,0322-90154,23-11016512-9,81,(en blanco),Buenos Aires,Inscripto   ,(en blanco),80.6,7 DS.F/FACT.,7
+593.00,Emparg Maria Cristina,Belgrano 1000,Dolores,0245-40018,27-11374988-7,154,donpochito_ferreteria@hotmail.com,Buenos Aires,Inscripto   ,(en blanco),77,CDO.C/REEMB.,7
+615.00,Cir-Fren de Perret Gustavo E.,Av Fco de Haro y Trincheras,Posadas,0752-21304,20-10267244-6,18,(en blanco),Misiones,Inscripto   ,(en blanco),71.3,15 dias c/reembolso,7
+630.00,Gadan Oscar,Yrigoyen y Rio Negro,9 De Julio,02317-524265 ES FIJO,20-04752148-4,329,insumosmetalurgicos@ceystel.com.ar,Buenos Aires,Inscripto   ,(en blanco),77,7 DIAS,7
+648.00,Magaña Angel Y H.(El Coyunco),Ruta 226 Km 16,Mar del Plata,0223-4630180,30-63846942-8,125,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,7 DS.C/REEMB.,7
+655.00,Ramacciotti Mario Alberto,Pardo de Figueroa 756 9B,Guemes,730011,23-13821911-9,100,(en blanco),Cordoba,Inscripto   ,(en blanco),77,CDO.C/REEMBOLSO,7
+657.00,Darrico Nora del Valle,San Martin y Urquiza,Alcira Gigena,0358-4961167 /0358 154031,27-16635216-4,15,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+665.00,Bulonera Bariloche SRL,Ruiz Moreno 576,San Carlos de Bariloche,0294-4433093,30-71668116-1,264,bulonerabariloche@hotmail.com,Rio Negro,Inscripto   ,Nestor/GONZALO,77,7 DIAS FF,7
+699.00,Scazzola Ernesto Fabian,A.del Valle 101,Pehuajo,02396-616609,20-20035109-7,46,bulonerapehuajo@gmail.com,Buenos Aires,Inscripto   ,Fabian,77,15 ds. c/reemb.,7
+700.00,Agrobulonera Siri de P y E,Gral Paz 560,Bragado,02342-421339-,33-64618100-9,33,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,30  ds c/reembolso,7
+721.00,Termachuka Luis(Ferr San Migue,Av Lavalle 2481/2499,Posadas,(en blanco),20-08549053-3,18,(en blanco),Misiones,Inscripto   ,(en blanco),71.3,CERRO,7
+749.00,Dressler Bruno,Av Lavalle 2848,Posadas,0752-30833,20-10725852-4,18,(en blanco),Misiones,Inscripto   ,(en blanco),71.3,CDO.C/REEMB,7
+770.00,Santamaria Dora S. Arrascaeta,Av 25 de Mayo 470,Corzuela,03731-470363,27-17758794-5,495,(en blanco),Chaco,Inscripto   ,(en blanco),77,CDO/C/REEMB,7
+842.00,Vazlop Guillermo e Isidro S.H,Cte Espora 944,Tandil,02494-431688,30-63721757-3,562,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,15 DS.C/REEMB,7
+935.00,Chiappesoni Jose Luis,Urdinarrain 151,Parana,043-210570//Part.220236,20-08006748-9,129,(en blanco),Entre Rios,Inscripto   ,(en blanco),77,SOLO CDO ANTICIPADO.,7
+992.00,Surcan Ramon,Av Polonia 610,Apostoles,03758-422637-422708,23-05154524-9,388,(en blanco),Misiones,Inscripto   ,(en blanco),71.3,15 DS.C/REEMB.,7
+997.00,Tu Bulon SRL,Br. H. Irigoyen 1041,Reconquista,0482-21186-29805/ Part. 2,30-61082490-7,137,(en blanco),Santa Fe,Inscripto   ,(en blanco),77,15 D C/REEMB. ANTES MAL PAGADOR. VER PERFIL,7
+1003.00,Bizzotto E Hijos SRL,Núñez del Prado 580,Catamarca,0383-4430123,30-51953643-5,743,bizzotto@arnet.com.ar,Catamarca,Inscripto   ,(en blanco),77,(en blanco),7
+1022.00,Gotte S.A,Belgrano 351,Bovril,03438-421600,30-70836522-6,490,gottemaquinarias@gottesa.com.ar,Entre Rios,Inscripto   ,ALFREDO  --  Villalba Enzo,77,30 DIAS FF. ,7
+1026.00,Chrietensen Guillermo ,Yrigoyen 910,Tandil,(en blanco),20-10808818-5,79,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,15 DIAS C/ REEMBOLSO,7
+1034.00,Jauregui Clarisa (El Toro Ferret),Rodriguez 1001,Tandil,(en blanco),27-21871382-9,140,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,NO VENDER DEBE PLATA,7
+1035.00,Libertad Ferreteria SRL,Av. Venancio Paz 1217,Las Flores,02244-450848,20-07435928-1,396,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+1039.00,El Molino SRL,Av. Alvear 1486,Resistencia,03624-461966/460701,30-64299585-1,495,ferreteriaelmolino2010@hotmail.com,Chaco,Inscripto   ,(en blanco),77,30 DS.F/FACT.COBINPRO,7
+1066.00,Luis Jorge Ariel Y Luis Martin I.,Guemes 598,Pichanal,03878-15573174,30-71549298-5,414,isaacrepuestos@yahoo.com,Salta,Inscripto   ,CRISTIAN,77,(en blanco),7
+1071.00,Cativa Susana Lia,Av. San Nicolas De Bari 915,La Rioja,0380-4432558,27-11856406-0,301,fermaxlarioja@hotmail.com,La Rioja,Inscripto   ,Maidana Fabricio,77,(en blanco),7
+1115.00,Scotti Agustin e Hijos,Cordoba 3345,Mar del Plata,0223-4933807,30-57218571-7,399,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,15 D C/REEMBOLSO. HINCHA P,7
+1116.00,Orgambide Jorge Alfredo,Jacinto Peralta Ramos 2341,Mar del Plata,0223-4827095,20-05302947-8,509,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,CDO.C/REEMB.,7
+1119.00,Dil Bulon SRL,Acha 355,Mar del Plata,0223-4800482/4800733,30-63011191-5,399,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,cdo/c/reembolso,7
+1123.00,Destreza de Durand Ricardo y O,Carlos Tejedor 2002,Mar del Plata,0223-4796743,30-67673986-2,155,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,15 DS.F/FACT.,7
+1126.00,Barcenilla Jorge y Juan Carlos.,Avda Independencia 246,America,02337-452571,30-56922581-3,270,tornerialaunion@yahoo.com.ar,Buenos Aires,Inscripto   ,(en blanco),77,7 DS.F/FACT,7
+1127.00,Meis Carlos A. (Bul.Champagnat,Av Champagnat 2302,Mar del Plata,023-702866,20-20985548-9,125,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,CDO.ANTICIPADO,7
+1148.00,Martinez Castro SRL,Avda Pueyrredon 2669,Comandante Nicanor Otamendi,223-3442585 WHATSAPP,30-71111567-2,240,martinezcastroar@gmail.com,Buenos Aires,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+1151.00,NecoFerr de Dieni Juan Carlos****,Av. 75 Nº 1745,Necochea,+549 2262 243933,20-11737891-9,397,jcdieni@hotmail.com,Buenos Aires,Inscripto   ,GERARDO,77,contado,7
+1153.00,Laspina Irma Rene y Maria Ines,H. Irigoyen 175,Mechongue,02266-493247,30-67680599-7,354,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,7 DS.C/REEMB.,7
+1162.00,Augusto Eynar Hugo,Pilotto 236,Dolores,0245-2970,23-05311565-9,154,(en blanco),Buenos Aires,No Inscripto,(en blanco),77,30 DS.F/FACT.,7
+1164.00,Caceres Argentino (F.Fabrel),Dr Carlos Madariaga 633,General Madariaga,02267-424543,20-08335431-4,77,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,30 DS.F/FACT.,7
+1167.00,Kiricos Carlos Andres,Mitre y Alem,Dolores,02245-447285,20-20950064-8,324,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,30 DS.F/FACT.OJO,7
+1169.00,Alba Horacio (Autosur),Boulevar y Paseo 104,Villa Gesell,0255-68542,20-08536575-5,225,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,"CDO ANTICIPADO DEV,MERCA",7
+1170.00,Gironetti Pedro Angel,Av.Bs Aires y Alameda 213,Villa Gesell,0255-68255,23-13196751-9,253,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,30 DS.F/FACT.,7
+1171.00,Diaz Gustavo Raul,Bv Gesell 2 465,Villa Gesell,0255-60615,20-13089789-5,125,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,30 DS.F/FACT,7
+1189.00,Stefano Horacio Alberto,Av Independencia y Brown,San Cayetano,02983-470125,23-13023795-9,583,horaciostafano@yahoo.com.ar,Buenos Aires,Inscripto   ,NESTOR,77,15 DS.C/REEMB.,7
+1190.00,Yraola Soldavini y Cia SA,San Martin Y Rivadavia,San Cayetano,02983-471704/471702/47170,30-52754061-1,505,yraolasoldavini@sernet.com.ar,Buenos Aires,Inscripto   ,(en blanco),77,7 DS.F/FACT,7
+1203.00,Bufil SRL,Av 25 de Mayo 1202,Formosa,03704-426406 SUC,30-61112049-0,495,(en blanco),Formosa,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+1204.00,Villa Rosa Belisa de,Juan Jose Silva 716,Formosa,0717-26675,27-03920808-9,160,(en blanco),Formosa,Inscripto   ,(en blanco),77,UNIC CONT. ANT. MALAS REF.,7
+1224.00,Minardi Sebastian,Avda Jacinto Peralta Ramos 899,Mar del Plata,0223-4822567,20-15239246-0,125,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,CDO.C/REEMB,7
+1226.00,Fleming Roberto Abel***,Calle 104  N°54,Mechongue,02266-493210,20-14848111-4,236,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,7 DS.C/REEMB.,7
+1227.00,Formaq Ferret.de Acuña Vidilfo,Av 9 de Julio 1363/67,Formosa,0717-25452/ 33370,20-05453251-3,74,(en blanco),Formosa,Inscripto   ,(en blanco),77,15 D C/REEMB,7
+1229.00,Quinteros Emilia Y Barral Gustavo R SH,Don Feliciano 115,San Salvador,0345-4910388,30-71168309-3,490,(en blanco),Entre Rios,Inscripto   ,GUSTAVO,77,30 DIAS COBIMPRO,7
+1230.00,Ferreteria Camilletti SRL,Brandsen 131,Formosa,0717-28250,30-64342326-6,314,(en blanco),Formosa,Inscripto   ,(en blanco),77,CONTADO ANTICIPADO.TARDA EN PAGAR,7
+1232.00,Venturini Juan Carlos(BULONOR),Calle 14 Nº 375,Avellaneda,03482-481609,20-13715429-4,136,bulonoravda@bulonor.com.ar,Santa Fe,Inscripto   ,Esteban / Javier / Juan Carlos,77,15 DS.C/REEMB.,7
+1252.00,Goiko S.A.,Av Mitre y 32,Miramar,02291-420890,30-52058200-9,163,shell-goiko@hotmail.com,Buenos Aires,Inscripto   ,Victoria/Noelia,77,7 DS.F/FACT VISITO NAHUEL 24/11/2008,7
+1257.00,Cocconi Lidia Lujan,Saenz Peña 2563,Ranchos,02241 475195 ,27-04200795-7,222,cocconiamotor@gmail.com,Buenos Aires,Inscripto   ,(en blanco),77,15 C/REEMB.OSCAR 6/10/08,7
+1259.00,Wicca SRL,Miguel Acuña 555,Cañuelas,02226-421143 int 18,30-70797836-4,366,compraswicca_srl@speedy.com.ar,Buenos Aires,Inscripto   ,Ruben/Elena.Compra Segura.Oscar 01/10/08,77,30 DS.C/REEMB,7
+1261.00,Funes Jaime,Ruta 88 Km 13,Batan,0223-4642211,20-15207294-6,125,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,30 DS.F/FACT,7
+1267.00,Parra Oscar Osvaldo,Alem 760,San Miguel del Monte,(en blanco),20-05386517-9,167,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,15 DIAS CONTRA REEMBOLSO,7
+1285.00,Ferronier SRL,Avda Mitre 1155,Zarate,03487-11304601,30-68675578-5,197,(en blanco),Buenos Aires,Inscripto   ,CLAUDIO,77,30 DS.F/FACT.,7
+1306.00,Ceriotti Sergio Alberto,Av. 9 Nº 4444,Miramar,0291-430257,20-16898296-9,240,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,30 DS.C/REEMB.,7
+1307.00,Brangeri Mario B.y Cavagnaro R,Uriburu 238,Alberti,02346-470213/470590,30-60262554-7,208,brancav@intercal.com.ar,Buenos Aires,Inscripto   ,(en blanco),77,7 DS.C/REEMB.OJO.FACT. AFUERA,7
+1315.00,Gomez Carlos Alberto,Sarmiento 498,Campana,03489-428797/ 15-51843528,20-13994429-2,525,jmeg@arnetbiz.com.ar,Buenos Aires,Inscripto   ,(en blanco),77,30 DS.F/FACT.,7
+1334.00,Iriarte Raul Alberto,Av Buenos Aires Y Jose Ingenieros,General Madariaga,02267-555645,20-08525623-9,909,campo_ciudad@hotmail.com,Buenos Aires,Inscripto   ,JULIETA,77,7 dias contra reembolso,7
+1353.00,Fibor S.A,Av. Juan B. Justo 5929,Mar del Plata,0223-4781344,30-66615871-3,155,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,Contado anticipado,7
+1373.00,Polowy Humberto N.(Vladimiro),Rivadavia 687,Campana,0489-22710,20-18520561-5,81,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,contado,7
+1383.00,Gonzalez Sergio (Bul.Avenida),Av. Gallesio 891,Zarate,03487-445878,20-14166413-2,197,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,15 DS.F/FACT.,7
+1398.00,Abrafer SRL***,"Ruta 8 Km 48,500",Pilar  (La Lonja),0230-4427209 /4426337,30-68159979-3,81,gestion@abrafersrl.com.ar/carolinaf@abrafersrl.co,Buenos Aires,Inscripto   ,Sergio 02304-435068 Ruta 28 Pilar,77,(en blanco),7
+1417.00,Guzman Omar L (Bul. Zarate),Sarmiento 66,Zarate,03487-427918,20-10082292-0,197,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,30 DS.F/FACT,7
+1421.00,Murano Ferret. Industrial SRL***,Rafael Obligado 6435,Villa Adelina,4766-6200,30-55832814-9,81,muranosrl@gmail.com,Buenos Aires,Inscripto   ,ENRIQUE,80.6,(en blanco),7
+1422.00,S.B Distribuciones SRL,Garay 1127,Mar del Plata,0223-4518406,30-70833092-9,186,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,Contado anticipado,7
+1426.00,Sanitarios Country de Fontan G,Ruta 8 Km 62 S/N,Fatima,0322-90172,27-18068581-8,81,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,contado,7
+1433.00,Chersicla Oscar Alfredo***,España 178,Villa Regina,0298-4462424/0298-4568882,20-08214194-5,705,germanchersicla@hotmail.com,Rio Negro,Inscripto   ,Oscar,77,30 DIAS C/REEMBOLSO,7
+1458.00,Cartazo Cristina,9 de Julio 346,Rawson-Chubut,0965-81381,00-00000000-0,83,(en blanco),Chubut,No Inscripto,(en blanco),77,falta cuir / 15 d c/reemb,7
+1459.00,Bonadeo Susana Raquel,Italia 615,General Viamonte (Los Toldos),02358-442521,27-05872810-7,517,borghialfredo@yahoo.com.ar,Buenos Aires,Monotributo ,(en blanco),77,7 DS FECHA FACTURA COBINPRO,7
+1464.00,Fantini Guillermo*DEP VIA CARGO PLOTIER,RIO NAHUEVE 36 BO UNION,Plottier,0299-5241528,20-25407243-6,789,buloneradasu@gmail.com,Neuquen,Inscripto   ,Francisco,77,15 dias c/reembolso,7
+1467.00,Monti SRL,Mitre 1501,General Roca,02984-429756-Sr  luis,30-71102482-0,532,montiferreteria@gmail.com,Rio Negro,Inscripto   ,Juan Jose Raimondo,77,CDO.ANTIC. SI O SI. BONIF ESPECIAL MAL PAGADOR,7
+1469.00,Soldair SRL,Alsina 296,Choele Choel,02946-442555,30-65459591-3,353,soldairsrl@gmail.com,Rio Negro,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+1476.00,Paz Jose Luis,Av. Belgrano 303 (Norte),Santa Rosa,02954-15575164,20-11699693-7,144,buloneranorte04@gmail.com,La Pampa,Monotributo ,(en blanco),77,7 DS.F/FACT.,7
+1479.00,Anconetani Abel David,Calle 28 Nº 625,General Pico,02302-435866,20-07354144-2,434,centrobulonero@ciudad.com.ar,La Pampa,Inscripto   ,ventas2@centrobulonero.com.ar,77,7 DS. FF,7
+1483.00,Martín Ángel Primavera Soc Unipersonal,Rivadavia 1287,Zarate,03487-423291,20-22739013-2,197,ferreteriaprimavera@gmail.com,Buenos Aires,Inscripto   ,(en blanco),77,15 DS.F/FACT.,7
+1502.00,Santomero Miguel A y Juan Carl,Av.Sabatini 2598,Rio Cuarto,0358-4626489,30-57129639-6,15,msantomeroehijos@arnet.com.ar,Cordoba,Inscripto   ,(en blanco),77,15 DS.F/FACT.,7
+1513.00,Jurado Agustin y Jurado Sergio,Av. Pio X Nº 208,Rio Tercero,03571-424895,30-66868701-2,202,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 DS.F/FACT. COMPRA A SEGURA,7
+1515.00,Loewen Carlos Roberto,25 de Mayo S/N,Canals,0463-20395,20-06560819-8,204,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 ds c/reembolso,7
+1518.00,Riglos Silvana Andrea,9 de Julio 405,Tapalque,0283-61028,27-22047650-8,174,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,30 DDS.C/REEMB.,7
+1521.00,Lueje Ricardo Hugo***,Rodriguez 1354,Tandil,02494-447845,23-05393751-9,738,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,7 DIAS FF,7
+1522.00,Laceiras y Laprovitera S.C,Av. San Martin 298,San Miguel del Monte,0271-20516,30-52203020-8,3,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,15 DIAS CONTRA REMBOLSO,7
+1534.00,Ferrecam Simple Asociacion*****,Av. Gral Quiroga 297,Facundo Quiroga,02317-491208,30-71660904-5,688,(en blanco),Buenos Aires,Inscripto   ,Morressi Enrique,77,30 DIAS C/REEMBOLSO,7
+1541.00,La Argentina Ferreteria Indust,Larrabure 1422,Campana,0489-40004/41529,30-55014642-9,185,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,30 DS.C/REEMB.,7
+1548.00,Avalos Nestor A (Bul. Comahue),Juan B. Justo 4916,Mar del Plata,0223-4104780/4781,20-08707010-8,470,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,7 DS.F/FACT.,7
+1550.00,Casa Eliceiry S.C,Taillade 99,Castelli,0245-80241,30-52671722-4,154,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,contado,7
+1555.00,Valisi Pedro Alberto,Julio A. Roca 2018,Sierras Bayas,02284-492154,20-05509111-1,402,corralonsierrasbayas@gmail.com,Buenos Aires,Inscripto   ,(en blanco),77,7 DS.F/FACT.,7
+1568.00,Basile Alberto Marcelo,Carlos Pellegrini 773,Bolivar,02314-428234 / 426548,20-13239476-9,132,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+1572.00,Angelani SRL,Av. Pereyra 3561,Saladillo,0344-55037-part.51335,30-65611207-3,181,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,CDO.ANTICIP.,7
+1579.00,Oubiña Osvaldo,Diag.Rivadavia y Lebenshon 30s,Mar de Ajo,02257-422202,20-11551611-0,222,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,30 DS.F/FACT.,7
+1581.00,Ruts Raul Norberto***,25 de Mayo 1118,Viedma,02920-15621437,20-18437859-1,389,(en blanco),Rio Negro,Inscripto   ,(en blanco),77,"EFECT. ADELANT/ OTRA FORMA NO. BONIF 79,25%",7
+1582.00,Llanquin Mariela Del Carmen,Moreno 9736,Viedma,02920-427669 Part. 21Hs,27-23286982-3,68,(en blanco),Rio Negro,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+1585.00,Quiroga Gabriela y Omar SH,San Martin 187,Sierra Grande,02934-481836,30-67289284-4,353,casagalo@canaldig.com.ar,Rio Negro,Inscripto   ,02920-15586233 Flavio,77,7 DS.F/FACT.,7
+1588.00,Distrisur Repuestos SRL,Buenos Aires 311,Plottier,0299-4933246,33-71603266-9,932,distrisur@fibertel.com.ar,Neuquen,Inscripto   ,(en blanco),77,15 DIAS F. FACTURA,7
+1589.00,Ramos Martinez Diego (TITAN ),Avda San Martin 268,Plottier,0299-4933315,20-18335786-8,584,casacentral@titanferreteria.com.ar,Neuquen,Inscripto   ,(en blanco),77,15 DS. F/FACT.,7
+1595.00,Mugnolo Marta Isabel (JOR-GE),Avda 3 Nº 3211 y Tala,San Clemente del Tuyo,0246-22706/21406,27-05457547-0,222,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,contado,7
+1596.00,Juguera Alberto Orlando,Avda 32 y 8,Santa Teresita,02246-520718,20-04529113-9,325,albertojuguera@argentina.com,Buenos Aires,Inscripto   ,(en blanco),77,contado,7
+1597.00,Puzzo Maria Rosa-Mangino Ferr.,Avda 32 Nº 1482,Santa Teresita,02246-421888,27-11305293-2,222,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,30 DS.F/FACT.,7
+1598.00,Castiglione Oscar Raul,Calle 41 Nº 1256,Santa Teresita,0246-20832,20-07719035-0,222,(en blanco),Buenos Aires,No Inscripto,(en blanco),77,(en blanco),7
+1602.00,Martin Jesus Maria,San Martin 703 esquina 9,San Clemente del Tuyu,0252-30627,20-13035878-1,222,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,(en blanco),7
+1603.00,Conte Luis Cesar,Av 26 Nº 335,Las Toninas,0246-31992,20-08371430-2,222,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,30 DS.C/REEMB.,7
+1605.00,Almansia Estefano (Dist.Fape),Av.3 N 2928,San Clemente del Tuyu,22730,27-04302487-1,222,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,(en blanco),7
+1607.00,Uribe Reaclio Francisco,Calle 3 Nº 2169,Santa Teresita,0246-20171,20-04393440-7,222,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,(en blanco),7
+1609.00,Stocchi Eduardo A(Ferr.Ludice),Calle 78 y 2 Nº 198,Mar del Tuyu,0246-20696,20-08111887-7,698,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,30 DS C/REEMBOLSO,7
+1616.00,Repuestos Capilla SRL,Moreno 625,Capilla del Señor,02323-492122,30-70829961-4,527,repuestoscapilla@yahoo.com.ar,Buenos Aires,Inscripto   ,(en blanco),77,7 DS.F/FAFCT.,7
+1623.00,Wiytiszen Orlando Alfredo,Av. Libertador 1572,Mar de Ajo,0257-20027,20-12518376-0,225,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,CDO C/REEMBOLSO,7
+1625.00,Di Stefano Americo,Ruta 8 KM 71500,Parada Robles,0323-71412,23-15282669-9,81,(en blanco),Buenos Aires,No Inscripto,(en blanco),77,contado,7
+1629.00,Rivero Fabiana,Santiago del Estero 164,Rio Gallegos,02966-423296,27-24861409-4,501,(en blanco),Santa Cruz,Inscripto   ,(en blanco),77,15 DS.C/REEMOLSO,7
+1630.00,Vazquez Martin***,Lebenson 6498,Mar del Plata,0223-4821791,20-28911346-1,178,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,30 DS F/FACT.DEV.MERCA,7
+1632.00,Vega Emilia Isabel,CORDOBA 507,Santa Rosa de Calamuchita,0546-20332,27-05265090-4,202,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 ds c/reembolso,7
+1638.00,Larisa Favole (Casa del Bulon),Bulevar Alvear 57,Villa Maria,0353-4521720,27-23497306-7,398,(en blanco),Cordoba,Inscripto   ,(en blanco),77,30 DS.C/REEMB.OJO CERRAROMN,7
+1640.00,Velez Carlos Alberto,Marcelo T.de Alvear 1328,Rio Cuarto,0358-4627748,20-08578192-9,15,(en blanco),Cordoba,Monotributo ,(en blanco),77,CDO.ANTICIPAOD.TARDO 8 MESES EN PAGAR,7
+1641.00,Magliano Ricardo Humberto,Moreno 327,Laboulaye,03385-428368,23-16723957-9,234,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 ds c/reembolso,7
+1642.00,Bonansea Marcos Agustin,Ruta 6 Nº 224,Dalmacio Velez,0353-4889065 Neg 889300,20-13094922-4,694,corralonlosprimos@hotmail.com,Cordoba,Inscripto   ,Marcos/Flor,77,15 DS.C/REEMB.,7
+1643.00,Moreno Miguel Bernardo,Avda Don Bosco 441,Los Condores,0571-93490,20-06602944-2,202,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15DS.C/REEMB.,7
+1644.00,Gimenez Carlos Raul,Carlos Pellegrini 201,General Levalle,0385-80290/80677,20-11963992-2,235,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 ds c/reembolso,7
+1649.00,Diaz Jorge Daniel,Avda. Luro y Chile,Mar del Plata,023-732252,20-05332100-4,125,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+1651.00,Bahia Blanca Ferreteria S.H,Gobernador Moyano 1155,El Calafate,02902-491046 / 492511,30-69199194-2,353,(en blanco),Santa Cruz,Inscripto   ,(en blanco),77,7 DS.C/REEMB.,7
+1666.00,Franchi Fabio Adrian,Pedro Goyena 79,Rio Cuarto,058-660168,20-18393723-6,245,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+1667.00,Lascalea Javier Agustin,Independencia 45,Santa Rosa de Calamuchita,03546-420172/ 420410,20-06594924-6,202,cabr1971@hotmail.com,Cordoba,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+1668.00,Barrandeguy Julio M. y Horacio,Urquiza 150,Alta Gracia,0547-21469,30-66823214-7,247,(en blanco),Cordoba,Inscripto   ,(en blanco),77,CDO.ANTICI.SI O SI,7
+1669.00,Perez Rossi Javier Gustavo,Av. del Libertador 806,Alta Gracia,03547-421561,23-21062072-9,485,divisionjp2012@gmail.com,Cordoba,Inscripto   ,CELESTE,77,15 DS.C/REEMB.,7
+1672.00,Rege Edgardo Henry Ruben,Moreno 147,Canals,03463-420616,20-17115307-8,204,(en blanco),Cordoba,Inscripto   ,(en blanco),77,CDO.ANTIC.PAGA COMO QUIZO,7
+1674.00,Calvar SRL,C. Soto 101,Villa Dolores,0544-20146/20269,30-52669701-0,177,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 DS.C/REEMB.SI O SI,7
+1676.00,Altamirano Jesus Eligio,Belgrano 750,Villa Cura Brochero,0544-70043/70476/70691,20-06451510-2,250,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 ds c/reembolso,7
+1679.00,Ladu Enrique y Ubaldo S.H,24 de Septiembre e Ing. Olmos,Achiras,0582-/95301/95049/95197,30-51487193-7,22,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+1680.00,Meroni Liliana Renne M. de,24 de Septiembre y Rivadavia,Achiras,0582-95118,27-12219155-4,22,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 ds c/reembolso,7
+1684.00,Hugas Carlos Eduardo Esteban.****,25 de Mayo y Uruguay,Trelew,0280-4420870/4432976,20-00588810-8,401,eduardohugas@gmail.com,Chubut,Inscripto   ,VALENTINA HUGAS - SEBASTIAN ,71.4,7 DS.F/FACT.,7
+1685.00,Miron Pablo,Av Libertad 8699,Mar del Plata,0223-4874706,20-20726200-6,354,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,7 DS.C/REEMB.,7
+1686.00,Tanarro Fernando Pablo,Mariano Moreno 931,Rio Gallegos,02966-422529,20-22427429-8,501,(en blanco),Santa Cruz,Inscripto   ,(en blanco),77,CDO.ANTICIP.OJO,7
+1688.00,Luis Moll Repuestos,Moreno y Alvarado,Nicanor Otamendi,0291-80133,20-08111621-0,132,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,15 DIAS CONTRA REEMBOLSO,7
+1689.00,El Profesor S.H de Constantino,Calle 19 y Av. Segunda,San Clemente del Tuyu,02252-421196,30-66778767-6,222,(en blanco),Buenos Aires,Monotributo ,(en blanco),77,7 DS.F/FACT.,7
+1690.00,Torres Gustavo Daniel,Calle 50 y Av. Septima,San Clemente del Tuyu,Movicom 066-226816,20-11814742-2,222,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,30 DS.F/FACT.OJO,7
+1713.00,Dadan Ruben Enrique,Av. Juan D. Peron 3497,Santa Rosa,02954-426320,20-07359856-8,465,"viverodadan@cpenet.com.ar
+",La Pampa,Inscripto   ,(en blanco),77,15 DIAS FF,7
+1719.00,Falbo Diego Alberto,Jose Ingenieros 1798,Santa Rosa,02954-704020,23-21971963-9,465,falbodiego@cpenet.com.ar,La Pampa,Inscripto   ,Marcos Es El Hijo De Diego,77,30 DS C/REEMBOLSO,7
+1735.00,Iverlux SA,San Juan 369,Cutral Co,0299-4964869,30-71244931-0,345,listas@edenindustrial.com,Neuquen,Inscripto   ,Leonardo Compras /Dueña Natalia Tarifeño,77,ANTICIPADO X CBU,7
+1750.00,Torneria Tomini S.A,Marcial Bravo 450,Centenario,0299-4891129,30-59961428-8,16,torneriatominisa@gmail.com,Neuquen,Inscripto   ,(en blanco),77,15 DIAS FECHA FACTURA,7
+1752.00,Cueto Mariana Elisa (USAR 8208) ,Gallardo 1086,San Carlos de Bariloche,02944-425591,27-16392106-0,421,ferreteria-lacentral@hotmail.com.ar,Rio Negro,Inscripto   ,JUAN- Mercedes - Mariana,77,7 DS.C/REEMB.,7
+1760.00,Todo Disel de Bide Dabel y Otr,Av. Uriburu 397,General Lamadrid,02286-420967-0286-20403-p,30-61587339-6,132,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,CDO.C/REEMB. SI O SI. MAL PAGADOR,7
+1767.00,La Montaña de Bovino/Inchausti,Calle 8 y 30,25 de Mayo,02345-462502,30-52616479-9,271,ferreterialamontana@speedy.com.ar,Buenos Aires,Inscripto   ,(en blanco),77,CDO.ANTICIPADO. SI O SI,7
+1773.00,Morosi Ricardo Eden***,Calle 11 y 28,25 de Mayo,02345-466066,23-05243056-9,271,ventas@casamorosi.com.ar,Buenos Aires,Inscripto   ,(en blanco),77,7 DS.C/REEMB.,7
+1775.00,Barrio Aniceto SRL,Av. Constitucion 1070,Pinamar,02254-490297 -483696,30-70729316-7,496,fjorgitointermedanos@hotmail.com,Buenos Aires,Inscripto   ,ferreteria-jorgito@hotmail.com,77,15 DS. FECHA FACTURA,7
+1788.00,Atilio M. Godino SACI I y F,Iturraspe 1398,San Francisco,0564-24536/20978/,30-53580944-1,286,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 ds c/reembolso,7
+1789.00,Vedelago Marcelo Octavio***,Av. Pte Peron 1001,Villa Maria,0353-4524964,20-18593568-0,285,mvedelago@arnet.com.ar,Cordoba,Inscripto   ,Fac 05-2007-devul 08/2007-se P Trans 80,77,ANTIC.DEBE $150 (TRANSP) DEV.MERCA bonif 79.25%,7
+1800.00,Romero Marta J.,Av.Los Caudillos 700,La Rioja,0380-426-9936 vigente,27-11674931-4,289,martaromeroo.1955@hotmail.com,La Rioja,Inscripto   ,CARLOS,77,7 DS.F/FACT.,7
+1803.00,De Brandi Daniel**,Belgrano 224,Chepes,03821-420310,20-17210821-1,118,omar_mfer@hotmail.com,La Rioja,Inscripto   ,(en blanco),77,15 DS C/REEMBOLSO.AVIS.ENTREG.,7
+1805.00,Leites Pedro C.***,Joaquin V. Gonzalez 680,Chepes,0821-20190 Part.,23-06730496-9,118,(en blanco),La Rioja,Inscripto   ,(en blanco),77,15 ds c/reembolso,7
+1807.00,Diaz Dian Construcciones SRL,Av. Hipolito Yrigoyen 1347,Catamarca,0833-28446,30-63259391-7,169,(en blanco),Catamarca,Inscripto   ,(en blanco),77,CONTADO ANTICIPADO. COMPRO Y DEVOLVIO,7
+1808.00,Arco Iris Pintureria y Maq. SRL,Mato Botello 782,Catamarca,03834-434383,30-66812968-0,288,(en blanco),Catamarca,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+1811.00,Dre Santiago Eros,Esquiu 740,Catamarca,0833-30829,20-07015312-3,287,(en blanco),Catamarca,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+1812.00,Martinez Cabral Alfredo Arturo,Justo Jose de Urquiza 516,La Rioja,03804-420544,20-13694588-3,301,ub_amc_lr@hotmail.com,La Rioja,Monotributo ,(en blanco),77,30 DS C/REEMBOLSO,7
+1813.00,Casa Peralta SRL,Joaquin V. Gonzalez 279,La Rioja,03804-426101,30-56176599-1,289,adrian_jorge_peralta@hotmail.com,La Rioja,Inscripto   ,ADRIAN,77,15DS.C/REEMB.,7
+1820.00,Hirsch Juan Antonio,Ruta 11 Km 140,Punta Indio,0221-90329-CEL 066512955,20-05173944-3,375,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,30 DS.F.FACT,7
+1821.00,Heraldo Jose Risso,Goenaga 690,Magdalena,0221-2549,20-01184579-8,292,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,30 DS.F/FACTURA,7
+1823.00,Merino H. Fidel,Lisandro de la Torre 774,Tandil,0293-50643/46643/Fax 4061,20-10799954-0,293,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,ÇONTADO ANTICIP.EFVO.,7
+1833.00,Casa Alcides Gerlach SH,Avda 9 de Julio 3880,Chajari,03456-421219,30-70738602-5,128,casaalcides@hotmail.com,Entre Rios,Inscripto   ,(en blanco),77,15 DS.F/FACT.,7
+1836.00,Marchan Mabel Beatriz,Colectora Norte Km 71500,Campana,0489-41468,27-12611728-6,185,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,30 DS.F/FACT.,7
+1847.00,Andres D´Aquila E Hijos SRL,Av. 15 N 474,Villa Gesell,02255-460815,30-71056411-2,698,dandres@gesell.com.ar,Buenos Aires,Inscripto   ,(en blanco),77,15 DIAS FF,7
+1853.00,Tejeda Marta y Isola Raul SH,J. Del Barco 495,Villa Del Rosario,0573-22707/22704,33-70786489-9,452,hiercons@covinter.com.ar,Cordoba,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+1855.00,Juan Giaveno y CIA SCC,Santo Domingo 54,Brinkmann,0562-80102,30-52532335-4,71,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 ds c/8reembolso,7
+1856.00,Galvan Ricardo Alberto,Boulevar San Martin 335,Brinkmann,0562-80172,20-06447545-3,71,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 C/RREMB. LE DIJO A OSCAR QUE LE COMPRA JAG,7
+1857.00,Casalotti Zorrilla Alberto V.,Caseros 652,Santa Rosa de Rio Primero,03574-480221,20-21023779-9,71,acasalotti@dat32.com.ar,Cordoba,Inscripto   ,(en blanco),77,CERRO EL 01/05/2006,7
+1867.00,Cappelatti Olga Ester,25 de Mayo 2012,Resistencia,03624-463695,27-06151382-0,136,(en blanco),Chaco,Inscripto   ,(en blanco),77,7 DS.C/REEMB.,7
+1869.00,Vanasco Graciela Del Carmen*******,Av 3 de Abril 842,CORRIENTES,03794-437420,27-11464624-0,320,profe.raul.sandoval@gmail.com,Corrientes,Monotributo ,RAUL SANDOVAL,77,30 ds FECHA FACTURA,7
+1875.00,Patat Juan Carlos Y Manucci Ilda SH****,9 de Julio 966,La Paz,03437-422009,30-65049264-8,704,agrolapaz@gmail.com,Entre Rios,Inscripto   ,CARLOS,77,15 DS fecha factura ,7
+1877.00,El Siglo Ferreteria SH,Marconi 1541,Tandil,0249-154501047,30-63747832-6,132,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,CDO.ANTICIP.DEV.MERCA,7
+1886.00,Albanesi Mario Anibal,Altte. Brown 15,Zarate,0487-37030// Part. 21072,20-07656297-1,387,(en blanco),Buenos Aires,Monotributo ,(en blanco),77,30 DS.C/REEMB.,7
+1887.00,Tecnomecanica Estevan SRL****,Sarmiento 606,Puerto Madryn,0280-4451215 salon,30-60636827-1,115,compras@tecestevan.com.ar,Chubut,Inscripto   ,EDU/FACU ,77,7 DS.F/FACT.,7
+1888.00,Tonello S.A,San Martin 414,Federacion,03456-481574,30-70757868-4,128,tonellosa@xinet.com.ar  tonellosa1@gmail.com,Entre Rios,Inscripto   ,Maria,77,15 DS.fecha factura,7
+1892.00,Comercial Lavalle S.A,Av. Lavalle 4469,Posadas,0752-31471,30-59253486-6,11,(en blanco),Misiones,Inscripto   ,(en blanco),71.3,15 ds c/reembolso,7
+1897.00,Wegner Erbino Emilio,Avda del Te 615,Campo Viera,03755-497225,20-12026589-0,438,(en blanco),Misiones,Inscripto   ,(en blanco),71.3,30 DS.C/REEMB.,7
+1898.00,Tereczuk Martin Angel,Belgrano 1059,Leandro N. Alem,0754-20750,20-11378433-5,308,(en blanco),Misiones,Inscripto   ,(en blanco),71.3,15 ds c/reembolso,7
+1899.00,Pinto Gonzalo y Amadei M. T,Av. Gallesio 234,Zarate,03487-420042,30-68680352-6,146,info@pinto-maquinarias.com.ar,Buenos Aires,Inscripto   ,SABRINA RIVERO,77,15 DS.C/REEMB.,7
+1900.00,Gonzalez Ruperto Jose,Ex Ruta 213 Nº 7195,Posadas,0752-51816,20-08541107-2,11,(en blanco),Misiones,Inscripto   ,(en blanco),71.3,15 ds c/reembolso,7
+1901.00,Sanchez Negrete Manuel Alejand,Manzana Nº 125 E,Santa Ana,03764-15647630,20-27810159-1,11,(en blanco),Misiones,Inscripto   ,(en blanco),71.3,CDO.ANTICIP.DEV.MERC.,7
+1902.00,Ferret.Integral del Este SRL,Av. San Martin 2790 Este,El Dorado,03751-420577,30-67245042-6,18,(en blanco),Misiones,Inscripto   ,(en blanco),71.3,CDO.C/REEMB.,7
+1903.00,Ferro Norte De Jacob Patricia,Av. Andresito 176,Obera,0755-21318,23-20476062-4,105,(en blanco),Misiones,Inscripto   ,(en blanco),71.3,15 ds c/reembolso,7
+1904.00,Esquivel Esteban (Ferrocentro),Libertad S/N,Libertad,0757-96085,00-00000000-0,18,(en blanco),Misiones,Inscripto   ,(en blanco),71.3,15 DS C/REEMBOLSO. FALTA CUIT,7
+1909.00,Viveros Victor Raul,Av. Roque Perez 2002,Posadas,0752-27121,00-00000000-0,18,(en blanco),Misiones,Inscripto   ,(en blanco),71.3,15 DS C/REEMB. FALTA CUIT,7
+1911.00,Baiardi Ernesto J. M.,Avda 20 de Junio Nº 70,Villa Maza,02935-498035,20-05416539-1,514,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+1917.00,Aranaga Jorge Antonio,Av. Circunvalacion 265,Mechongue,02266-493323,20-12848609-8,291,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,devolvio set 31,7
+1931.00,Suc. de Manuel Villacorta SRL,San Juan 328,Quitilipi,03732-480023/480401,30-55165534-9,136,(en blanco),Chaco,Inscripto   ,(en blanco),77,15 ds c/reembolso,7
+1936.00,Jordana Crepaldi****,Alberdi 340/44,Clorinda,03718-421218 PART 03718-4,20-08232549-3,313,jordanacrepaldi8@hotmail.com,Formosa,Inscripto   ,(en blanco),77,30 DIAS C/REEMBOLSO,7
+1940.00,Abbet Eduardo Daniel***,Iriondo 758,Reconquista,03482-428935,20-11628296-9,136,ingeda@trcnet.com.ar,Santa Fe,Inscripto   ,EDUARDO,77,CONTADO ANTICIPADO. NO CAMBIAR ESTA CONDICION,7
+1954.00,Arango Susana Beatriz (J.R Ferret.),Jorge 280,Valeria del Mar,0254-86243,27-05321841-0,125,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,CDO C/REEMBOLSO,7
+1959.00,Ferrero Miguel Angel,Gral Jones 1732,Las Breñas,03731-460023,23-12120500-9,136,miferrero@yahoo.com.ar,Chaco,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+1963.00,Massin Abel y Nadalich Osvaldo SH,Hipolito Irigoyen 1131,Reconquista,03482-428001,33-70717933-9,137,bulonerareconquista@arnetbiz.com.ar,Santa Fe,Inscripto   ,(en blanco),77,30 DS.C/REEMB.,7
+1970.00,Alvarez Alberto Reynaldo,Calle 8 S/N entre 7 y 9,General Pinedo,(en blanco),20-11869681-7,136,(en blanco),Chaco,Inscripto   ,(en blanco),77,15 DS.C/REEMB. FALTA TELEFONO,7
+1971.00,Saucuns Jesus Victor,Gdor C. Silvestre Begnis 1444,Tostado,0491-70226,00-00000000-0,100,(en blanco),Santa Fe,Inscripto   ,(en blanco),77,30 DS.C/REEMB.,7
+1982.00,Suarez Tomas Carlos,Avda 3 Nº 3339,Villa Gesell,0255-66271,20-07599936-5,297,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,30 DS.FECHA FACT,7
+2001.00,Peralta Manuel Silvano,Falucho 807,Tandil,0249-4425395,20-05372455-9,229,zingueriasperalta@hotmail.com,Buenos Aires,Inscripto   ,(en blanco),77,15 DIAS C/ REEMBOLSO,7
+2011.00,Mazza Isotta C (El Vesuvio),Av 3 y 21,San Clemente del Tuyu,052-21365,27-33906823-8,222,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+2013.00,Faccioli Mario Roberto,Av. Jacinto Peralta Ramos 1670,Mar del Plata,0223-4812446/ 0223-155-24,20-11737584-7,399,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,CDO/REEMB.,7
+2015.00,Garcia Julio Ramon,Lunghi 847,Tandil,02494-452572,20-23209047-3,738,elferreterito@hotmail.com,Buenos Aires,Monotributo ,(en blanco),77,30 dsS.C/REEMB.,7
+2021.00,Calabro Nestor Fabian ****,San Martin 1576,San Antonio Oeste,02934-422244,20-20124174-0,345,bulonerafabisur@hotmail.com,Rio Negro,Inscripto   ,(en blanco),77,15 DS.F/FACT.nos debe A 042 cant 10 (retirar),7
+2024.00,Bracco Rodolfo A.***,Rivadavia y Mitre,General Pinto,02356-420990,20-12830096-2,548,braccorodolfo@hotmail.com,Buenos Aires,Inscripto   ,(en blanco),77,30 DIAS C/REEMBOLSO. TARDA MUCHO EN PAGAR,7
+2025.00,Vicuña Marcelo Gabriel,Las Heras 177,Carlos Casares,02395-455096,20-17498612-7,76,marcelo_vicu@hotmail.com,Buenos Aires,Inscripto   ,(en blanco),77,15 ds c/reembolso,7
+2026.00,Macelliari Juan Carlos,Calle 11 Nº 2255,Claromeco,0982-80309,20-12940188-6,330,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,30 DS.C/REEMB.,7
+2030.00,Coop. Agric.Gan. Ltda Puan****,España 221,Puan,02923-498003/04/05 INT219,33-52634956-9,216,ferreteriacagp@gmail.com,Buenos Aires,Inscripto   ,Denegri Jose Luis,77,7 DS.F/FACT.,7
+2031.00,Fermani Jorge Jesus***,Pueyrredon 110,Pigue,02923-404047,20-10212155-5,213,bulonfer@hotmail.com,Buenos Aires,Inscripto   ,(en blanco),77,7 DS.F/FACT.,7
+2034.00,Destain Hector O.y Andino Domi,Calle 18 Nº 563,San Francisco Bellocq,02982-497143 TAX 497064,33-66745734-9,25,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,7 DS.F/FACT.,7
+2052.00,Kees Mario Alberto***,Stikar 174,Darregueira,02924-420090,20-11040637-1,337,ferreteriajrc@hotmail.com,Buenos Aires,Inscripto   ,(en blanco),77,10 DS.F/FACT.,7
+2053.00,Ferreteria Viler SRL,Avda Belgrano 43,Leandro N. Alem,3754-523331,30-68789349-9,100,vilersrl.alem@gmail.com,Misiones,Inscripto   ,(en blanco),71.3,7 DIas c/reembolso. fata transporte,7
+2067.00,Bulonera del Litoral S.A,Pascual Palma 468,Parana,0343-4316070/4223836,30-52013676-9,239,marianojozami@bdl.com.ar,Entre Rios,Inscripto   ,patricia@bdl.com.ar,77,7 DS.F/FACT. BUEN CLIENTE. TRATA VENDER MAS,7
+2068.00,Painecura Armando Luis,Autom. Club Arg. y Mozategui,San Antonio Oeste,02934-430755,20-07397045-9,68,laesquina_ferreteria@hotmail.com,Rio Negro,Inscripto   ,(en blanco),77,7 DS.F/FACT.,7
+2070.00,Beltramone Ana Mariaa,H. Yrigoyen 648,Trelew,02804-443401,27-04277008-1,342,(en blanco),Chubut,Inscripto   ,(en blanco),77,CDO.ANTICIP.DEV.MERCA.,7
+2072.00,Soteras Hector Alberto****,San Martin 277,Puerto Madryn,02804-452950,23-08472218-9,83,bulmet@bulmet.com.ar,Chubut,Inscripto   ,(en blanco),77,PAGO ANTICIPADO GUILLE NO LO ATIENDE +,7
+2074.00,D'Alessandro Rosana Andrea,Av. H. Yrigoyen 2549,Comodoro Rivadavia,097-484025/485025/485002,27-16284448-8,342,(en blanco),Chubut,Inscripto   ,(en blanco),77,"DEBE $ 398,91 DEL 7/6/1999",7
+2076.00,Korthals Ferreteria,Alsina 836,Comodoro Rivadavia,097-462913,11-11111111-1,83,(en blanco),Chubut,Monotributo ,(en blanco),77,15 DS.C/REEMB.,7
+2077.00,Pedro Neumann,San Martin 1856,Caleta Olivia,02967-4851225,20-08397885-7,109,(en blanco),Santa Cruz,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+2079.00,Albania Nestor Hugo,Pasaje Inmigrantes 363,Rawson,0965-81836,23-07324538-9,193,(en blanco),Chubut,Inscripto   ,(en blanco),77,30 DS.F/FACT.,7
+2080.00,Thomas Oscar Y.,E. Tella 634,Gaiman,02804-491032,20-07321282-1,115,(en blanco),Chubut,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+2094.00,Barrera Gustavo Daniel,Yuqueri S/N,Icho Cruz,0541-95616,20-21655814-7,348,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+2113.00,Bereilh Monica Beatriz,Martinez Guerrero 1600,General Madariaga,068-83576 / Fax 0267-2457,27-13810243-8,77,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,CDO.C/REEMB.,7
+2121.00,Policani Liliana y Ruben S.H,San Martin 700,General Alvear,02344-481846/481900,33-66761741-9,174,policanish@gmail.com,Buenos Aires,Inscripto   ,(en blanco),77,7 DS.C/REEMB.,7
+2122.00,Rodriguez Marcos Diego,Pizarro 55,Rio Cuarto,0358-155-063873,20-22233069-7,15,(en blanco),Cordoba,Inscripto   ,(en blanco),77,CDO.ANTICIPADO.DEV.MERCA,7
+2127.00,Rampoldi Maximiliano,Yrigoyen 1446,Tandil,02494-432948,23-30001165-9,166,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,CDO C/ REEMBOLSO,7
+2135.00,Rodriguez Roberto y Sergio,"Ruta Prov. Nº 88 Km 5,5",Mar del Plata,0223-4654077,30-62682583-0,399,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,7 DS.F/FACT.,7
+2136.00,Pardo Juan Enrique,Av. Alio 679,Mar del Plata,0223-4782352,20-04401533-2,354,(en blanco),Buenos Aires,Monotributo ,(en blanco),77,15 DS.C/REEMB.,7
+2137.00,Desiderio Nicolas,Colon 6905,Mar del Plata,0223-4787497,24-13552663-7,155,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,15DS.C/REEMB.,7
+2145.00,Fernandez Roberto Emilio,Ayacucho 245 (Ex 629),Posadas,0752-37739 /Cel 0769-4403,20-11850762-3,18,(en blanco),Misiones,Inscripto   ,EMILIO / AMALIA,71.3,15 ds c/reembolso,7
+2146.00,Lattuca Julia Juana,Av. Tambor de Tacuari 3679,Posadas,0752-32362,27-05701015-6,306,(en blanco),Misiones,Inscripto   ,(en blanco),71.3,15 DS C/REEMBOLSO.,7
+2147.00,Gonzalez Domingo Cesar,Ruta Pcial 7 S/N,Aristobulo del Valle,03755-470496,20-10267545-3,18,(en blanco),Misiones,Inscripto   ,(en blanco),71.3,CDO ANT. se pone de acuerdo c/trans y no paga,7
+2148.00,Schoninger Armando,Av. San Martin S/N,25 de Mayo,03755-493077,20-15302691-3,438,(en blanco),Misiones,Inscripto   ,(en blanco),71.3,15 DS.C/REEMB.,7
+2155.00,Krausen Norberto,Av Libertad 426,Jardin  America,03743-461325,20-17751863-9,18,(en blanco),Misiones,Inscripto   ,(en blanco),71.3,15 DS.C/REEMB.,7
+2156.00,Rietz Jorge,Lopez y Planes 1082,Aristobulo del Valle,0755-70328,00-00000000-0,18,(en blanco),Misiones,Inscripto   ,(en blanco),71.3,15 DIAS C/ REEMBOLSO. FALTA CUIT,7
+2167.00,Roberts Roy Guillermo,Av. Alvear 1691,Esquel,0945-52572/50519,20-07810107-6,362,(en blanco),Chubut,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+2174.00,Hernandez Esteban,Av. Pereyra 1798,Laprida,02285-420128,20-05490684-7,268,agroindustriallaesquina@gmail.com,Buenos Aires,Inscripto   ,(en blanco),77,15 DS.fecha factura,7
+2179.00,Lucero Gladis Mabel,Circunv. 4º entre 32 y 34,Veronica,02221-480470,27-17599532-9,292,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,CDO.ANTICIPADO.DEV.MERCA.,7
+2188.00,Kun Horacio Benjamin,Calabria 9064,Mar del Plata,0223-4812782,23-08289000-9,186,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,7 DS.C/REEMB.,7
+2189.00,Santos Jose Manuel,R.Universitaria 418,Mar del Plata,023-817206-Part\ 22 Hs,23-05314563-9,125,(en blanco),Buenos Aires,No Inscripto,(en blanco),77,15 ds c/reembolso,7
+2190.00,Mellusso Daniel Enrique,Calle 519 N2445,Quequen,02262-15501238,20-12692160-9,419,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,CDO.C/REEMB.,7
+2199.00,Anibal Estrada Sucesores,San Martin 1680,Rio Cuarto,0358-4650249,20-02966498-7,15,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+2201.00,Carrizo Carlos Horacio,San Martin Nº 7,Villa Union,03825-470391,20-08017129-4,289,(en blanco),La Rioja,Inscripto   ,(en blanco),77,30 DS.C/REEMB.,7
+2202.00,Vassellati Rita Norma,Libertad 260,Chilecito,0825-25309,27-05016996-6,289,(en blanco),La Rioja,Inscripto   ,(en blanco),77,30 DS.C/REEMB.,7
+2207.00,Seia Fernando,Rivadavia 432,Capilla del Monte,0548-81229,20-08277577-4,249,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 C/REEMB.,7
+2208.00,Ruiz Marcelo,Thomas Edison 2124,Cruz del Eje,0549-23530. Crl:076-63732,20-13408049-4,249,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 ds c/reembolso,7
+2209.00,Benigno Granillo ,Libertad 269,Chilecito,03825-42267,20-03014662-0,289,(en blanco),La Rioja,Monotributo ,(en blanco),77,Cdo anticipado,7
+2210.00,Orquera Blas Edgardo,Tristan Villafañe 127,Tinogasta,0837-20351,20-10883451-0,1,(en blanco),Catamarca,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+2211.00,Masseroni y Galli Miguel Angel,Hipolito Irigoyen 1983,Rio Cuarto,0358-4622958,30-70819492-8,15,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+2212.00,Borras Juan Jose,Belgrano 155,Canals,03463-420620,20-10602126-1,204,(en blanco),Cordoba,Inscripto   ,(en blanco),77,7 DS.C/REEMB.,7
+2218.00,C.M.S. SA,Dean J. Alvarez 262,Parana,0343-4344344,30-70822530-0,239,compras@ferrenet.net,Entre Rios,Inscripto   ,MARIANA (PAGOS),77,15 DIAS FECHA FACTURA,7
+2223.00,Ordinas Jose,Castelli 75,Bolivar,0314-24147,20-15202452-6,132,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,30 DS.F/FACT.,7
+2230.00,A.B.S SH De Ariozzi y Busso,Rivadavia 1346,Zarate,03487-442140,30-68680475-1,185,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,30 DS.F/FACT.OJO,7
+2234.00,Delia Pascual Rene*****,Ruta 8 Km 77,Parada Robles,02323-478403 /473108,20-17715793-8,81,ferredel@hotmail.com,Buenos Aires,Inscripto   ,(en blanco),77,(en blanco),7
+2235.00,Venegas Maria Aurolina,Pueyrredon 508,Capilla del Monte,03548-482341,27-92999591-6,220,(en blanco),Cordoba,Monotributo ,(en blanco),77,CDO.ANTICIPADO. SI O SI,7
+2256.00,Roca Maria Paula,Mendoza 301,Quitilipi,03644-481211,27-21662297-4,136,(en blanco),Chaco,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+2260.00,Zitti Hnos,Av 49 y 199,Lisandro Olmos,021-961264,30-55975807-4,225,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,30 DS.C/REEMB.,7
+2261.00,Marenzi Daniel Alejandro,Calle 44 esquina 195,Lisandro Olmos,0221-4963014,20-16260403-2,222,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,CDO.ANTICIPADO,7
+2279.00,Decicilia y Lascano SC,Camino Gral Belgrano e/505y506,M.B. Gonnet,0221-4842241,30-62655466-7,222,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,30 DS.C/REEMB.,7
+2280.00,Dracz Pedro Andrés,Calle 500 esq. 28,M.B. Gonnet,0221-4845390,20-08316056-0,188,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,30 DS.F/FACT.,7
+2294.00,Cancino Ricardo y Espeche Nest,Av Los Notros 444,Lago Puelo,0944-99243,30-67036453-0,264,(en blanco),Chubut,Inscripto   ,(en blanco),77,30 DS.C/REEMB.,7
+2296.00,HSU PO YA,Sarmiento y Rivadavia,Esquel,0945-51320,27-92752466-5,353,(en blanco),Chubut,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+2301.00,Baldi Carreira Neto S.H,Pringles 3744,Olavarria,0284-28208,30-66663139-7,384,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,15 DIAS C/REEMBOLSO.,7
+2302.00,Chiaverano Jorge Omar,Carlos Pellegrini 858,General Alvear,0344-81999,20-07781279-3,174,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,30 DS.F/FACT.,7
+2303.00,Corridoni Oscar Alberto,Luciano Fortabat 1654,Olavarria (Villa Fortabat) ,0284-93713,20-05439389-0,100,(en blanco),Buenos Aires,Monotributo ,(en blanco),77,contado,7
+2304.00,Ciancaglini Enzo,Av. Carricart  684,Gonzalez Chavez,02983-484243,20-36764815-6,298,tybciancaglini@hotmail.com,Buenos Aires,Inscripto   ,(en blanco),77,30 DS,7
+2306.00,Durand Abel,"Ruta 226 Km 163,500",Tandil,0249-4421959,20-07762683-3,132,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,CDO ANTIC. SI O SI,7
+2307.00,Sepulveda Juan Manuel***,C El Tabaco Y Conq D/Desierto(GalponSSP),Neuquen,0299-4421961,20-23641427-3,901,facundok@siglo21myh.com.ar,Neuquen,Inscripto   ,Jsepulveda@siglo21myh.com.ar,77,ANTICIPADO X PEDIDO CLIENTE,7
+2339.00,Raschilla Jose Nicodemo,Tucuman 42,Viedma,(en blanco),20-10994840-4,68,(en blanco),Rio Negro,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+2340.00,Sucesion De Lezcano Omar Huber,Calle 24 Nº 336,Pedro Luro,02928-420136,20-05459321-0,389,repuestoshuber@yahoo.com.ar,Buenos Aires,Inscripto   ,Humberto,77,15 DS.C/REEMB.,7
+2344.00,Andreozzi Facundo,Espora 917,Valeria del Mar,0254-87045,20-21832079-2,222,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,30 DS.C/REEMB.,7
+2345.00,Palermo Nestor Roberto,Calle 71 Nº 103,Mar del Tuyu,02246-435298,20-04860648-3,222,(en blanco),Buenos Aires,Monotributo ,(en blanco),77,30 DS.C/REEMB.,7
+2346.00,Diaz Alberto Jesus,Calle 37 esqina 10,Santa Teresita,0246-20854,20-04850549-0,225,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,30 DS.F/FACT.,7
+2347.00,Mangino Pablo Jose,Calle 31 Nº 401 esq. 4,Santa Teresita,0246-21888,20-10887762-7,222,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,NO VISITAR CAMBIO X SEGURA ES HIJO DE PUTA,7
+2348.00,Leiro Carlos Omar,Av. Bvar Gesell 1215,Villa Gesell,0255-60925,20-18500954-9,253,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,30 DS.C/REEMB.,7
+2355.00,Aguero Jose Alberto,Alsina 388,Las Lajas,02942-499590,20-23727737-7,692,ferr_seb1974@hotmail.com.ar,Neuquen,Inscripto   ,(en blanco),77,30 DIAS FF,7
+2360.00,Samaniego Rodolfo Samuel,Av San Martin 4553,Posadas,03764-466254,20-08541092-0,18,(en blanco),Misiones,Inscripto   ,(en blanco),71.3,15 DIAS C/REEMBOLSO.,7
+2362.00,Minetti Natalio,Mendoza 1524,Villa Maria,0353-4525087,20-06570783-8,393,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+2364.00,Taglialegna Gustavo,Roma 1279,Rio Cuarto,0358-4627953,20-22843839-2,15,(en blanco),Cordoba,Monotributo ,(en blanco),77,15 DS.C/REEMB.,7
+2368.00,Alfonso Alejandro Antonio,Av Velez Sarfield 1081,La Carlota,03584-421641,20-06657884-5,80,alfonsoale1946@hotmail.com,Cordoba,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+2383.00,Iribarren Susana,Avda Peron 1014,Tandil,02494-443240,27-03737533-6,328,(en blanco),Buenos Aires,Monotributo ,(en blanco),77,15 DS C/REEMB.,7
+2385.00,Perez Marta y Perez Cristina S,Edison 576,Bolivar,02314-427207,30-61691506-8,132,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,30 DS.F/FACT.,7
+2390.00,Ortega Enrique Claudio,Av. Falucho 831,Tandil,02494-440330,20-14718637-2,79,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,15 DIAS C/REEMB.,7
+2399.00,Vincze Alicia Del Carmen,Moreno 2235,Vera,03483-421099,27-17827344-8,117,(en blanco),Santa Fe,Monotributo ,(en blanco),77,30 DS.C/REEMB,7
+2411.00,Ikert Waldemar (Rep. El Pibe),Av. San Martin S/N,25 de Mayo,03755-493235,20-92045058-0,388,(en blanco),Misiones,Inscripto   ,(en blanco),71.3,15 DS.C/REEMB.,7
+2416.00,Majluf Julio,San Martin 34,Dolores,02245-446753,20-13431031-7,156,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,CDO ANTIC. DEV. MERCADERIA Y PAGAMOS $ 260,7
+2419.00,Eslabones SRL,"Ruta 88 Km 4,5",Mar del Plata,0223-4654239,33-62247555-9,553,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,contado anticipado ojo convocatoria,7
+2426.00,Jocobsbsen Chistrin Jorge,Jose Hernandez 1045,Caleta Olivia,0297-4858190,20-26254653-6,401,(en blanco),Santa Cruz,Inscripto   ,(en blanco),77,15 DS.C/REEMOLSO,7
+2441.00,Trabajadores Unidos Coop. Mixta Ltda,Calle España Esq Belgrano Nº 201,Anguil,02954-495058 / 495170,30-52709481-6,144,repuestosanguil@hotmail.com,La Pampa,Inscripto   ,Adrian Boe Compras,77,15 DS.F/FACTURA,7
+2443.00,Lostuzzi Carlos Hugo****,Zeballos 443,Guatrache,02924-492033/492647,20-12540929-7,144,bacorepuestos@lpguatrache.com.ar,La Pampa,Inscripto   ,(en blanco),77,30 DS C/REEMBOLSO,7
+2446.00,Calandri Victorica Ctro Com.SA,Calle 17 Nº 517,Victorica,02338-432214,33-57683342-9,952,calandri_listaprecios@hotmail.com,La Pampa,Inscripto   ,(en blanco),77,30 DS CONTRA REEMBOLSO.,7
+2453.00,Draghi Mario Fernando,Garibaldi 1260,Tandil,02494-427688,20-12632880-0,328,mariofdraghi@yahoo.com.ar,Buenos Aires,Inscripto   ,(en blanco),77,CDO.ANTICIPADO.DEV.MERCA.,7
+2459.00,Godino D. y Trovarelli Isidro,Av. Amadeo Sabattini 2933,Rio Cuarto,0358-4621432,30-53712336-9,369,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 ds c/reembolso,7
+2501.00,Pepermans Raul y Ricardo,Caseros 1750,Villa Ocampo,03482-466400,30-50594018-7,136,(en blanco),Santa Fe,Inscripto   ,(en blanco),77,30 DS.C/REEMB.,7
+2502.00,Veuthey Alberto OMAR,Libertad 238,Machagai,03734-470142/ fax 03734-4,20-07931100-7,136,casaveuthey@hotmail.com,Chaco,Inscripto   ,(en blanco),77,7 DS.F/FACTURA,7
+2506.00,Agroventas SRL,Sarmiento 800,Joaquin V Gonzalez,03877-422231,30-70896224-0,150,agroventas@agoventasweb.com.ar,Salta,Inscripto   ,VERONICA Meneses,77,30 DS C/REEMBOLSO,7
+2508.00,Ajeanmart Carlos,San Martin 554,Ayacucho,02296-452571,20-05334137-4,227,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,15 ds c/reembolso,7
+2510.00,Rojas Jose Alberto,Saenz Peña 1056,Ayacucho,02296-452992,23-05328872-3,227,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,15 S.C/REEMB.,7
+2511.00,Retrivi Ruben A.,Italia y Rojas,San Miguel del Monte,02271-442389,20-10747033-7,142,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,15 DS.C/REEMB,7
+2512.00,Fernandez Miriam,Alem y Saenz Peña,San Miguel del Monte,02226-15516549,27-16506028-3,142,oximonte@hotmail.com,Buenos Aires,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+2525.00,Sucesion De Ayala Francisco,Av Roca s/n. Bº San Francisco,Ldor General San Martin,03886-424609/423009,20-05521620-8,414,grisumateriales@hotmail.com,Jujuy,Inscripto   ,GLADYS MORALES,77,"BONIF 79,25%$ MAL PAGADOR15/DSF/pago anticipado",7
+2526.00,Migliorino Carmelo Adolfo,Tte Ibañes 453,General Guemez,0387-4911410,20-08172246-4,414,proveedores@carmelorepuestos.com.ar,Salta,Inscripto   ,(en blanco),77,15 DS.F/FACT.,7
+2528.00,Gomez Wilinsky Sebastian,Tucuman 461,San Pedro,03888-423577,23-30009654-9,417,bulonerayferreteriagomez@hotmail.com.ar,Jujuy,Monotributo ,03888-15532495 GONZALO,77,30 DS.C/REEMB.,7
+2533.00,Barale Walter Marcelo***,25 de Mayo y Figueroa,Rosario de la Frontera,03876-15663716 / 483082,20-17768281-1,150,norte_bulones@hotmail.com,Salta,Inscripto   ,(en blanco),77,7 DIAS FECHA FACTURA COBIMPRO,7
+2537.00,Pino Luis Ernesto,20 de Febrero 53 / 73,Tartagal,03873-422194,20-12448932-7,414,(en blanco),Salta,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+2558.00,Muñoz Jara Rolando,Eva Peron 325,Caleta Olivia,0297-4851056,20-18686669-0,109,(en blanco),Santa Cruz,Inscripto   ,(en blanco),77,15/30 DS.C/REEMB.,7
+2561.00,Carrara Nestor Eugenio,Roque Saenz Peña 366,Puerto Madryn,02804-474599,20-05082298-3,193,(en blanco),Chubut,Inscripto   ,(en blanco),77,15 DS C/REEM.,7
+2562.00,Minio Julian,San Martin 937,Pico Truncado,0297-4992017,23-14111423-9,109,(en blanco),Santa Cruz,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+2563.00,Daia SRL,Sarmiento y Prito Moreno,Pico Truncado,0297-4992748 /4991334,11-11111111-1,353,(en blanco),Santa Cruz,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+2572.00,Sanchez Nestor Javier,Belgrano 216,Cmte Luis Piedra Buena,02962-/ 497856,20-23400458-2,401,(en blanco),Santa Cruz,Monotributo ,(en blanco),77,"DEV.MERCA / PAGAMOS FLETE, UNIC. ANTICIPADO",7
+2577.00,El Tehuelche S.A.C.I.C.I,Jose Ingenieros 695,Rio Gallegos,02966-422173/422174/43185,11-11111111-1,400,(en blanco),Santa Cruz,Inscripto   ,(en blanco),77,15 DS.C/REEMOLSO,7
+2585.00,Rausch Matias Javier,Sarmiento 286,Macachin,02953-15410078,20-33657383-2,144,m.rausch@hotmail.es,La Pampa,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+2588.00,Sambrenil y Campana De Davi,Mendoza 264,Ucacha,0353-4900431,30-62652085-1,15,(en blanco),Cordoba,Inscripto   ,(en blanco),77,7 DS.C/REEMB.,7
+2589.00,Barbero Miguel,Alvear 87,Ucacha,0353-4900647,20-10835672-4,15,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+2592.00,Mucignat Marcelo Oscar,Avda San Martin 662,General Cabrera,(en blanco),20-13834859-9,15,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+2601.00,Bulonera Elordi SH**,Neuquen Y Sarmiento,San Carlos de Bariloche,0294-154699906,30-71091463-6,345,buloneraelordi@yahoo.com.ar,Rio Negro,Inscripto   ,02944-15638927,71.4,30 /60 Ds f. factura .MAL PAGADOR BONIF ESPECIAL,7
+2604.00,Antunez Ricardo Alberto,Yrigoyen 776,Cipolletti,0299-1563329,20-14420530-9,705,laroscabuloneria@gmail.com,Rio Negro,Inscripto   ,Ricardo Hijo,77,15 DS.F/FACT,7
+2610.00,Senmartin Nilda Esther,Avda del Valle 01,Tandil,02494-452632,27-04522684-6,397,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+2611.00,Centro Goma S.A,Avda Santa Marina 161,Tandil,02494-429154,33-58231373-9,428,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+2612.00,Figueroa Osvaldo Amadeo,Colectora Luis M. Macaya 1307,Tandil,0249-154501641,23-14829361-9,166,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,CDO ANT. DEV.MERCA,7
+2614.00,Parrota Lucia,Avda 9 d Julio 1401,San Miguel del Monte,02271-442440,27-13885521-5,142,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+2618.00,Martinez Gerardo*****,Calle 5 Nº 305 Oeste,General Pico,02302-431929 /part 430895,23-16857223-9,484,buloneramartinez@gmail.com,La Pampa,Inscripto   ,(en blanco),71.4,7 DS.F/FACT.,7
+2634.00,Sucesion de S.J Appulara***,Sarmiento y Arias,Alberti,02346-470174//Par 02346-4,20-00887854-5,208,casaappulara@intercal.com.ar,Buenos Aires,Inscripto   ,(en blanco),77,ANTICIPADO,7
+2639.00,Mazzoni Monica,San Martin 326,J. M. Jauregui,02323-497188,27-11647124-3,81,(en blanco),Buenos Aires,Monotributo ,(en blanco),77,15 DS.C/REEMB.FALTA EXPRESSO,7
+2642.00,Aman Osvaldo Feliciano***,Barrio Parque Doña Sara S/N,Villalonga,02928-492346 / 492620,20-17619508-9,389,jonyaman06@gmail.com,Buenos Aires,Inscripto   ,(en blanco),77,30 DIAS C/REEMBOLSO. BONIF 79.25%,7
+2650.00,Barbura y Cia,Sobremonte 1740,Rio Cuarto,0358-4620404,20-06651953-9,22,barburarepuestos@arnet.com.ar,Cordoba,Inscripto   ,(en blanco),77,15 ds c/reembolso,7
+2677.00,Ferreteria Viller SRL,Avda Belgrano 43,Leandro N. Alem,03754-422347,30-68789349-9,18,(en blanco),Misiones,Inscripto   ,(en blanco),71.3,15 DS.C/REEMB.,7
+2678.00,Cuadras Fidel,Avda San Martin Este 2274,El Dorado,03751-15527201,20-07540456-6,18,(en blanco),Misiones,Inscripto   ,(en blanco),71.3,CDO.ANTICIPADO.DEV.MERCA.,7
+2680.00,Cardozo Gladys Mercedes,Avda Uruguay 4745,Posadas,03764-459746 / 03764-156-,27-13626514-3,388,(en blanco),Misiones,Inscripto   ,(en blanco),71.3,15 DS.C/REEMB.,7
+2681.00,Sanchez Sergio Emilio*****,Avda Almte Bronw 2829,Posadas,03764-434828,20-10955431-7,11,(en blanco),Misiones,Inscripto   ,(en blanco),71.3,30 DS F/FACTURA,7
+2685.00,Koderer Daniel,Ruta 14 Km 1212,Salto Encantado,03755-498203,20-20494250-2,18,(en blanco),Misiones,Inscripto   ,(en blanco),71.3,CDO.C/REEMB.,7
+2696.00,De Gorno L y Nicoletti C SH,Bv. Alvear 61,Villa Maria,0353-156-571116-4523555-,30-70721907-2,233,administracionng@arnetbiz.com.ar,Cordoba,Inscripto   ,(en blanco),77,15 DS.F/FACT.,7
+2707.00,Herrero Laura Emilse,Independencia 379,Martinez de Hoz,02355-497021,27-14879206-8,57,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,15 dias c/reembolso,7
+2708.00,Rafful Miguel Angel***,San Martin 191,Martinez de Hoz,02355-497013,20-05066290-0,688,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,30 DIAS C/REEMBOLSO,7
+2725.00,Merino Miguel Angel,Avda Independencia 1571,Eduardo Castex,02334-452794,20-10563993-8,152,merino.miguel@hotmail.com,La Pampa,Inscripto   ,(en blanco),77,15 DS.COBIMPRO,7
+2726.00,Sociedad Coop. Agricola Ganadera Ltda,Alvear 576,General San Martin,02925 497371 C. CENTRAL,30-52653528-2,337,ferreteria@coopsanmartin.com.ar,La Pampa,Inscripto   ,Ariel Guizenga / COBRANZAS RAUL,77,15 DS.FF,7
+2734.00,Gamba Ricardo J.,Cordoba 265,Ucacha,0353-4900825/part 0353-49,20-14370956-7,15,ferreteriagamba@ucachanet.com.ar,Cordoba,Inscripto   ,(en blanco),77,15 ds c/reembolso,7
+2735.00,Vacepa De Elizondo V y Gomez J,Sobremonte 1596,Rio Cuarto,0358-4631070,30-69856268-0,15,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 ds c/reembolso,7
+2737.00,REKANO SA,Pasaje Aguirre 62,Rio Cuarto,0358-4621010,30-69856756-9,14,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 ds c/reembolso,7
+2742.00,Blanco Raul,Maipu 34,El Triunfo,02355-493233,20-17699293-0,432,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,30 DS.FECHA FACTURA COBINPRO,7
+2744.00,Gori Mario***,Mitre 315,Lincoln,02355-422571,20-08427892-1,774,rodamientosgori@gmail.com,Buenos Aires,Inscripto   ,(en blanco),77,10 F.FACTURA,7
+2746.00,Gomez Jorge,Drago 817,Lincoln,02355-423667,20-05059159-0,456,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,15 dias c/reembolso,7
+2749.00,Resconi Silvina Alejandra***,Ruta 16 Km 332,Pampa de los Guanacos,03841-491064 /15671299,23-24085424-4,433,buloneradelnorte_se@hotmail.com,Sgo. del Estero,Inscripto   ,(en blanco),77,30 DS.C/REEMB. SMITH NO LA VISITA,7
+2756.00,Saman Ruben y Luisa S.H***,25 de Mayo y A. Cornejo,Chicoana,0387-4907021,30-70007453-2,150,samanhermanos@hotmail.com,Salta,Inscripto   ,Ruben,77,3ds c/reembolso,7
+2783.00,Sansaloni Antonio,H. Reñuk 145,Apostoles,03758-15649899,20-06933001-1,388,(en blanco),Misiones,Inscripto   ,(en blanco),71.3,CDO ANT. RECHAZO MERC Q/FUE C/REEMB.,7
+2788.00,Menendez Sergio Anibal****,Calle 23 Nº 620  Esquina 7,25 de Mayo,02345-462525,20-08553823-4,271,ventarodamientos25@hotmail.com.ar,Buenos Aires,Inscripto   ,(en blanco),77,15 DS.F/FACT.,7
+2806.00,Ciceri Claudio Luis***,Gral Paz 507,Villa Regina,02984-462556,20-14178309-3,705,ferreteriaregina@gmail.com,Rio Negro,Inscripto   ,(en blanco),77,30 DS.F/FACT.,7
+2814.00,Chavez Jorge Antonio,Avda 25 de Mayo y Ruta 86,Laguna Blanca,03718-470343,20-21607905-2,467,(en blanco),Formosa,Inscripto   ,(en blanco),77,CERRO,7
+2826.00,Aida H. Sandoval,Buenos Aires 818,General Cabrera,0358-156017646,27-21387453-0,15,(en blanco),Cordoba,Inscripto   ,(en blanco),77,CDO.ANTICIPADO DEV.MERCA,7
+2833.00,Barbetti Jorge,Sarmiento y Vergara,Alberti,02346-15686765,24-11970027-9,208,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+2834.00,Bulomad SRL,10 de Junio 250,Alberti,02346-471473/ 02346-15554,30-71474289-9,208,bulomad@sitiospyme.com.ar,Buenos Aires,Inscripto   ,(en blanco),77,30 /60 DS C/REEMBOLSO,7
+2848.00,Gascue Angel Pedro,Ruta 2 Km 300,Las Armas,02268-493219,20-10571048-9,480,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+2871.00,Sanchez Ortiz Enrique Rafael,Cavallari 2102,9 De Julio,02317-432071,20-14721242-9,13,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,7 DS.C/REEMB.,7
+2875.00,Igarza Luis Mario,Avellaneda 1502 Esq Montiel,Tandil,02494-427743/ 02494-1555-,20-13320421-9,427,(en blanco),Buenos Aires,Monotributo ,(en blanco),77,CDO.C/REEMB,7
+2884.00,Aguiar Antonio Salvador****,San Martin 799,Hasenkamp,0343-4930815,20-13770923-7,122,ferreteriaaguiar@gmail.com,Entre Rios,Inscripto   ,ANTONIO,77,10 DS.F/FACT.COBINPRO,7
+2885.00,Fenoglio Juan Carlos****,Estrada 1228,Crespo,0343-3003333 NUEVO***,20-14267524-3,494,ferreteriafenoglio@gmail.com,Entre Rios,Inscripto   ,Srta.Elena,77,7 DS.F/FACT.(OJO TARDO MUCHO EN PAGAR),7
+2895.00,Andrada Rosario Liliana,T.del Fuego y Buteler Local 8,Rio Cuarto,0358-4646824 int 225,27-14566196-5,369,(en blanco),Cordoba,Monotributo ,(en blanco),77,15 DS.C/REEMB.,7
+2907.00,Leuquen Leandro Antonio,Rivadavia 1364,Comodoro Rivadavia,0297-4463365,20-20238172-4,342,(en blanco),Chubut,Inscripto   ,(en blanco),77,15 DS.C/REEMB,7
+2909.00,Casa El Trebol,Louis Lariguet s/n,Coronel Granada,02356-495151-495181,11-11111111-1,100,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,CONTADO F/CUIT RET.FABRI,7
+2941.00,Mascio Alfredo,Valencia 9293,Mar del Plata,0223-4873042,23-04880403-9,125,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,CONTADO C/REEMBOLSO,7
+2942.00,Benito Agropecuaria S.H,Bulevar Alvear 33,Villa Maria,0353-4526492,30-70734102-1,233,(en blanco),Cordoba,Inscripto   ,(en blanco),77,CDO.C/REEMB.,7
+2945.00,Saenz y Cia SRL,Bulevar Sarmiento 169,Etruria,0353-4920208,30-66939920-7,233,(en blanco),Cordoba,Inscripto   ,(en blanco),77,7 DS.C/REEMB.,7
+2947.00,Lohidoy Viviana Y Suc.de Garrido H ,Avda Campos 348,Loberia,02261-440125/part 02261-4,30-71020040-4,419,ferreterialoberia@hotmail.com,Buenos Aires,Inscripto   ,VIVIANA,77,15 ds fecha factura,7
+2975.00,Albarenga Francisco,Ruta 81 y Ruta 25,Comandante Fontana,0370-154521040,20-10756475-7,467,(en blanco),Formosa,Inscripto   ,(en blanco),77,CDO.C/REEMB.,7
+2978.00,Seyco SACIF,Av. Independencia 3051,Mar del Plata,0223-4723052/4- 4720101,30-53639325-7,447,seyco@speedy.com.ar,Buenos Aires,Inscripto   ,(en blanco),77,15 DS.F/FACT.,7
+2980.00,Basili Roberto,Belgrano y El Tala,General Madariaga,02267-554573 / 15523357,20-10836756-4,222,ferreteriabasili@telpin.com.ar,Buenos Aires,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+2981.00,Monroy Eriberto A.,Rivadavia 1144,Magdalena,02221-452607 /452796,20-05204476-7,222,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,7 DS.C/REEMB.,7
+2992.00,Dusio Miguel Angel,9 de Julio y Alberdi,El Triunfo,02355-493001 / 493042,20-05029334-4,456,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,7  DS.C/REEMB.,7
+2993.00,Elisei Juan Luis Y Juan Pablo****,9 de Julio y Cmte Escribano,Vedia,02354-422336,30-71473395-4,610,facturas  c/reem junio 08 pago sep 2008,Buenos Aires,Inscripto   ,(en blanco),77,30 ds FECHA FACTURA,7
+3014.00,Alonso Enrique,San Martin esq. Mendoza,Ucacha,0353-4900406,20-11754183-6,15,casaalonso@ucachanet.com.ar,Cordoba,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+3016.00,Costa Magna Gladys,Hipolito Irigoyen 1983,Rio Cuarto,0358-4622958,27-03417615-4,15,(en blanco),Cordoba,Inscripto   ,(en blanco),77,7 DS.F/FACT.,7
+3019.00,Rodriguez Elvira,Av Colon 1572,Tandil,02494-443121,27-06064832-3,229,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+3029.00,FAER SRL,BELGRANO 2339,Pte Avellaneda - Parana,0343-4979138,30-71635737-2,239,faer.adm@gmail.com,Entre Rios,Inscripto   ,Claudio Lopez,77,7 DS FECHA FACTURA COBINPRO,7
+3040.00,Afilaciones Ind. y Abastecimientos SA,Belgrano 1464,Apostoles,03758-424106 / 423710 /,30-69804717-4,438,(en blanco),Misiones,Inscripto   ,(en blanco),71.3,7 DS.C/REEMB,7
+3058.00,Lemos Martin Eduardo,J. M. Guido 932,Viedma,02920-425208,20-24028738-3,68,(en blanco),Rio Negro,Inscripto   ,(en blanco),77,15 DS.C/REEMOLSO,7
+3059.00,Camposur SRL,Chile 32,Trelew,02804-436259,30-62335937-5,542,(en blanco),Chubut,Inscripto   ,(en blanco),77,CDO.C/REEMB.,7
+3060.00,Bermejo Sixto Osvaldo,25 de Mayo 1495 esq. Santa Fe,Trelew,02804-424317,20-06906855-4,336,(en blanco),Chubut,Inscripto   ,(en blanco),77,CDO.C/REEMB.,7
+3069.00,Calandria Carlos,Montevideo 526,Tandil,02494-427540,1 -        -,100,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,15 DIAS CONTRA REEMBOLSO,7
+3074.00,La California SRL,Av La Fuente Guisasola 185,Germania,02356-494003,33-64375243-9,605,lacalifornia@germania.com.ar,Buenos Aires,Inscripto   ,ANDRES/GERMAN,77,30 DS C/REEMBOLSO,7
+3075.00,El Sol SRL****,E. Lernoud 230,Juan Bauista Alberdi,02354-480504 / 155-05249,30-66584908-9,610,ferreteriaelsol@gmail.com,Buenos Aires,Inscripto   ,(en blanco),77,30 DS.C/REEMB.,7
+3084.00,Mateu Hnos S.H,Belgrano y Alberti,General Villegas,Part 0388-421008,30-53544010-3,27,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,CONTADO.C/REEMB.,7
+3087.00,Grupo Arbas Villegas S.A,Av.Arq.Antonio Carrozzi Y Parra,General Villegas,03388-422663,30-71639375-1,579,ventas@arbashnos.com.ar,Buenos Aires,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+3094.00,Barresi Marcelo,Chacabuco 2755,Olavarria,02284-427439,20-17429249-4,132,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,CDO C/REEMB,7
+3108.00,Lombardia Luis,Uruguay 491,General Madariaga,02267-420073 /02267-15675,20-14114683-2,496,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,CDO.C/REEMB.,7
+3110.00,Orellano Monica Graciela,Calle 46 Nº 2701,Necochea,02262-435587,27-20697383-3,178,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+3111.00,Castrillo Juan y Stemphelet N.,Av. Del Valle Nº 399,Balcarce,02266-420221,33-61984840-9,419,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,15 DS.F/FACT.,7
+3119.00,Oleo Hidr. Villa Maria SRL,Int. Maciel 1290 esq Arenales,Villa Maria,0353-4525920/fax cont.453,30-70807562-7,545,eve.c17@hotmail.com,Cordoba,Inscripto   ,(en blanco),77,30 DS.C/REEMB.,7
+3130.00,Zamora Jose Luis,Av San Martin 241,De La Garma,02983-494122,20-16337645-9,360,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+3145.00,Pellenc Cesar A.,Boulevard Villaguay 346,San Salvador,0345-4911236 / 0345-15528,20-16273970-1,490,repuestosavenida1@arnet.com.ar,Entre Rios,Inscripto   ,pellencm@gmail.com,77,15 DIAS FF,7
+3148.00,Eckerdt Hugo Arturo,H. Irigoyen 259,San Salvador,0345-4910407,23-13270864-9,490,agrorepuestos@outlook.com.ar,Entre Rios,Inscripto   ,Hugo,77,15 DS.F/FACT.,7
+3171.00,Sucesion De Ciceri Juan Carlos,Bartolome Mitre 551,Villa Regina,02984-461813,20-11074313-1,705,ferreteriacasaciceri@hotmail.com,Rio Negro,Inscripto   ,MAURICIO,77,30 DIAS FF,7
+3188.00,Joc SRL,Iacianci 665,General Pinto,02356-420501/ 421133,33-65935776-9,548,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+3189.00,Homsi Aldo Oscar,Martiniano Charras 1,General Pinto,02356-420124,20-13348900-3,548,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,7 DS.F/FACT.,7
+3190.00,Guastelli Etelvina,Alsina 1044,General Viamonte (Los Toldos),02358-442062,27-22623791-2,517,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,7 DS.F/FACT.,7
+3191.00,Dumpierress Carlos,Maipu 535,Lincoln,02355-421084,20-05066518-7,517,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,CDO.C/REEMB.,7
+3202.00,Galarza S.A,Necochea 3068,Olavarria,02284-426898-427520,30-58556944-1,215,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,CDO.C/REEMB.,7
+3206.00,Hernan Von Wernich,9 de Julio 380,Tornquist,0291-4941231,20-08188730-7,213,ferreterialemana@gmail.com,Buenos Aires,Inscripto   ,(en blanco),77,7 DS.F/FACT.cobinpro,7
+3209.00,Cevoli Luis Julian,Tucuman 230,Viedma,02920-424939,20-22378964-2,68,(en blanco),Rio Negro,Monotributo ,(en blanco),77,CDO.C/REEMB.,7
+3210.00,Volponi Elbio Bruno,25 de Mayo 690,Viedma,02920-424939,20-23069904-7,68,(en blanco),Rio Negro,Inscripto   ,(en blanco),77,15 DS.C/REEMOLSO,7
+3217.00,Perez y Sarno SH (Direfil)****,Avda 59 Nº 3525,Necochea,02262-421782,30-66638728-3,397,direfil59@gmail.com,Buenos Aires,Inscripto   ,(en blanco),77,7 DS.C/REEMB.,7
+3218.00,Malizia Cristian,"Ruta 88 Km 5,5",Mar del Plata,0223-4654889/4651385/4654,20-28729819-7,551,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+3223.00,Ludueño Carlos E.,"Gallo y Mavazzi Ruta 2Km 396,5",Mar del Plata,0223-4601612,20-17593642-5,399,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,CDO.C/REEMB.,7
+3246.00,Siccardi Jorge Osmar,Belgrano 774,General Deheza,0358-4050680/4950680,20-13451747-7,555,(en blanco),Cordoba,Inscripto   ,(en blanco),77,CDO.ANT.AMIGO TRANS.NO PAGA,7
+3248.00,Putero Miguel Elbio***,9 de Julio 169,Alcira Gigena,0358-4961468,20-06654203-4,630,feralba@arnet.com.ar,Cordoba,Inscripto   ,(en blanco),77,SOLO ANTICIPADO. DEBE TRANSP $ 167,7
+3249.00,Rodrigez Albino,Jose Maria Parola 640,Arroyo Cabral,0353-4877460,20-06604756-4,203,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+3254.00,"Brem Mauro R., Maria R. Y Mauricio R SH*",Jose Guex 1446,Villa Elisa,03447-481880 /15641267,30-71124074-4,190,ferre_mauro@hotmail.com,Entre Rios,Inscripto   ,Part 03447-481092,77,7 DS F,7
+3263.00,Otero Miguel Elvio****,9 de Julio,Alcira Gigena,0358-4969701,20-06654803-4,15,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 DS.C/REEMB. falta cuit,7
+3270.00,Fioramonti Ricardo Anibal,Rivadavia 495,Bragado,02342-14466863,20-13075616-7,590,lilianmerlino24@hotmail.com,Buenos Aires,Inscripto   ,(en blanco),77,30 DS C/REEMBOLSO,7
+3281.00,Sanchez Daniel Evaristo,Felix San Martin 348,Junin De Los Andes,02944-15237157,20-20794067-5,421,ds_herramientas@hotmail.com,Neuquen,Inscripto   ,GERARDO OLIVA,77,15 DS F/FACTURA,7
+3302.00,Kroch Raul Bruno,Ruta 14 Km 1261,San Vicente,03755-15683326,20-14207833-4,438,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+3303.00,Solari Gerardo,Belgrano 627,Apostoles,03756-15611455,20-20553626-5,438,ferreteriasolari@argentina.com.ar,Misiones,Monotributo ,(en blanco),71.3,CDO.ANTICIPADO.RECHAZO MERC C/REEMB.,7
+3304.00,Buearc Jose Enrique,Av De las Americas 698,Aristobulo del Valle,03755-470283,23-10710991-9,18,(en blanco),Misiones,Inscripto   ,(en blanco),71.3,15 DS.C/REEMB.,7
+3328.00,Bettiol Raul,Av San Martin 319,General Cabrera,0358-4930133,20-02896901-6,203,dagiubergia@hotmail.com,Cordoba,Inscripto   ,(en blanco),77,CDO.ANTICIP.DEV.MERCA,7
+3340.00,Autocentro Lizondo SRL,25 de Mayo 480,Rio Hondo,03858-421100,30-70867663-9,150,(en blanco),Sgo. del Estero,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+3349.00,Garcia Rodolfo,Av Guemez Y Pasaje Jujuy,El Quebrachal,03877-491423/491043,20-08170618-3,150,leo_kerk@hotmail.com,Salta,Inscripto   ,RODOLFO,77,30 DS.C/REEMB.,7
+3358.00,Moron Ernesto Rodolfo***,Calle 22 Nº 15,Ameghino,03388-471355,20-14551458-5,43,agromoron@arnet.com.ar,Buenos Aires,Monotributo ,(en blanco),77,UNICAMENTE ANTICIPADO. DEV. MERCADERIA,7
+3359.00,Chirino Roberto Angel,Diego Tetley 653,Ameghino,03388-471236,30-60026053-3,579,fnahual@arnet.com.ar,Buenos Aires,Inscripto   ,Angel O Esther,77,15 DS.C/REEMB.,7
+3361.00,Cernadas Luciano Marcelo,Fabres Garcia 211,Bolivar,02314-15514177,20-26261172-9,580,cristian@implementos-salta.com.ar,Buenos Aires,Inscripto   ,(en blanco),77,7 DS.C/REEMB.,7
+3380.00,Pasdera Bernardo Esteban,Av 59 Nº 3345,Necochea,02262-525075,20-13601048-5,132,rodatecpasdera@telpin.com.ar,Buenos Aires,Inscripto   ,(en blanco),77,CDO.C/REEMB.,7
+3397.00,Calgano Amilcar Mario,Calle 14 Esq. 17,Hinojo,02284-491691,20-21497950-1,292,(en blanco),Buenos Aires,Monotributo ,(en blanco),77,CDO.ANTICIPADO.DEV.MERCA-,7
+3400.00,Hierros JDS SA,Colectora Norte Macayo 1585 Esq Gomez,Tandil,02494-437400 / 437401,30-71111601-6,328,hierrosjds@hotmail.com,Buenos Aires,Inscripto   ,Marcela Di Santo,77,30 dias contra reembolso,7
+3402.00,Steigmeier Gustavo Jorge A.,Macaya 59 ,Tandil,02494-422596,20-17221778-9,229,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+3407.00,Brevi Graciela R.C.M. Y Beatriz S.H.,Av. Roca 456,Allen,02984-453549,30-68961750-2,16,arnaldo@brevi.com.ar,Rio Negro,Inscripto   ,(en blanco),77,15 DIAS F.F,7
+3412.00,Larrea Mauro Raul,Arturo Nuñez 235,Bernasconi,02925-499390 / 499263,20-24829263-7,337,(en blanco),La Pampa,Inscripto   ,(en blanco),77,30 DS.C/REEMB.,7
+3421.00,Mildner Ernesto,Guatemala 760,Jardin America,03743-460126,20-23731015-3,306,(en blanco),Misiones,Inscripto   ,Ernesto,71.3,15 DS.C/REEMB.,7
+3423.00,Xander Juan Jorge,Av San Martin (Este) 1320,El Dorado,03751-420298,23-07585314-9,18,(en blanco),Misiones,Inscripto   ,Juan,71.4,CDO.C/REEMB.,7
+3424.00,Ferreteria Industrial Lobato SRL,Av San Martin (Este) 1633,El Dorado,03751-420227,30-62094120-0,18,(en blanco),Misiones,Inscripto   ,JUAN CARLOS,71.3,15 DS.C/REEMB.,7
+3434.00,Castillo Raul Alberto***,Av San Martin 1444. ,Colonia Baron,02333-476328 ,20-10838798-0,587,mgrepuestos1@hotmail.com,La Pampa,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+3455.00,Rey Guillermo Jose,Avellaneda 552,General Viamonte (Los Toldos),02358-443438,23-28973167-9,517,reinaldosaulrey@yahoo.com.ar,Buenos Aires,Inscripto   ,(en blanco),77,30 DS.F/FACT.,7
+3489.00,De Souza Faria Jose Carlos,41 Nº 899,Santa Teresita,02246-420110 / 520110,20-07720361-4,222,desouzafaria@yahoo.com.ar,Buenos Aires,Inscripto   ,(en blanco),77,(en blanco),7
+3494.00,Fernandez Muñoz Roman,Av Marconi 1485,Tandil,02494-430888,20-20296089-9,328,(en blanco),Buenos Aires,Inscripto   ,Roman Fernandez Muñoz,77,CDO.C/REEMB.,7
+3505.00,Albalandia SRL,Av San Martin 1801,Puerto Rico,03743-420143 /421373,30-51924179-6,18,(en blanco),Misiones,Inscripto   ,(en blanco),71.3,15 DS.C/REEMB.,7
+3507.00,Testoni Oscar***CERRO,Republica Argentina S/N,Wanda,03757-470821,20-10642232-0,18,(en blanco),Misiones,Inscripto   ,CRISTIAN TESTANI,71.3,CERRO,7
+3515.00,Fernandez Amelia Esther***,San Martin 1227,Campana,03489-432737,23-06228339-4,146,bulonera.campana@hotmail.com,Buenos Aires,Inscripto   ,Laura Es La Hija,77,7 DS.F/FACT.,7
+3518.00,Agro Ameghino De Decesari Juan O.,Calle 3 Y 32 ,Ameghino,03388-471049,20-10474658-7,596,agroameghino@arnetbiz.com.ar,Buenos Aires,Inscripto   ,Juan,77,7 DS.F/FACT.,7
+3525.00,Damian Silvia Andrea,Av Libertador 495,San Vicente,03755-461083,27-27223241-0,438,(en blanco),Misiones,Inscripto   ,(en blanco),71.3,15 DS.F/FACT.,7
+3529.00,Rio Claudia Andrea,Malvinas Argentinas 32,Santa Rosa de Calamuchita,03546-422275,27-20408969-3,202,(en blanco),Cordoba,Monotributo ,(en blanco),77,CDO.ANTICIP.DEV.MERCA. NO VALE LA PENA,7
+3530.00,Ferretería Rossi S.A.C.I.F.I,Av. Libertador 990,Alta Gracia,03547-422109 / 421109,30-51655563-3,285,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+3536.00,Olivera De Antunez Jose***,Barrio Industrial S/n ( Wanda),Wanda,03757-471026,20-07581529-9,18,agrotaiw@hotmail.com.ar,Misiones,Inscripto   ,Jose  Olivera,71.3,30 DIAS C/ REEMBOLSO,7
+3539.00,Lasa Sebastian,Av Sabattini 3100,Rio Cuarto,0358-4625286,20-24783399-5,597,(en blanco),Cordoba,Monotributo ,SEBASTIAN,77,cdo.antic.pasamos $ y nunca deposito,7
+3540.00,"Mussolini Horacio , Lasa Juan Y Bosch",Rioja 41,Rio Cuarto,0358-4636108,30-68394231-2,597,(en blanco),Cordoba,Inscripto   ,Juan Lasa,77,cdo.antic.pasamos  $ y no deposito,7
+3541.00,Sarracini Cipriano Luis,Calle 14 Nº 668,Chazon,0353-4882043,23-06561967-9,15,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+3542.00,Stella M. Lapiana De Principe,Bulevard Jose M. Paz 258,Laborde,03537-461215 / 460424,27-06158166-4,598,"casaprincipe@isplaborde.com.ar
+",Cordoba,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+3554.00,Roy Perez Alexis,Ester De Molmany 752,Alta Italia,02302-491159,20-22050749-2,152,ferreteriaoscar.altaitalia@gmail.com,La Pampa,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+3557.00,Rosetto Osvaldo Sergio,España 532,Caleufu,02335-450081,20-16285639-2,152,lacasadelcilindro@yahoo.com.ar,La Pampa,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,7
+3570.00,Petro Ind SRL,Leguizamon 376,Neuquen,0299-4430131,30-71612953-1,16, gerencia@petroind.com.ar ventas@petroind.com.ar,Neuquen,Inscripto   ,EDUARDO / JORGE / FABIAN / SERGIO,0,30 DIAS FF,7
+3579.00,SULVAT SRL,Primera Junta 1231,Tandil,0249-4440387,30-61957259-5,328,(en blanco),Buenos Aires,Inscripto   ,Omar Sueldo / Sr Miguel,77,15 DS.C/REEMB.,7
+3582.00,Notari Jorge Ruben,15 Nº434,Caseros,03442-492295,20-13977928-3,490,(en blanco),Entre Rios,Inscripto   ,Jorge,77,30 DS F/FACTURA,7
+3595.00,Bernard Miguel Marcos***,Matienzo Y 25 De Mayo,Las Lomitas,0370-154645101,20-28555357-2,495,(en blanco),Formosa,Inscripto   ,(en blanco),77,CDO.ANTICIP.DEV.MERCA.P/C/REEMB,7
+3598.00,Basualdo Pedro Y Ruben S.H.,Pellegrini Esq. 9 De Julio,Corzuela,03731-470286,30-70808795-1,136,(en blanco),Chaco,Inscripto   ,(en blanco),77,pago anticipado,7
+3599.00,Urquiza Elizabeth Edith,Av.Argentina S/N,Gancedo,03731-491278 PART.noche,27-16936193-8,495,(en blanco),Chaco,Inscripto   ,Walter Maciel,77,CDO.ANTICIP.DEV.MERCA.P/C/REEMB,7
+3625.00,Jakob Jorge Omar,Aconcagua 185 Jardin America,Jardin America,03743-461957,20-20241812-1,18,(en blanco),Misiones,Inscripto   ,(en blanco),71.3,15 DS.C/REEMB,7
+3628.00,Diedrich Roxana,Av.De Las Americas 663,Aristobulo del Valle,0375-470735,27-28765915-1,388,(en blanco),Misiones,Inscripto   ,(en blanco),71.3,CDO.C/REEMB.,7
+3653.00,Ochoa Carlos -Bulonera Carlin,Av. 9 De Julio 692,Monterrico,0388-4944206,20-08468981-6,414,buloneracarlin@hotmail.com,Jujuy,Inscripto   ,(en blanco),77,7 ds c/reembolso,7
+3655.00,Suc.De Casabonne Carlos Horacio,Avellaneda 521,General Acha,02952-432138,20-07363135-2,145,ferreteria_meli-pal@hotmail.com,La Pampa,Inscripto   ,RAFAEL CASABONE,77,7 DS.f/factura cobinpro,7
+3677.00,Alvarez Norberto***,Jean Jaures 500/510,Campana,03489-431793,20-04730424-6,616,(en blanco),Buenos Aires,Inscripto   ,ANABEL,77,CDO C/ REEMBOLSO,7
+3719.00,Diaz Uriel,Calle 34 Nº 811,Miramar,02291-433070,20-25152193-0,240,ferromar@speedy.com.ar,Buenos Aires,Inscripto   ,Uriel,77,15 dias contra reembolso.,7
+3750.00,Muller Higinio Norberto***,Av.Libertador S/N,Hermoso Campo,(en blanco),20-10764949-3,495,(en blanco),Chaco,Inscripto   ,(en blanco),77,15 ds c/reembolso,7
+3751.00,Franich Esteban,Ruta 292 Sur,Villa Minetti,+54 9 3491 43-7480,20-14103962-9,296,estebanfranich@hotmail.com,Santa Fe,Inscripto   ,Esteban Franich,77,15 dias c/reembolso,7
+3755.00,Alvarez Marcelo Javier,Hipolito Yrigoyen 197,Machagai,03734-470794,20-14069197-7,495,(en blanco),Chaco,Monotributo ,(en blanco),77,no vender mas,7
+3775.00,Perez Oscar Y Carretoni Omar.*******,Hipolito Irigoyen Y Poeta Barbieri,Alberti,02346-471760,30-70913463-5,208,labradoroep@yahoo.com.ar,Buenos Aires,Inscripto   ,(en blanco),77,15 DS C/REEMB.,7
+3777.00,Castelli Viano Y Cia S.A.,Calle Moreno Esquina Bv.Roca,Alejandro Roca,0358-4980421,30-52995253-4,15,(en blanco),Cordoba,Inscripto   ,Eduardo Arriola,77,15 DIAS CONTRA REEMBOLSO,7
+3779.00,Rogara Roberto Ricardo,Calle Alte.Brown 212,San Basilio,03585-496098,23-06646520-9,15,(en blanco),Cordoba,Inscripto   ,(en blanco),77,CDO.CONTRA REEMBOLSO,7
+3793.00,Pisani O J Pisani D A Y Pisani S A SH,9 De Julio 353,Sacanta,03533-492207,30-71477795-1,620,casapisanish@gmail.com,Cordoba,Inscripto   ,Sergio,77,15 ds c/reembolso,7
+3799.00,Cura Gladys Yessica*****,Aristobulo Del Valle 927,La Banda,0385-4278277,27-28350349-1,459,curajacobo@gmail.com,Sgo. del Estero,Inscripto   ,Jesica Cura,77,15 DIAS CONTRA REEMBOLSO,7
+3803.00,Todo Repuestos De Alberdi S.R.L.,Av.Libertad 686,Juan Bautista Alberdi,02354-480548,30-70906384-3,610,repuestosalberdi@hotmail.com,Buenos Aires,Inscripto   ,(en blanco),77,15 ds c/reembolso,7
+3814.00,Dominguez Edgardo Angel,Barnetche 2125,Campana,03489-442733,23-04998807-9,81,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,contado,7
+3825.00,Mulena Raul Omar,Av.Santa Rosa 198,25 de Mayo,0299-4948072,20-12411706-3,812,25demayogomas@cotecal.net.ar,La Pampa,Inscripto   ,(en blanco),77,15 DS F/FACTURA,7
+3826.00,Cocci Matias Emiliano,MENGELLE 971,Cipolletti,0299-4770385,20-34397403-6,533,buloncip@hotmail.com.ar,Rio Negro,Inscripto   ,Administracion@buloneracipolletti.com,77,30 DS F/FACTURA,7
+3827.00,Hierromet SRL****,Narabuena S/n Parque Industrial  3      ,Rincon De Los Sauces,0299-4886587,33-67256510-9,345,ventas@hierrometsrl.com.ar,Neuquen,Inscripto   ,Mostrador@hierrometsrl.com.ar,77,15 DS ff,7
+3881.00,Reichert Rodolfo,Av. San Martin 2186,Puerto Rico,03743-420130,(en blanco),18,"rudyreichert@prico.com.ar
+",Misiones,Inscripto   ,(en blanco),71.3,CDO C/ REENBOLSO/ FALTA CUIT,7
+3884.00,Zimmerli Alberto Fernando,Pionero Alfonso 609,Puerto Rico,03743-420844,20-12504545-7,18,auxiliopuertorico@prico.com.ar,Misiones,Inscripto   ,(en blanco),71.3,15 ds c/reembolso,7
+3887.00,Ortiz Bernardo,Av Sarmiento 150,Obera,03755-425957 part,20-22981101-1,18,ortizbernardo@yahoo.com.ar,Misiones,Monotributo ,Bernardo,71.3,15 DIAS CONTRA REEMBOLSO,7
+3908.00,Filippa Franco G,Int.jose Irasusta 598,Las Varillas,03533-421125,23-26382078-9,620,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 ds c/reembolso,7
+3909.00,Buffaz Claudio,Colon 111,Villa Maria,0353-453368,20-27444751-7,233,claudio_buffaz@arnet.com.ar,Cordoba,Inscripto   ,(en blanco),77,15 ds c/reembolso,7
+3911.00,Pollano Martha Y  Angel SRL,Av.de Mayo 513,Justiniano Posse,03537-473129,30-61973013-1,649,myapollano@arnet.com.ar,Cordoba,Inscripto   ,Gabriel // Gcarcar@gmail.com,77,15 ds c/reembolso,7
+3920.00,Migbral S.A****,Corrientes 99,Bragado,02342-423101,30-70944902-4,27,migbralagro@speedy.com.ar,Buenos Aires,Inscripto   ,Fabian,77,15 dias c/reem.MENDEZ NO HACE C7REEMBOLSO,7
+3922.00,Oregui Gladis L De Costa,Av.belgrano 1950,Chajari,03546-15418102,27-18323175-3,483,ferreteriasolyluna@gmail.com ,Entre Rios,Inscripto   ,(en blanco),77,15 ds c/reembolso,7
+3929.00,Perez Gustavo,Calle 59 Nª 3525,Necochea,02262-421782,20-16370229-1,397,direfil59@gmail.com,Buenos Aires,Inscripto   ,(en blanco),77,7 ds fecha factura,7
+3951.00,Lara Cristina Mabel***,Alvear 1954,Esquel,02945-455663/455054,27-17398161-4,362,lacrysbul@hotmail.com,Chubut,Inscripto   ,Srta Cristina,77,7 DIAS FF,7
+3965.00,Mendonca Antonio,Velez Sarfield 1719,Comodoro Rivadavia,0297-4462630,20-16757599-5,353,(en blanco),Chubut,Inscripto   ,(en blanco),77,15 ds fecha factura,7
+3966.00,Grassi Juan Jose,Avellaneda 32,Lincoln,02355-422848,23-05063799-9,0,buloneragrassi@yahoo.com.ar,Buenos Aires,Inscripto   ,Jose Ignacio,77,15 ds c/reembolso.FALTA TRANSPORTE,7
+3977.00,Cordoba Luis Alberto,Juan D. Peron 32,Hermoso Campo,03735-495423,20-10912857-1,495,(en blanco),Chaco,Inscripto   ,(en blanco),77,15 ds c/reembolso,7
+3987.00,Janssen Harms Marga,Av El Libertador 2348,Montecarlo,03751-480173,27-05141294-5,18,(en blanco),Misiones,Inscripto   ,(en blanco),71.3,15 dias contra fecha factura,7
+3988.00,Ramirez Daniel Guillermo,Dr.Daru S/N,Montecarlo,03751-480874,20-12274708-6,388,danyramar@ceel.com.ar,Misiones,Inscripto   ,(en blanco),71.3,15 ds c/reembolso,7
+3992.00,Passardi Andrea Carolina,Av.Sarmiento 676,Obera,03755-421712,27-25199326-8,10,herrajespassardi@yahoo.com.ar,Misiones,Inscripto   ,(en blanco),71.3,CDO.C/REEMBOLSO,7
+4004.00,Villarreal Carlos Alberto,Av.Agustin Alvarez 856,9 De Julio,02317-427664,20-26616818-8,329,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,15 ds c/reembolso,7
+4011.00,Electromecanica Guardia Del Monte SA,Av.9 De Julio 417,San Miguel del Monte,02271-443111/443494,30-62222053-5,732,adm.egmsa@gmail.com   ventasegmsa@gmail.com,Buenos Aires,Inscripto   ,JULIO,77,"EDU, RETIRAR 100 RS15 (ULTIMO PAGO 3 MESES)",7
+4012.00,Funes Orlando Y Alegre Mauro D,25 De Mayo 145,General O'brien,02342-498133,30-62981994-7,528,distribuidoraorf@hotmail.com,Buenos Aires,Inscripto   ,Orlando Funes.,77,DEP. ANT. XQ QUIERE EL CLIENTE,7
+4014.00,Sandoval Elba Graciela*****,Cochabamba 1064 Bº San Pedrito,San Salvador De Jujuy,0388-4241896,27-01384361-4,414,(en blanco),Jujuy,Inscripto   ,FERNANDO,77,ANTICIPADO SI O SI. debe transp $ 480,7
+4017.00,Wacker Osvaldo Roberto****,Bv.Segui 2131,Rosario,0341-4620890/4644413,20-11272719-2,0,compraswacker@arnet.com.ar,Santa Fe,Inscripto   ,Alberto Campano,77,FALTA EXPRESO. 15 D/C/REEMBOLSO,7
+4042.00,Durquet Adriana Teresa***,Cordoba Esq. 9 De Julio,Santa Rosa de Calamuchita,03546-421914/421772,27-17356132-1,22,accesoriosrally@starosanet.com.ar,Cordoba,Monotributo ,(en blanco),77,15 ds fecha factura,7
+4056.00,Jacquet Roberto Y Jacquet Ariel.*****,Lavalle Esq.Urquiza,San Jose,03447-470020,30-70869121-2,127,info@jacquethnos.com.ar,Entre Rios,Inscripto   ,preciosjacquethnos@gmail.com,77,15 ds fecha factura,7
+4085.00,Ojeda Jorge Joaquin,Ferreyra 1925 Ruta 12 Acc.Norte,Esquina,03777-15-404221,20-37064589-3,811,ferreteriavirgenitati@hotmail.com,Corrientes,Monotributo ,(en blanco),77,15 ds c/reembolso,7
+4096.00,Martin E. Rotondo Y Nicolas S.H,Ruta 6 Y San Lorenzo,Campana,03489-424526,30-70851788-3,146,brhbulonera@gmail.com,Buenos Aires,Inscripto   ,NICOLAS,80.6,(en blanco),7
+4107.00,Radke Edmundo,Florentino Ameghino 33,San Vicente,03755-460172,20-11936571-7,100,tch-er@aenet.com.ar,Misiones,Inscripto   ,(en blanco),71.3,contado,7
+4110.00,Muratore Daniel Alberto,Pedro Leon Gallo 361,Santiago Del Esteto,0385-4211071,20-13511904-1,618,(en blanco),Sgo. del Estero,Monotributo ,(en blanco),77,15 ds c/reembolso,7
+4114.00,Bevilacqua Angela,Calle 1 Nº 557,Las Toninas,(en blanco),(en blanco),100,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,15 dias c/reembolso,7
+4115.00,Heintz Miguel,Alcorta Y Roldan,Villa Adelina,4763-9773 / 4722-4401,23-14915902-9,100,miguelheintz@ciudad.com.ar,Buenos Aires,Inscripto   ,Miguel,0,(en blanco),7
+4125.00,De La Vega Gustavo,Av Oyola Y P. B. Luna,La Rioja,03804-429925,20-20613286-9,665,ferreterianicons@yahoo.com.ar,La Rioja,Inscripto   ,Gustavo Y Graciela,77,30 DIAS C/REEMBOLSO,7
+4138.00,Stepanic E Hijo****,Calle 7 Nº 1079,San Clemente del Tuyu,02252-421684 /430026,23-07716728-5,700,hector_step@telpin.com.ar,Buenos Aires,Inscripto   ,HECTOR,77,30 DIAS C/REEMBOLSO,7
+4155.00,D´Onofrio Gladys A,Av.Dunckler 405,Vedia,(en blanco),27-16713528-0,950,maggi_ferreteria@yahoo.com.ar,Buenos Aires,Inscripto   ,MAGGI GERARDO,71.4,30 DS F/FACTURA,7
+4167.00,Corralon Parada De Parada Carlos Victor,Yrigoyen 305,Rincon De Los Sauces,0299-4886047/4886214,20-08850035-1,353,(en blanco),Neuquen,Inscripto   ,(en blanco),77,15 ds fecha facrura,7
+4181.00,Bochatay Andrea Viviana***,Estados Unidos 310,San Carlos de Bariloche,02944-468548 / 468067,27-21142871-1,421,pedrofibiger@bariloche.com.ar,Rio Negro,Inscripto   ,Andrea / Pedro Fibiger,77,30/60 DS F/FACTURA,7
+4189.00,Luna Marcela****,Almirante Brown 15,Zarate,03487-15408464,27-22182211-6,0,ferr_nelio@yahoo.com.ar,Buenos Aires,Inscripto   ,(en blanco),77,(en blanco),7
+4205.00,Geist Hugo Daniel***,Primera Junta 410,Gualeguaychu,03446-1566-0042,20-12448796-0,490,ferreteriageist@gmail.com,Entre Rios,Monotributo ,Gustavo Es El Hijo De Hugo,77,15 ds fecha factura,7
+4215.00,Luren SA,Rivadavia 1665,Libertador General  San Martin,0343-4910259,30-71619331-0,494,andres.racovsky@corralonlaloma.com,Entre Rios,Inscripto   ,miguel@corralonlaloma.com,77,20 DS F/FACTURA,7
+4257.00,Roman & Chiaretta SRL En Formacion,Lavalle 1301,Rio Cuarto,0358-4622015,30-71514885-0,15,rchiaretta88@gmail.com,Cordoba,Inscripto   ,(en blanco),77,30 ds FECHA FACTURA,7
+4301.00,Sandrin Heraldo Y Passetto Denice,Bolivar Y Mendoza,Chajan,03582-492087,30-68403236-0,22,(en blanco),Cordoba,Inscripto   ,(en blanco),77,30 DS C/REEMBOLSO,7
+4359.00,Martinez Raul Alfredo,Sargento Cabral 139 / 141,Banda Rio Sali,0381-155708615,20-17614359-3,661,ferreteriahorizonte-tuc@hotmail.com,Tucuman,Inscripto   ,Raul En Tucuman Y En Bs As Pablo Lopez,77,30 DS C/REEMBOLSO,7
+4376.00,Mosciaro Flavio Esteban,Av.Marcelo T De Alvear 1218,Rio Cuarto,0358-4654627,20-17733568-2,15,(en blanco),Cordoba,Inscripto   ,(en blanco),77,30 DS C/REEMBOLSO,7
+4382.00,Escudero Jorge Javier*****,Calle 24 Esquina 31,General Pico,02302-15544930,20-20589151-0,484,cotocobuloneria@hotmail.com,La Pampa,Inscripto   ,Jorge,77,30 DIAS C/REEMBOLSO,7
+4390.00,Martinez Cabral Alfredo,Urquiza 516,La Rioja,03804-420544,20-13694588-3,289,ub_amc_lr@hotmail,La Rioja,Inscripto   ,(en blanco),77,15 dis c/reembolso,7
+4418.00,Doroz Pablo Mario,Libertad 212,Chilecito,03825-423067,20-27154405-8,289,(en blanco),La Rioja,Inscripto   ,(en blanco),77,15 DIAS CONTRA REEMBOLSO,7
+4430.00,Ciudad Bulon SRL,Ruta 12 Km 9 1/2,Garupa,03764-483001,20-71037594-2,438,(en blanco),Misiones,Inscripto   ,Ingeniero Giego Clemont,71.3,15 dis c/reembolso,7
+4446.00,Kroh Liliana***,General Artigas 1909,Gualeguaychu,03446-440667,27-18503138-7,490,agricolabauer@yahoo.com.ar,Entre Rios,Inscripto   ,(en blanco),77,30 DIAS C/REEMBOLSO,7
+4447.00,Coop.Agri.Mixta La Protectora,J.O'Dwyer 327,General Galarza,03444-481160,30-52640030-1,490,ferreteria@cooplaprotectora.com.ar,Entre Rios,Inscripto   ,Luis,77,15 ds fecha factura,7
+4450.00,Fischer Maria Ofelia***,España Y Colon,Monte Caseros,03775-422343 / 44,27-23663043-4,492,ofeliafischer.1@gmail.com,Corrientes,Monotributo ,(en blanco),77,ANTICIPADO SI O SI,7
+4458.00,Agro Biciuffa SRL,Ruta 94 Km 72.5,Charata,03731-420737/,30-70814269-3,136,biciuffa@lanavech.com.ar,Chaco,Inscripto   ,(en blanco),77,30 DS C/REEMBOLSO,7
+4459.00,Kugler Oscar Eugenio,San Martin Y  Belgrano,Sauce,03774-480644,20-20505695-6,4,oscarkugler@gmail.com,Corrientes,Inscripto   ,(en blanco),77,30 ds FECHA FACTURA,7
+4466.00,Ricardo Maidana***,Calle 9 Y 304,25 de Mayo,02345-464330,20-17669030-6,448,lubricentroeltigre@ciudad.com.ar,Buenos Aires,Inscripto   ,(en blanco),77,15 dias c/reem.OJO DICE CARBONES MALOS/$/ALTOS,7
+4467.00,Suarez Claudio Alberto,Lamadrid 782,Los Toldos,02355-15649642,20-27851407-3,517,ferreteria_suarezhnos@hotmail.com,Buenos Aires,Inscripto   ,(en blanco),77,30 DS C/REEMBOLSO,7
+4468.00,Alvarez Alfredo Oscar,Av. Vedia 385,9 De Julio,02314-15455045,20-10257074-0,329,alfredooscaralvarez@yahoo.com.ar,Buenos Aires,Inscripto   ,(en blanco),77,15 dias c/reem OJO tiene solo celular,7
+4469.00,Aceros Felo SRL,Freyre 905,9 De Julio,02317-425217,(en blanco),0,acerosfelo@internueve.com.ar,Buenos Aires,Inscripto   ,(en blanco),77,15 dias c/reem OJO FALTA CUIT Y TRANSPORTE,7
+4470.00,Fahey Daniel Horacio,Coliqueo 85,Los Toldos,02358-443835,20-16579301-4,0,ferrepeq@hotmail.com,Buenos Aires,Monotributo ,(en blanco),77,15 dias c/reem OJO FALTA TRANSPORTE,7
+4499.00,Arsanto Gustavo,Av Massey 493,Lincoln,02355-15485300,20-17216303-4,0,gustavoarsanto@hotmail.com,Buenos Aires,Inscripto   ,(en blanco),77,15 C/REEMB. FALTA EXPRESO ,7
+4537.00,Bulfaro Nestor Y Juan** NO OPERA MAS,Calle 578 Nº 2124,Quequen,02262-452874,30-70748426-4,397,juanbulfaro@hotmail.com,Buenos Aires,Inscripto   ,(en blanco),77,15 C/REEMBOLSO,7
+4547.00,Cardozo Ramon Rodrigo,Los Mirlos 4709,Salta,0387-4243337,20-28251689-7,414,243337@arnet.sal.apb,Salta,Inscripto   ,(en blanco),77,15 ds c/rembolso,7
+4583.00,Divi Alicia Eugenia,Rivadavia 140,Santiago Del Estero,0385-4211904,27-14754853-8,459,buloneria_anditor@yahoo.com.ar,Sgo. del Estero,Inscripto   ,aliciadivi@hotmail.com ,77,15 DIAS F. FACTURA,7
+4642.00,Del Buono David,Burgos 201,Azul,02281-425301,20-22024692-3,711,pintureriabeta@hotmail.com,Buenos Aires,Monotributo ,(en blanco),77,CONTADO C/REEMBOLSO,7
+4643.00,Julio Saez E Hijos SACIFI*****,Av.Guemez  1190,San Fernando Del Valle,03834-458315,30-50643727-6,665,ferreteriavdelvalle@arnetbiz.com.ar,Catamarca,Inscripto   ,Daniel Zuirita,77,contra reembolso si o si,7
+4644.00,Ferro Alberto Manuel***,Acceso H.Yrigoyen 370,Lincoln,02355-421710,20-04977117-8,298,ferrotorneria@gmail.com.ar,Buenos Aires,Inscripto   ,Maria Ester,77,30 ds c/reembolso. PREGUNTAR TRANSP. LECINA NO,7
+4645.00,Doubik Manuel De Jesus,Av.Mitre 2198,9 De Julio,02317-15449073,20-14398825-3,329,manuel_doubik@hotmail.com,Buenos Aires,Inscripto   ,(en blanco),77,30 DS C/REEMBOLSO,7
+4656.00,Servicios Integrales SRL,El Rosedal 83,Concordia,0345-4290050/4290732,30-70932985-1,277,administracion@serviciosintegralesconcordia.com,Entre Rios,Inscripto   ,(en blanco),77,15 DS ff,7
+4662.00,Alfredo Tisocco Y  Javier Tisocco SRL,Rurta 14 Km 345,Mocoreta,03775-15476458,33-66976536-9,492,mr14@mocoretadigital.com.ar,Corrientes,Inscripto   ,Manuel,77,15 ds fecha factura,7
+4672.00,Recalde Carla Mariana,Ruta 15 Esquina Mariano Moreno,Villa Cura Brochero,03544-472517,27-29238195-1,36,(en blanco),Cordoba,Monotributo ,(en blanco),77,30 DS C/REEMBOLSO,7
+4685.00,Primo Prevedello Comerc Y Construc SRL**,Av.Presidente Castillo 800/886 ,Valle Viejo,03834-440545/441162,30-70962071-8,743,prevedellosrl@yahoo.com.ar,Catamarca,Inscripto   ,CARLOS / ARIEL,77,15 ds fecha factura,7
+4700.00,Yacuzzi Silvia Teresa,San Luis Y Sucre,Bella Vista,03777-452661,27-13148701-6,708,silvia_yacuzzi@yahoo.com.ar,Corrientes,Inscripto   ,(en blanco),77,30 DS FECHA FACTURA COBIMPRO,7
+4702.00,Mela Miguel Angel****,Av.Alvear 1301,Resistencia,0362-154266763,20-18054557-4,136,buloneraalvear@hotmail.com,Chaco,Inscripto   ,(en blanco),77,CONTADO C/RREMBOLSO,7
+4705.00,Binaghi Marcos Ariel,Calle21 Nª261,Las Toscas,03482-451444/15549368,20-23757340-5,136,marcosbinaghi@hotmail.com,Santa Fe,Inscripto   ,(en blanco),77,15 ds fecha factura,7
+4708.00,Gil Marilyn Noemi****,25 De Mayo 811,Monte Quemado,03841-421484,27-17782979-5,742,walter_cabral43@yahoo.com.ar,Sgo. del Estero,Inscripto   ,(en blanco),77,30 dsf/factura cobinpro,7
+4710.00,Castillo Nieves Jasinta,Cabildo S/N,Monte Quemado,03841-421072,27-12774245-1,742,(en blanco),Sgo. del Estero,Inscripto   ,(en blanco),77,15 DS COBIMPRO,7
+4721.00,Hang Rita Maria,Cordoba 3896,Santo Tome,0342-4742782,27-12512357-6,718,chiaro_nestor_21@hotmail.com,Santa Fe,Inscripto   ,(en blanco),77,30 DS F/FACTURA,7
+4729.00,Veyku SRL***,Aufranc 301,Esperanza,03496-429093,30-70957379-5,719,ventas@veyku.com.ar,Santa Fe,Inscripto   ,(en blanco),77,15 ds c/reembolso,7
+4736.00,Dome Luis Maria,Intendente Castillo 395,Oro Verde,0343-4975041,20-14299341-5,239,corralonoroverde@hotmail.com,Entre Rios,Inscripto   ,Augusto.,77,15 DIAS FECHA FACTURA,7
+4762.00,Piccagli Pedro Cesar,Calle 25 De Mayo 757,Lincoln,02355-533020,23-16626886-9,432,ferreteria14@hotmail.com,Buenos Aires,Monotributo ,(en blanco),77,ANTICIPADO DEP.EN CTA,7
+4787.00,Percara Hector Ramon ,P.Fochesatto 2065,Chajari,03456-425414,20-16346320-3,128,repuestoselgorde@hotlive.com,Entre Rios,Inscripto   ,(en blanco),77,15 ds fecha factura,7
+4799.00,Insua Carlos Fabian*****,Sarmiento 1446,Roberts,02355-498101,20-18245758-3,0,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,CONTADO.F/TRANSPORTE Y VER COND.DE PAGO,7
+4800.00,Feliciani Walter Jose****,Estrada 455,Roberts,02355-15572241,20-12831840-3,0,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,CONTADO.F/TRNASPORTE y COND DE PAGO,7
+4844.00,Marchesi Diego Oscar***,Jorge Retamar 1394,Ushuaia,02901-15600768,20-23956419-5,83,alfintodoushuaia@gmail.com,T. del Fuego,Inscripto   ,Diego,77,(en blanco),7
+4847.00,Romero Laureana Jorgelina,Miguel David 3322,Parana,0343-4365498,27-24223273-4,239,corradicesar@hotmail.com,Entre Rios,Inscripto   ,CORRADI CESAR,77,15 ds c/reembolso,7
+4856.00,Harriague Soledad,Hipolito Yrigoyen 322,Chascomus,02241-423945,27-26624870-4,552,fernandotravacio@speedy.com.ar,Buenos Aires,Monotributo ,Fernando Travacio 02241-15671010,77,15 dias c/reembolso,7
+4869.00,Ribero Mariana Teresa,San Juan 1157,San Francisco,03564-425248,27-30238927-1,71,ferreteriaribero@gmail.com,Cordoba,Inscripto   ,MARDELO/MARIANA,77,30 ds FECHA FACTURA,7
+4873.00,Alday Claudio Gaston***,Eguino Y Chubut,Cutral Co,0299-4861894,20-31483924-3,16,almecbuloneria@gmail.com,Neuquen,Inscripto   ,(en blanco),77,30 DS C/REEMBOLSO,7
+4901.00,Security Comercial SRL,Vicente Lopez Y Planes 6608,Posadas,03764-462013 / 475224,30-70862918-5,136,securitycomercial@hotmail.com.ar,Misiones,Inscripto   ,(en blanco),71.3,30 DIAS FF. ,7
+4903.00,Hillairet Nereo E Y Hillairet Elio H S.H,Antartida Argerntina 327, Cerrito,0343-4890075,30-70860742-4,239,hillaireth@arnet.com.ar,Entre Rios,Inscripto   ,Elio,77,15 DS contra reembolso,7
+4906.00,Waimann Raul****,"Av. Fundadores 1115 , Colonia Hinojo",Olavarria,02284-491123,20-05504452-0,132,rgservicios@coopenet.com.ar,Buenos Aires,Inscripto   ,(en blanco),77,15 ds c/reembolso,7
+4923.00,Farina Ana Maria Matilde****,Dinamarca 797,Tandil,0249-4435344,23-21948775-4,794,danbres_herrajes@hotmail.com,Buenos Aires,Inscripto   ,Sr Fabian,77,30 ds fecga factura,7
+4927.00,Checa Cristian Omar*****,Av.Piazza 1386,Azul,02281-433289,20-20366912-8,728,hierros checa@hotmail.com,Buenos Aires,Inscripto   ,(en blanco),77,30 DS C/REEMBOLSO,7
+4937.00,Vaca Herbin Daniel***,"Av,Carranza 736",Villa Nueva,0353-4913163,20-16180501-8,646,elprogreso_ferret@hotmail.com,Cordoba,Inscripto   ,(en blanco),77,15 DS C/REEMBOLSO.,7
+4942.00,Gonzalez Horacio Edgardo,Circunvalacion 4 Nº 1742,Veronica,02221-481742,20-13087161-6,943,casagonzalezv@gmail.com,Buenos Aires,Inscripto   ,Atilio,77,15 DIAS COBIMPRO,7
+4964.00,Acosta Sergio**,Sarmiento 480,Oran,03878-423977,20-27221255-5,577,agrometbul@hotmail.com,Salta,Inscripto   ,Lorena Acosta,77,4/11/2009,7
+4976.00,Sosa Leandra Celeste,Ruta 12 Km 1083 ,Ramada Paso,0379-154629423,27-28244184-0,320,sanabriadavid058@gmail.com,Corrientes,Monotributo ,(en blanco),77,(en blanco),7
+4988.00,Capeletti Silvia Ines***,Libertador 167,Monte Caseros,03775-425034,27-21976718-3,492,silagusger@hotmail.com,Corrientes,Inscripto   ,GERARDO,77,15 DIAS FECHA FACTURA,7
+4992.00,Alonso Jose Manuel,Av Pcias Unidas 349 Bis,Rosario,0341-4572187,20-29112107-2,404,bulonerag8@hotmail.com,Santa Fe,Inscripto   ,Jose,77,(en blanco),7
+5009.00,Materiales Y Ferreteria SRL,Pje.Aicardi 747,San Miguel del Monte,02271-405489/405516,30-69264988-1,732,marioleceiras@live.com.ar,Buenos Aires,Inscripto   ,(en blanco),77,30 DS C/REEMBOLSO,7
+5036.00,Rivolta Juan Natalio,Malaver 3695 Bª Rene Favaloro ,Santa Fe,0342-4884023,23-25629505-9,117,juanri30@yahoo.com.ar,Santa Fe,Inscripto   ,Juan,77,30 DS C/REEMBOLSO,7
+5048.00,Gonzalez Hector Ruben*****,Venezuela 439 PA,Ensenada,0221-4602509,20-23960366-2,100,mader-ser@argentina.com,Buenos Aires,Inscripto   ,Ruben,77,contado,7
+5052.00,Schwesig Otto Pablo F,Av. De Los Inmigrantes Y A.Petcho,Las Breñas,03731-460414,20-07908914-2,495,(en blanco),Chaco,Monotributo ,(en blanco),77,30 DS C/REEMBOLSO,7
+5053.00,Minhot Edgardo Javier,Ruta 94 Km 72.2 ,Charata,03731-421000,20-18006547-5,136,ejm@arnetbiz.com.ar,Chaco,Inscripto   ,(en blanco),77,30 DS C/REEMBOLSO,7
+5087.00,Raffin Martin Emanuel,Toledo Y Los Indios 0,Guamini,02929-430022,20-33653839-5,624,ferreteriaguamini@yahoo.com.ar,Buenos Aires,Inscripto   ,(en blanco),77,15 dsc/reembolso,7
+5090.00,Avalos Pablo Cesar,Ancalo 1050,General Pinto,02356-421113,20-23795062-4,548,mdelvallecajes@hotmail.com,Buenos Aires,Inscripto   ,(en blanco),77,30/45 ds c/reembolso,7
+5126.00,Bernardi Leonardo Raul,Caaguazu 965,Curuzu Cuatia,03774-421822,20-29642107-4,492,leito490@hotmail.com,Corrientes,Inscripto   ,(en blanco),77,Cdo anticipado,7
+5135.00,Alderete Jorge Antonio,Ruta 9  Y Fleming,Termas de Rio Hondo,03858-15412699,20-30208359-3,150,bgbuloneraelgitano@hotmail.com,Sgo. del Estero,Monotributo ,(en blanco),77,15 ds c/reembolso,7
+5141.00,Giroldi Dario Daniel,Sarmiento Y San Juan,El Colorado,0370-154688758,20-22814894-7,495,buloneragiroldi@yahoo.com.ar,Formosa,Inscripto   ,(en blanco),77,30 DS C/REEMBOLSO,7
+5147.00,Patagonia Gas SRL,Bernardino Del Hoyo 55,Caleta Olivia,0297-4859838,30-70731747-3,353,patagas_franco@hotmail.com,Santa Cruz,Inscripto   ,Franco De Castro,77,30 DIAS C/REEMBOLSO,7
+5161.00,Servi Car SRL****,Libertad 272,Segui,0343-4880886,30-63187919-1,494,trespilares@servicarsrl.com.ar,Entre Rios,Inscripto   ,(en blanco),71.4,15 DS F/FACTURA COBINPRO,7
+5163.00,Fenoglio Antonio Benito,Moreno 763 ,Laboulaye,03385-426812/428091,20-12657382-1,939,pablo_fenoglio05@yahoo.com.ar,Cordoba,Inscripto   ,(en blanco),77,15 ds c/reembolso,7
+5178.00,Jacue Daniel Jose,Sarmiento 1857,Bragado,02342-423876,20-10238027-5,528,danieljacue@hotmail.com,Buenos Aires,Inscripto   ,(en blanco),77,15 ds fecha factura,7
+5227.00,Acuña Filemon*****,Barrio Simon Bolivar Manz 25 Casa 30,Formosa,0370-154611744/15707428,20-05412467-9,495,bulonera_simon@yahoo.com.ar,Formosa,Monotributo ,0370-4474643  0370-415283595,77,ANTICIPADO SI O SI.,7
+5229.00,Mainumby SA,Av. Italia 1245,Formosa,0370-4435-763 /,30-71468104-0,913,mainumbysafsc@gmail.com,Formosa,Inscripto   ,Angel Antonio Bobadilla ,77,30 DS C/REEMBOLSO,7
+5234.00,Lecumberri Maria Patricia***,Tomás Cosentino 1735,9 De Julio,02317-422327,27-22666519-1,756,lecumberri.repuestos@gmail.com,Buenos Aires,Inscripto   ,Dario Redigonda,77,retira comisionista,7
+5235.00,Hidalgo Gustavo Reynaldo***,J. R. Vidal 2825,Chacabuco,03794-444700,20-25876872-9,320,ferreteria_chacabuco@hotmail.com,Buenos Aires,Inscripto   ,GUSTAVO,77,30 DIAS C/REEMBOLSO,7
+5239.00,Lopez Pablo Gabriel,Nicolas Levalle 2174,Bahia Blanca,0291-154315801,(en blanco),126,pablolopez_76@hotmail.com,Buenos Aires,Inscripto   ,(en blanco),77,15 dias c/reembolso,7
+5268.00,Rehe Rafael Oscar,Av.Gutnisky 3025,Formosa,0370-154412214,20-23897306-7,18,oscarehe_897@yahoo.com.ar,Formosa,Inscripto   ,(en blanco),77,30 DS C/REEMBOLSO,7
+5279.00,Gonzalez Henry,Belgrano 399,Santa Eufemia,03584-491123,20-20516238-1,80,ferret.gonzalez@gmail.com,Cordoba,Inscripto   ,(en blanco),77,30 DS F/FACTURA ,7
+5312.00,Osuna Cesar Ramon,Ruta 86 Km 1346.5,Laguna Blanca,03718-470524,20-11404696-6,433,ssagropecuario@hotmail.com,Formosa,Inscripto   ,(en blanco),77,30ds fecha factura,7
+5315.00,Avaro Ruben Osmar**,Rosello 125,Villa Huidobro,02336-481740,20-16404579-0,608,necriferreteria@yahoo.com.ar,Cordoba,Inscripto   ,(en blanco),77,30 ds FECHA FACTURA,7
+5329.00,Pelleriti Carlos Dario,Juan D.Peron 52,Chepes,03821-420588,20-24836838-2,372,neumaticos_pelleriti@yahoo.com.ar,La Rioja,Inscripto   ,(en blanco),77,15/30/45/60 ds c/reembolso,7
+5363.00,Collini Gustavo Adrian,Av. Independencia 588,San Cayetano,02983-440721,20-18085086-5,505,gacollini@hotmail.com,Buenos Aires,Monotributo ,GUSTAVO,77,30 DIAS C/ REEMBOLSO,7
+5383.00,Murrasano Jorge Antonio***,Hipolito Yrigoyen  441,Ticino,0353-4886251,20-14665777-0,534,jorgemurrasano@hotmail.com,Cordoba,Inscripto   ,Jorge,77,7 dias COBIMPRO,7
+5388.00,Estevan Monica Ines***,Calle 107 Nº 485 Oeste (108 Bis Y 110),General Pico,02302-15619609,27-17023911-9,484,ferreteriaelabuelo107@hotmail.com,La Pampa,Inscripto   ,Monica Amer /daniel,77,30 DIAS C/REEMBOLSO,7
+5402.00,Raposo Martin Luis***,Ruta 28 Esq Camino Flor Serrana 0,Tanti,03541-498755,20-23317114-0,249,martinraposo@hotmail.com,Cordoba,Inscripto   ,(en blanco),77,CONTADO C/REEMBOLSO,7
+5495.00,Olivera Emilio Dante,Valle Viejo 182,Catamarca,0383-4427956,23-14452465-9,150,(en blanco),Catamarca,Inscripto   ,(en blanco),77,15 ds fecha factura,7
+5504.00,Santa Victoria SRL,Ruta Nacional 158 Y Prov 2,Villa Nueva,0353-4911700,30-61319631-1,751,ventastavictoriasrl@yahoo.com.ar,Cordoba,Inscripto   ,(en blanco),77,7 ds c/reembolso,7
+5505.00,Licata Marcelo Francisco,Gutierre 1180,9 De Julio,02317-433250,20-23756219-5,329,marcelolicat@gmail.com,Buenos Aires,Inscripto   ,(en blanco),77,30 DS C/REEMBOLSO,7
+5510.00,Latini Silvio,Los Fresnos 53,Valle Maria,0343-4999195,20-20776609-8,490,miltonspahn@hotmail.com,Entre Rios,Inscripto   ,(en blanco),77,(en blanco),7
+5517.00,La Fresca Viruta SRL,Italia 1143,La Paz,03437-421067,30-71146367-0,704,claudiapeano@hotmail.com,Entre Rios,Inscripto   ,Carlos Cerruti,77,30 DIAS FF,7
+5579.00,Gomez Eduardo Daniel,San Martin 562,Bonifacio,02929-493138,20-25200778-5,624,danielgomez022@hotmail.com,Buenos Aires,Inscripto   ,EDUARDO,77,30 dias c/reembolos,7
+5597.00,Martinez Ariel Norberto*******,Fray L.Beltran Y Cordoba,Huinca Renanco,02336-494278,20-25014416-5,8,huincagro@huincacoop.com.ar,Cordoba,Inscripto   ,NAHUEL VILLAFAÑE,77,30/ds c/reembolso,7
+5608.00,Velez La Bulonera S.A.S,Pellegrini 691,Salta,0387-4311399,30-71885627-9,196,velezlabulonera@gmail.com,Salta,Inscripto   ,Gloria,71.3,7 DIAS FF,7
+5609.00,Quiroga Laura Fabiana J.***,Bilbao 685,Rio Grande,02964-424081,27-22955299-1,106,latuercash@speedy.com.ar,T. del Fuego,Inscripto   ,Sr Marcelo(Compras),77,ANTICIPADO,7
+5635.00,Hernandez Juan Andres***,Av Marconi 1507,Tandil,02494-431592,20-05386746-5,582,(en blanco),Buenos Aires,Inscripto   ,PABLO / JUAN / CESAR,77,30 DIAS C/REEMBOLSO,7
+5663.00,Carmona Adriana Marcela*****,Marcos Paz 3557,Tucuman,0381-4333391/4320058,27-18665567-8,0,(en blanco),Tucuman,Inscripto   ,(en blanco),77,facta tranporte y cond.de pago,7
+5665.00,Piñon Ezequiel Andres Y Eggs Danilo Gust,BV. SAVIO 280      ,Villaguay,03455-425449,30-71466709-9,490,compras@nague.com.ar,Entre Rios,Inscripto   ,DANILO 03447-15405186//BRUNO,77,15 ds fehca factura,7
+5668.00,Melin Javier Conrado,Av.12 De Octubre 1593,San Carlos de Bariloche,0294-4526264,20-20679079-3,421,(en blanco),Rio Negro,Inscripto   ,(en blanco),77,15 ds c/reembolso,7
+5673.00,Agrodero SH De Ilari A Y Radnic A,Jorge Newbery 860,Daireaux,02316-493011,30-65014808-4,100,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,(en blanco),7
+5686.00,Carderole Fabio Omar,Eva Peron 1172,9 De Julio,02317-524515,20-18647371-0,761,ferreteria_9dejulio@hotmail.com,Buenos Aires,Monotributo ,Cristina Lilian Rodrigue Blanco (ENCARGA,77,20/45 DS C/REEMBOLSO,7
+5707.00,Masante Celia Margarita,Ruta  27 S/N,Del Campillo,03583-499184,27-04486893-3,608,agroindustrialferreteria@gmail.com,Cordoba,Inscripto   ,lilianads@delcampillocoop.com.ar,77,30 DIAS F/FACTURA,7
+5733.00,Sanchez Ramon Mario****,Av.Maipu 695,CORRIENTES,03794-433902/,20-16170012-7,130,ferreteriamalvinas@hotmail.com,Corrientes,Monotributo ,Mario Sanchez,77,30 DS F/FACTURA,7
+5776.00,Kovere Edgardo,Perom166,General Alvear,02344-481579,(en blanco),174,todoagroferr@hotmail.com,Buenos Aires,Inscripto   ,(en blanco),77,(en blanco),7
+5811.00,Chein Alejandro***,Av.Francisco De Aguirre 240,Añatuya,03844-421552,20-16221624-5,621,alejandrochein@yahoo.com.ar,Sgo. del Estero,Inscripto   ,(en blanco),77,30/60 ds f/factura anticipado,7
+5820.00,Hierros Balcarce SH De Garcia H Y Olivad,Calle 41 Nª 635,Balcarce,02266-424052 ,30-70999394-8,236,nestor-olivadoti@hotmail.com,Buenos Aires,Inscripto   ,(en blanco),77,30 DS C/REEMBOLSO,7
+5827.00,Almandoz Miguel Angel,Campaña Del Desierto 1005,Calafate,02966-15621193,20-16068374-1,83,(en blanco),Santa Cruz,Inscripto   ,Luis,77,30/45 ds c/reembolso,7
+5844.00,Bovio Miriam Noemi,Ruta E 86 S/N,Coronel Moldes,03582-466868,27-25796949-0,15,mym@moldescoop.com.ar,Cordoba,Inscripto   ,(en blanco),77,30/60 ds c/reembolso,7
+5851.00,Pezzarini Guillermo Ramon,Avda. Belgrano 1545,Chajari,03456-423446,20-28196319-9,927,elnegrogame@hotmail.com,Entre Rios,Inscripto   ,Gaston,77,30 DIAS FF,7
+5883.00,Pastre Hector Fabian,Gobernador Guzman 2050,Rio Cuarto,0358-4634966,20-20570584-9,15,(en blanco),Cordoba,Inscripto   ,Fabian,77,7 DIAS FF,7
+5885.00,Fontan Samela Gisela,Gutemberg 2477,Corrientes ,03794-442095,27-16141442-0,320,gisela_fontan@hotmail.com,Corrientes,Monotributo ,Gisela,77,Anticipado. p/q el cliente prefire asi,7
+5887.00,Rossi Daniel Luis A,Av.San Martin 3225,Colonia Caroya,03525-466657,20-11573329-0,568,compras@se-ro.com.ar,Cordoba,Inscripto   ,(en blanco),77,15ds c/reembolso CON CHEQUE,7
+5888.00,Metalurgica Duroll SRL ****,Uribuo 3635 (ex Ruta 8 Km 49),La Lonja Pilar,02304-470762 ,30-71147582-2,100,duroll@metalurgicaduroll.com.ar,Buenos Aires,Inscripto   ,JONNI /MARCELA,0,(en blanco),7
+5904.00,Califa Miguel Angel,Castelli 53,Alberti,02346-15413159,20-16915677-9,208,(en blanco),Buenos Aires,Monotributo ,(en blanco),77,30 DS C/REEMBOLSO,7
+5917.00,Anton Daiana***,Rio Negro 251,Ingeniero Huergo,02984-480999,27-30239391-0,705,(en blanco),Rio Negro,Inscripto   ,(en blanco),77,30 DS C/REEMBOLSO,7
+5976.00,Santillan Fabiola Vanesa,Siro Echesortu 147,Gral Mosconi,03873-482368,23-24736244-4,150,carlosalfredobrito@hotmail.com,Salta,Inscripto   ,CARLOS,77,CDO C/REEMBOLSO,7
+5992.00,Fernandez Eduardo Enrique***,San Martin 431,Villa Valeria,03583-497428,20-14268911-2,15,ferrosur_ferreindu@hotmail.com,Cordoba,Inscripto   ,MANUEL VAZQUEZ,77,30 DS C/REEMBOLSO,7
+5996.00,Diaz Alcides,Av Calixto Calderon 451,Chivilcoy,02346-15605028,20-26452425-4,0,alcides_diaz27@hotmail.com,Buenos Aires,Inscripto   ,Alcides,77,anticipado x ser nuevo,7
+5998.00,Tito Jorge Adolfo***,Rucci 139,Concordia,0345-4290508,23-10699829-9,277,buloneraelmartillo@gmail.com,Entre Rios,Inscripto   ,AGUILAR LUIS,77,7 DIAS FF DEPOSITA RAPIDO,7
+6016.00,Bertuccelli Roberto Luis,Av.San Francisco Km 4.5,La Rioja,03804-451394,20-12489205-9,289,fbertu@fbertu.arnetbiz.com.ar,La Rioja,Inscripto   ,(en blanco),77,30/60 ds c/reembolso,7
+6090.00,Parra Miguel Alfredo,Larraguren 1667,Campana,03489-507624,20-20315646-5,100,(en blanco),Buenos Aires,Monotributo ,(en blanco),77,30/60 DS F/FACTURA,7
+6110.00,SPAG SRL,Aguada Nueva 1808,Bº Parque Capital,0351-4657324,30-62997740-2,345,victor_spitale@hotmail.com,Cordoba,Inscripto   ,Victor Hugo Spitale,0,ANTICIPADO,7
+6252.00,Grupo Rossi Argentina De Negocios SA***,Ex Ruta 8km 77 Y Ruta192,Parada De Robles,02323-478504/ 478530,30-71233949-3,100,leandro@rossihome.com.ar,Buenos Aires,Inscripto   ,(en blanco),77,contado,7
+6253.00,Garcia Gabriel Alejandro,Av.Don Bosco 66,25 de Mayo,0299-4949176,20-22151365-8,707,electro-comp@hotmail.com,La Pampa,Inscripto   ,Srta Florencia,77,30/60 ds c/reembolso,7
+6262.00,Ruiz Edgardo Armando,Donovan 665,Federal,3454-15430327,20-25911531-1,129,(en blanco),Entre Rios,Monotributo ,Edgardo,77,30 ds c/ reembolso,7
+6332.00,Matcom SAS,Lonquimay 3885,San Carlos de Bariloche,0294-4441553,33-71780769-9,421,arroyohuber@gmail.com,Rio Negro,Inscripto   ,(en blanco),77,(en blanco),7
+6381.00,Granollers Daniel Felix******,Ruta 6 Acceso Sur 0,Rincon De Los Sauces,0299-1558-06368 DANIEL,23-11545278-9,901,metalurgicarincon@hotmail.com,Neuquen,Inscripto   ,Gustavo * DANIEL,77,ANTICIPADO,7
+6445.00,Flores Victor Ariel,Rioja 496,Cafayate,03868-422330,20-26027813-5,150,(en blanco),Salta,Inscripto   ,(en blanco),77,30 DS C/REEMBOLSO,7
+6455.00,Radio Lux SA***,Coronel Gonzalez 20,Gualeguay,03444-425494,30-55159030-1,491,ferrolux@radiolux.com.ar,Entre Rios,Inscripto   ,Nestor Fizzo,77,30 DS F/FACTURA,7
+6461.00,Barrionuevo Victor Hugo***,J.A.Carrizo S/N A100 mts Al Norte,San Antonio De FM Esquiu,0383-154641001,20-31648788-3,665,victor_h04@hotmail.com,Catamarca,Monotributo ,(en blanco),77,30 DS F/FACTURA,7
+6489.00,Coggiola Enrique A,Necochea 80,Junin De Los Andes,02972-492500,20-14914470-7,264,ventas@conerepuestos.com.ar,Neuquen,Inscripto   ,(en blanco),77,30 DS F/FACTURA,7
+6496.00,Kozik Carlos Martin*****,Av.Paraguay 1334,El Dorado,03751-420422,20-16129504-4,306,kozikferreteria@gmail.com,Misiones,Inscripto   ,CARLOS,71.3,30 DS F/FACTURA,7
+6516.00,Ferrometal SRL***,Auca Mahuida Y Belgrano,Rincon De Los Sauces,0299-15418016 /156338538,30-61200660-8,345,ferrometal_rdls@hotmail.com,Neuquen,Inscripto   ,David,77,(en blanco),7
+6527.00,Janaris Mauricio,Av. San Martin 176,Rio Colorado,02931-432704,30-71245617-1,345,buloneravenida176@hotmail.com,Rio Negro,Inscripto   ,MAURICIO,77,30 DIAS C/ REEMBOLSO,7
+6532.00,Gomez Gustavo Amilcar,Av. Luro 6334,Mar del Plata,0223-4772361,23-11991012-9,470,buloneraluro@hotmail.com,Buenos Aires,Inscripto   ,(en blanco),77,30 DIAS FF,7
+6602.00,Impulso Repuestos S.CAP I SECC IV,H.Irigoyen 681,Santa Rosa,02954-433129,30-71744275-6,144,impulso@impulsorepuestos.com.ar,La Pampa,Inscripto   ,(en blanco),77,30 DS F/FACTURA,7
+6603.00,Zapata Walter Hernan,9 De Julio Y Piaggio,Victoria,03436-429210,23-30205092-9,490,el.ferretero@yahoo.com.ar,Entre Rios,Monotributo ,Gustavo  / Walter/ Debora,77,(en blanco),7
+6663.00,Fuentes Martin,Irigoyen 100,Rauch,02297-442948,20-05325520-6,808,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,15 DS F/FACTURA,7
+6682.00,Acoplanoa SRL***,Ruta 306 Km 2,Banda Del Rio Sali,0381-497-3390,30-70951964-2,414,acoplanoasrl@gmail.com,Tucuman,Inscripto   ,Marcela Luna/alexis,77,ANTICIPADO HASTA VER COMO ES,7
+6716.00,Grecal SA,España 1622,Puerto Madryn,0280-154023466,30-71438086-5,353,(en blanco),Chubut,Inscripto   ,Ezequiel,77,30 DS C/REEMBOLSO,7
+6728.00,Balcarcel  Alejandro Cesar***,Av.Masei 1890,Lincoln,02355-422748,20-14382292-4,774,acbalcarcel@hotmail.com.ar,Buenos Aires,Inscripto   ,(en blanco),77,SI O SI ADELANTADO,7
+6745.00,Jacob Miguel Teodoro,Tucuman 1629,9 De Julio,02317-409927,20-92270020-7,329,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,30 DS F/FACTURA,7
+6756.00,Ferreyra Florencio E,Av Lavalle 1162,Mercedes,03773-422629,20-22319051-1,4,ventas@mavenida.com,Corrientes,Inscripto   ,Christian,77,30 DIAS C/REEMBOLSO,7
+6779.00,Mendez Santiago,Av.San Martin 413,San Martin De Los Andes,02972-420983,20-26587570-0,0,lien_925@hotmail.com,Neuquen,Monotributo ,(en blanco),77,(en blanco),7
+6799.00,Sergio Fabian Duran,Cordoba 21,Plotier,0299 155043270,20-22173559-6,345,sergioduran_nqn@yahoo.com.ar,Neuquen,Inscripto   ,(en blanco),77,(en blanco),7
+6806.00,Caire E Hijos S.R.L,Entre Rios 2536,San Jose,03447-458071/03447-477641,30-71819944-8,127,info@cairemp.com,Entre Rios,Inscripto   ,(en blanco),77,30 DS C/REMBOLSO,7
+6814.00,Toniolo Nelson Marcelo,Av.Alem 370,Federacion,03456-483020,20-27337573-3,927,donatilioferreteria@gmail.com,Entre Rios,Inscripto   ,NELSON,77,(en blanco),7
+6823.00,Moldes Carlos Fernando,Calle 104 Nª 168,Mechongue,02266-493157,20-30228849-7,419,moldesfc@hotmail.com,Buenos Aires,Inscripto   ,(en blanco),77,30 dsc/reembolso,7
+6851.00,Abojer Cristian Gaston,Ameghino 345,Villa Manzano,0299-4973423,20-24123919-6,16,abojergaston@hotmail.com,Rio Negro,Inscripto   ,(en blanco),77,30/45 ds c/reembolso,7
+6852.00,Sanchez Silveiro Bautista,Av.Naciones Unidas 1820,Cipoletti,0299-4792423/15-4154591,20-12800969-9,533,(en blanco),Rio Negro,Monotributo ,(en blanco),77,30 DS C/REEMBOLSO,7
+6853.00,Transito Franco Jose,Av.Cipoletti 435,Fernandez Oro,0299-4996560,20-07574578-9,16,cemapuche@hotmail.com,Rio Negro,Inscripto   ,Srta Gabriela,77,30 DS F/FACTURA,7
+6880.00,Veltens Miguel Angel,Acceso Carlos Sand 1008,Bueno Esperanza,02658-420333,20-11345108-5,8,ferreteveltens@hotmail.com,San Luis,Inscripto   ,(en blanco),77,30 DS F/FACTURA,7
+6947.00,Pauluk Ricardo Federico,Alberdi 224,Tres Isletas,0364-154577941,20-22866983-1,320,ricky.pau@hotmail.com,Chaco,Inscripto   ,(en blanco),77,30 ds f/factura cobinpro,7
+7071.00,Schiaroli Gino Nicolas,Manzana L Lote 1 G Parque Industrial,San Patricio Del  Chañar,0299-1540-67996,20-37517033-8,16,gerardo20041978@hotmail.com,Neuquen,Inscripto   ,(en blanco),77,(en blanco),7
+7078.00,Percara Sergio Gustavo,Irigoyen 655,Monte Caseros,03775-15413915,20-28512680-1,492,ferretirigoyen@hotmail.com,Corrientes,Monotributo ,ALDO/SERGIO,77,30 DIAS FF,7
+7085.00,Chersicla German Oscar,España 178,Villa Regina,0298-4568882,20-28516268-9,705,germanchersicla@hotmail.com,Rio Negro,Inscripto   ,(en blanco),77,30 DS C/REEMBOLSO,7
+7110.00,Pico Pablo,(en blanco),(en blanco),(en blanco),30-15658997-3,0,(en blanco),Buenos Aires,Inscripto   ,(en blanco),0,(en blanco),7
+7128.00,Garcia Minetti Fabian***,Calle 401 Nº 996,General Pico,02302-1561-4537,20-22074832-5,434,administracion@fagami.com.ar,La Pampa,Inscripto   ,fagami@generalpico.com.ar,77,ANTICIPADO X CBU,7
+7162.00,Casilda Emprendimiento SRL***,Ovidio Lagos 1320,Casilda,03464-426669,30-70946999-8,777,casildaemprendimientos@hotmail.com,Santa Fe,Inscripto   ,Laura,77,30 DS C/REEMBOLSO,7
+7171.00,Dominguez Raul Eduardo,Guemez Esq Tucuman,Las Lajitas,03877-1545-7872,20-31393926-0,150,antatools@hotmail.com,Salta,Inscripto   ,(en blanco),77,30 DS C/REEMBOLSO,7
+7183.00,Gomez Gustavo Antonio,11 De Setiembre 2822,Mar del Plata,0223-4700573,20-11990620-3,554,gagpatagonico@hotmail.com,Buenos Aires,Inscripto   ,Los Lunes No Atienden,77,30 DS F/FACTURA,7
+7196.00,Metalurgica Cristal SRL***,Av. Roca 1095,Comodoro Rivadavia,0297-4484600,30-70819174-0,401,buloneria.industrial@gmail.com,Chubut,Inscripto   ,GUILLERMO,77,30 dias contra reembolso,7
+7210.00,Rodriguez Mirta Susana,Podesta 440,Basavilvaso,03445-482056,27-14429516-7,190,ferreteriamagaldi@yahoo.com.ar,Entre Rios,Inscripto   ,DARIO,77,30 DS F/FACTURA,7
+7230.00,Andersen SA****,J.B.Justo 3463,Los Troncos Del Talar,4715-2900,30-69074169-1,81,proveedores@andersenmateriales.com.ar,Buenos Aires,Inscripto   ,mostrador@andersenferreteria.com.ar,80.6,(en blanco),7
+7237.00,Equipar Services SRL***,San Martin 2871,Neuquen,0299-4913751 (CATRIEL),30-71285380-4,16,heleno@equiparservices.com.ar,Neuquen,Inscripto   ,Jorge (SUC.CATRIEL),77,(en blanco),7
+7252.00,Avellaneda Raul Andres*****,VELEZ SARFIELD 1685,Comodoro Rivadavia,0297-15-4327872 ,20-28151335-5,115,andres.avellaneda@yahoo.com.ar,Chubut,Inscripto   ,(en blanco),0,(en blanco),7
+7269.00,Bahia Blanca SRL,Av.Fragata Sarmiento 1528,Rada Tilly,0297-4451546,30-70814736-9,914,ferrebahiablanca@speedy.com.ar,Chubut,Inscripto   ,ANTONIO,77,ANTICIPADO,7
+7274.00,Eguia Nelida Cristina,Menguelle 1212,Cipoletti,0299-4781194,27-20629731-5,705,todogasagua@gmail.com,Rio Negro,Inscripto   ,Ricardo,77,(en blanco),7
+7287.00,Parrilla Elisa Raquel,Lavalle 278,Gualeguaychu,03446-15545902,27-06696227-5,100,acopiocarro@yahoo.com.ar,Entre Rios,Inscripto   ,(en blanco),0,(en blanco),7
+7307.00,Ferreteria Kikan SAS,Av.De Las Americas 4109,Parana,0343-4352260/1546-20241,30-71734296-4,24,ferreteria_kikan@hotmail.com,Entre Rios,Inscripto   ,Cirstian/ORLANDO,77,30 DS F/FACTURA,7
+7342.00,Alvarez Miguel Ulpiano,Tucuman 427,Quitilipi,03644-481740,20-11018769-7,136,hogarmueblesali@live.com.ar,Chaco,Inscripto   ,Ditribuidorajimotos@hotmail.com,77,(en blanco),7
+7344.00,Melo Martin Leopoldo,Ruta 39 Km 1.50 Paraje Pavon,Exaltacion De La Cruz,02323-473473,20-16866346-4,81,tractoresrobles@gmail.com,Buenos Aires,Inscripto   ,(en blanco),77,(en blanco),7
+7360.00,Hugas Y Cia SRL***,25 de Mayo y Uruguay,Trelew,0280-4420870/4432976,30-71326410-1,401,eduardohugas@gmail.com,Chubut,Inscripto   ,AINARA 0280-154613197,71.4,(en blanco),7
+7375.00,Chiavon Edgardo Abel,RAUL B DIAZ 675,Santa Rosa,0295-4564264,20-29376090-0,707,ferretnuevosvientos@hotmail.com,La Pampa,Inscripto   ,(en blanco),77,(en blanco),7
+7416.00,Diana Griselda,Av.9 De  Julio 3935,Chajari,03456-431970,27-25694573-3,128,imperio.16@hotmail.com,Entre Rios,Inscripto   ,Aldo,77,(en blanco),7
+7428.00,Gabella Martin Enrique******,Av.Angel Alvear 3282,Don Torcuato,4727-2500,20-21452411-3,100,info@delplataequipos.com.ar,Buenos Aires,Inscripto   ,Gabriela,80.6,(en blanco),7
+7450.00,Ledesma Abdala Ignacio S,Necochea Esq Avellaneda,La Banda,0385-4270693,20-36640240-4,86,laferreteria16@hotmail.com,Sgo. del Estero,Inscripto   ,(en blanco),77,(en blanco),7
+7484.00,Alvarez Miguel,Tucuman 427,Quitilipi,03644-652795,(en blanco),136,hogarmueblesali@live.com.ar,Chaco,Inscripto   ,(en blanco),0,(en blanco),7
+7520.00,Aguirre Perez Sandra Mabel,Bernardo Perez 431,Pcia.de La Plaza,03734-426176,27-24799233-8,136,bermuttijose@hotmail.com,Chaco,Monotributo ,Jose Bermudez,77,30 DS C/REEMBOLSDO,7
+7521.00,Darmax Ferreteria SA,Belgrano 972,San Miguel,4451-7970,30-71435367-1,81,(en blanco),Buenos Aires,Inscripto   ,DARIO,80.6,(en blanco),7
+7562.00,Tomas Elorriaga E Hijos SA ,Ruta 2 Km 274 ,Maipu,02268-421399,30-54688265-5,552,repuestos@tomaselorriaga.com.ar,Buenos Aires,Inscripto   ,CARLOS LOISA,77,30 dias contra reembolso,7
+7572.00,Savorgnano Sebastian***,Av.Marcelo T De Alvear 2050,Rio Cuarto,0358-4647726,20-33233249-0,369,sysferreteria-pintureria@hotmail.com,Cordoba,Inscripto   ,(en blanco),77,(en blanco),7
+7616.00,Sacco Leonardo Gabriel,Felix Pagola 220,Zarate,03487-434787 (no usar),20-22401727-9,81,todobulon04@gmail.com,Buenos Aires,Inscripto   ,Dardo Perez  03487-15517609,77,(en blanco),7
+7619.00,Veciconti Pascual Manuel,Donovan 828,Federal,03454-421031,20-08423531-9,128,(en blanco),Entre Rios,Inscripto   ,(en blanco),77,(en blanco),7
+7620.00,Trejo Leopoldo Miguel,Cabellera Del Frio 692,Neuquen,0299-4330298,20-17489742-6,705,losmercantiles@gmail.con,Neuquen,Inscripto   ,Ferreteria@losmercantiles.com.ar,77,(en blanco),7
+7633.00,*******Gasparini Jimena Martina,Av Directorio 857,Alberti    ,02320-554055,27-37059708-7,81,ingaspa@hotmail.com,Buenos Aires,Inscripto   ,Enrique/Jimena,80.6,(en blanco),7
+7653.00,Rigoni Cesar Gerardo**,Parque Industrial Calle 3 Y M. Moreno,Federacion,03456-15659557,20-27337436-2,128,cesarrigoni@hotmail.com,Entre Rios,Inscripto   ,Cesar,77,30 DIAS CONTRAREEMBOLSO,7
+7687.00,Cortassa Carlos Cesar (NO VENDER),Pedro Avanthay 213,Rafaela,03492-1561-9456,20-13224386-8,459,carloscesarcortassar@hotmail.com,Santa Fe,Exento      ,Cesar,77,RETIRA DE FABRICA Y PAGA CONTADO,7
+7693.00,Kler Liliana Mabel,Diaz Velez 389,Concepcion del Uruguay,03442-437102,27-20656056-3,490,lilikler@hotmail.com,Entre Rios,Monotributo ,(en blanco),77,(en blanco),7
+7694.00,Fagundez Marcelo Edgardo****,Balbin 2056,Concepcion del Uruguay,03442-440184,20-21529410-3,190,info@metalurgicafagundez.com.ar,Entre Rios,Inscripto   ,(en blanco),77,(en blanco),7
+7699.00,Passero Hugo Alfredo,AV Circunvalacion 25 DE Mayo 2830 Dpto:4,Rosario Sud,0341-45581728,20-10061419-8,493,hugo_alfredo55@yahoo.com.ar,Santa Fe,Monotributo ,(en blanco),77,(en blanco),7
+7702.00,Thea Ivan Alberto,BV Diaz Velez 399,Concepcion del Uruguay,03442-443377,20-30549518-3,490,corralonboulevares@hotmail.com,Entre Rios,Inscripto   ,(en blanco),77,(en blanco),7
+7705.00,Candarle Damian Javier,Cracco Y Perini,Villa Del Rosario,03456-15446900,20-21667505-4,490,damiancandarle@gmail.com,Entre Rios,Monotributo ,(en blanco),77,(en blanco),7
+7741.00,Pereyra Mariano Esteban,Schumann 476,Moreno,15-66872527,20-27381038-3,81,distribuidoragerard14@gmail.com,Buenos Aires,Inscripto   ,(en blanco),80.6,(en blanco),7
+7767.00,Reyes Juan Carlos** No Venderle,Superiora 264 (O),Rawson,0264-154409171,20-20675556-4,316,(en blanco),San Juan,Inscripto   ,(en blanco),77,(en blanco),7
+7784.00,Distel Roman Jacob,Jujuy 1311,Santa Rosa,02954-370784,20-27474941-6,144,ferredistel@gmail.com,La Pampa,Inscripto   ,(en blanco),77,(en blanco),7
+7800.00,Tendederos La Calesita SRL****,14 De Julio 3851,Castelar,4692-6762,30-71499051-5,100,marian-dallas@hotmail.com,Buenos Aires,Inscripto   ,Marian,77,(en blanco),7
+7810.00,Ramos Laura Valeria,Buenos Aires Norte 281,Plottier,0299-4932550,27-26935785-7,489,contacto@ferreteriadondiego.com.ar,Neuquen,Inscripto   ,(en blanco),77,(en blanco),7
+7829.00,Casagrande Juan Luis******,Pte .Peron 163,Larroque,03446-460137,20-36381333-0,490,juanl_casagrande@hotmail.com,Entre Rios,Inscripto   ,(en blanco),77,(en blanco),7
+7838.00,LS Electromecanica S A***,Parque Ind.bragado Parcela 2 B,Bragado,02342-421690/426093,30-66447654-8,100,sebastian.gomez@ls-arg.com,Buenos Aires,Inscripto   ,SEBASTIAN,71.4,(en blanco),7
+7841.00,Valle Nelson Hugo,H Yrigoyen 1002,Zarate,03487-421000/24560,20-04741096-8,81,loneravalle@gmail.com,Buenos Aires,Inscripto   ,Virginia,77,(en blanco),7
+7854.00,Rusalen Fernando Raul,Los Frutales 357,Villa Regina,+54 9 2984 58-7932,20-36871579-5,929,(en blanco),Rio Negro,Monotributo ,(en blanco),77,(en blanco),7
+7858.00,Mocca Cristian Alejandro,Barrio Parque Industrial Acceso Oeste,Los Frentones,0364-154689509,20-34036376-1,459,(en blanco),Chaco,Inscripto   ,(en blanco),71.4,(en blanco),7
+7860.00,Faruelo Marcelo Alfredo,Jose Vizcardi 175 Parque Industrial,General Pico,02302-436625,20-24369868-6,484,administracion@gpmetalizacion.com.ar,La Pampa,Inscripto   ,(en blanco),0,(en blanco),7
+7874.00,Chelia Julio Jorge,Gral.Guemes 264,Pehuajo,0296-471595,20-13095521-6,46,juliochelia@gmail.com,Buenos Aires,Inscripto   ,(en blanco),77,(en blanco),7
+7875.00,Dacunda Mario Rodrigo,Av.Laprida 989,CORRIENTES,0379-4475734,20-38876981-6,913,chaujuego@hotmail.com,Corrientes,Inscripto   ,(en blanco),77,(en blanco),7
+7882.00,Carbo Maria Marta,Perito Moreno 48,Contralmirante Cordero,299-6263036,27-25636870-1,489,elgallegoferreteria@yahoo.com,Rio Negro,Inscripto   ,(en blanco),77,(en blanco),7
+7892.00,Sola Y Brusa S A,Ruta Provinsial  NRO. 6 0,Frank,0342-4930141 int114,30-50613373-0,433,melina.degiorgio@solaybrusa.com,Santa Fe,Inscripto   ,Melina,0,(en blanco),7
+7917.00,Mendez Eduardo Jose,Av Ejercito Del Norte 928,San Miguel de Tucuman,0381-4231182,20-25168847-9,912,iguanamendez@msn.com,Tucuman,Inscripto   ,EDUARDO,77,(en blanco),7
+7951.00,Carabajal Alejandro Omar,AV. Sir Alexander Fleming 870,Martinez,15-41734860,20-21727693-5,100,ferreteriatecnicavf@gmail.com,Buenos Aires,Inscripto   ,Vitoria Arias 15-33282235,77,(en blanco),7
+7952.00,Santillan Ramon Angel,La Punta Licitacion 6 0  Dpto:7   M:3,Ciudad De LA Punta (CAPITAL),0266-415669326,20-17936465-5,673,(en blanco),San Luis,Monotributo ,Ramon,77,(en blanco),7
+7955.00,Espinosa Andres Antonio*****,MUÑECAS 2380 ,Tucuman,0381-4276439,20-18463579-9,953,andresespinosa90@hotmail.com,Tucuman,Inscripto   ,Andres,77,(en blanco),7
+7982.00,Berardi Juan Carlos,El Paraiso 1981,Villa Elisa,03447-15504288,20-20852262-1,127,jcarlosberardi@hotmail.com,Entre Rios,Inscripto   ,Juan Carlos Berardi,77,(en blanco),7
+8028.00,Rodriguez Maria Claudina,Libertad 211,Chilecito,03825-429460,27-28106306-0,289,(en blanco),La Rioja,Inscripto   ,(en blanco),77,30 DS F/FACTURA,7
+8031.00,Nicosia Orlando,Calle4 Nª 285,Sierra Grande,02934-481580,20-27009345-1,617,(en blanco),Rio Negro,Monotributo ,(en blanco),77,CONTADO C/REEMBOLSO,7
+8038.00,LA PRINCESA SAS,Av.Italia 3115,Formosa,03704-451448,30-71670192-8,495,ferreprincesa@gmail.com,Formosa,Inscripto   ,(en blanco),77,(en blanco),7
+8098.00,Agroservicios SRL,"Ruta Nacional Nª11 Km 1006,5",Resistencia,03624-464033,30-70782089-2,433,agroserviciosrl@arnetbiz.com.ar,Chaco,Inscripto   ,Oscar Medina,0,(en blanco),7
+8104.00,Macar Construcciones SRL,Av.San Martin 501,Trevelin,02945-480453,30-67038848-0,362,ferromac@macarconstrucciones.com.ar,Chubut,Inscripto   ,Juan,77,(en blanco),7
+8208.00,Pino Maria Natalia ,Gallardo 1086,San Carlos de Bariloche,02944-425591 ,27-28932837-3,264,ferreteria-lacentral@hotmail.com.ar,Rio Negro,Inscripto   ,JUAN - MERCEDES -MARIANA NATALIA,77,(en blanco),7
+8215.00,Flores Eduardo****,Luis Agote 1562,Quilmes,15-56071530,20-13356974-0,100,eduflores2011@gmail.com,Buenos Aires,Inscripto   ,(en blanco),77,(en blanco),7
+8218.00,Godoy Gregorio Santana,Ibirapita 2028,San Jose Del Rincon,0342-4972296,20-10338604-8,90,(en blanco),Santa Fe,Inscripto   ,(en blanco),77,(en blanco),7
+8224.00,Riesgo Alberto Hugo,Michael Jones 104,Trelew,0280-154976965,20-25902736-6,401,betoriesgo@hotmail.com,Chubut,Monotributo ,(en blanco),77,(en blanco),7
+8237.00,Moldeados En Caucho SRL,Mendoza 1263,General Roca,0298-154733061,30-71384240-7,16,moldeadosencauchosrl@gmail.com,Rio Negro,Inscripto   ,JULIO,77,(en blanco),7
+8238.00,Fer-Mec SA,Sgto Cabral 724,Las Varillas,03533-422061,30-71054288-7,285,fermec.sa11@gmail.com,Cordoba,Inscripto   ,Hugo Ferreyra,71.4,(en blanco),7
+8241.00,Motta Alfredo Javier,12 De Octubre Esq Cordoba,Clorinda,03718-15620694,20-25013039-3,468,(en blanco),Formosa,Monotributo ,(en blanco),77,(en blanco),7
+8268.00,Come.I SRL*****,9 De Julio 203,El Carmen,0388-4933188,30-71520616-8,0,comeisrl67@gmail.com,Jujuy,Inscripto   ,(en blanco),77,(en blanco),7
+8281.00,Conexas SAS ,Bustingorry 894,Neuquen,0299-155500337,30-71627066-8,16,agutierrex@conexas.com.ar,Neuquen,Inscripto   ,(en blanco),77,(en blanco),7
+8307.00,Servicios Agroindustria SRL,Buenos Aires 323,Arroyo Algodon,0353-4878020,30-70837861-1,296,serviciosagroindustriasrl@outlook.com,Cordoba,Inscripto   ,Emiliano Seia  / BELEN,77,(en blanco),7
+8321.00,Venica Delfino Norberto,Hipolito Yrigoyen 815,Reconquista,03482-426113,20-07874459-7,136,nicolasvenica@venicarepuestos.com.ar,Santa Fe,Inscripto   ,NICOLAS,77,(en blanco),7
+8326.00,Lopez Juan Manuel,Buenos Aires 150,Plottier,0299-4934544,20-33853273-4,932,caja@buloneradasu.com.ar,Neuquen,Inscripto   ,(en blanco),77,(en blanco),7
+8330.00,Matra SRL,Antartida Argentina 164,Plottier,0299-15-5708835,30-71613244-3,977,gustavoprincipe@matrasrl.com.ar,Neuquen,Inscripto   ,Gustavo Principe,77,(en blanco),7
+8335.00,Vizzolini Pablo Gustavo,Av.Del Trabajo 950,Las Perlas,0299-4441414,20-23692658-4,1,pablovizzolini@hotmail.com,Rio Negro,Inscripto   ,(en blanco),77,(en blanco),7
+8374.00,Vazquez Hugo Norberto****,Antonio Fernandez 366,Gobernador Gregores,02966-15563661,20-17246487-5,401,corralonteman@yahoo.com.ar,Santa Cruz,Inscripto   ,(en blanco),77,(en blanco),7
+8419.00,Navajo Racing SA,Intendente Grant 612,Moron,15-5475-6765,30-71033128-2,100,jmpaparella@yahoo.com,Buenos Aires,Inscripto   ,Juan Manuel,77,(en blanco),7
+8424.00,Garcia Hector H (Agromaderas Garcia),Acceso Fortin Alsina 1215,Intendente Alvear,02302-15-457748,20-12659761-5,484,sebastian@agromaderas-garcia.com.ar,La Pampa,Inscripto   ,SEBASTIAN,0,(en blanco),7
+8451.00,Coop.de Trabajo La Hoja LTDA,Ruta Prov. 210 KM 2.5 ,San Ignacio,0376-154156978,30-71501873-6,18,ivanacuna@lahoja.com.ar,Misiones,Inscripto   ,(en blanco),71.3,(en blanco),7
+8456.00,Comercializadora El Guri SRL*****,Juan XXIII Y Av.Cipoletti,Villa Regina,02984-365155,30-71583963-2,15,elguriregina@gmail.com,Rio Negro,Inscripto   ,Marcelo Perazzolo,77,(en blanco),7
+8457.00,Griglio SRL,Alem 209,Oliva,03532-410285,30-71017020-3,646,eduardomorales56@hotmail.com,Cordoba,Inscripto   ,grigliolym@coop-oliva.com.ar,77,(en blanco),7
+8470.00,Añasco Autopartes Y Servcios SRL,Av.Warnes 1742,CABA,4584-6688,30-70916480-1,100,enasco@sion.com,C.A.B.A.,Inscripto   ,(en blanco),77,(en blanco),7
+8474.00,Sgariglio Elvio Dario,Bv.Colon 1322,Bell Ville,03537-412414,20-12533541-2,565,solbell@solbell.com.ar,Cordoba,Inscripto   ,(en blanco),77,(en blanco),7
+8478.00,Capristo Y Rodriguez SRL,Humberto 1 655,Valentin Alsina,4209-5577 fabrica,30-51745231-5,100,(en blanco),Buenos Aires,Inscripto   ,LILIANA,0,(en blanco),7
+8534.00,Mercado Nicolas,Alberdi Esq. Gordillo,La Rioja,0380-4466-570,23-26089927-9,289,nico040604@hotmail.com,La Rioja,Monotributo ,NICOLAS,77,(en blanco),7
+8545.00,Carlos Flores SH,Dean Funes 1148,Salta,0387-155097922,33-64763282-9,577,carlos@carlosfloressh.com.ar,Salta,Inscripto   ,(en blanco),77,(en blanco),7
+8550.00,Garcia Luis Alvaro,Juan Padres Cortiz 288,Comodoro Rivadavia,0297-4200120,20-41969797-5,932,materiales_aldana@outlook.com,Chubut,Inscripto   ,(en blanco),77,(en blanco),7
+8553.00,Bugin Luciano Gabriel,Liniers 819,Monte Grande,4290-3824,20-31914050-7,100,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,(en blanco),7
+8558.00,Bertucci Hugo Alberto,Belgrano130,Gral Deheza,0358-4050314,20-12388587-3,15,abertucci@cgdweb.com.ar,Cordoba,Inscripto   ,(en blanco),77,(en blanco),7
+8562.00,Gulielmetti Agustin Ivan,Quintana 2846,Mar del Plata,(en blanco),20-37983035-9,939,(en blanco),Buenos Aires,Inscripto   ,(en blanco),0,(en blanco),7
+8564.00,Metalurgica Sur SRL***,Juan Larrea / Barrio Industrial,Caleta Oliva,0297-1559-09665,30-71595375-3,745,metalurgica_sur@yahoo.com.ar,Santa Cruz,Inscripto   ,(en blanco),77,(en blanco),7
+8565.00,Gomez Ninsa Beatriz,Av.Ttte.Jukic 1477,Comodoro Rivadavia,0297-154032108,27-22205088-5,932,masterporvenir@outlook.es,Chubut,Inscripto   ,(en blanco),77,(en blanco),7
+8566.00,Mercado El Adi Elisa Beatriz,Acceso Facundo Quiroga 680,La Rioja,(en blanco),27-10571533-7,289,mercadocesar57@gmail.com,La Rioja,Monotributo ,(en blanco),77,(en blanco),7
+8571.00,Iribarne Eduardo Y Ariel Salvi SH,AV.San Martin 692,Tres Arroyos,0249-154581674,33-71190023-9,298,info@simaqh.com.ar,Buenos Aires,Inscripto   ,(en blanco),77,(en blanco),7
+8579.00,Boasso Stella Maris,Magin Guerrero Y Salta,Comandante Fontana,03716-15401081,27-16132083-3,495,ruiz_apicultor@hotmail.com,Formosa,Monotributo ,Ruiz Juan R,77,(en blanco),7
+8582.00,Gonzalez Diego Raul,Concejal Veiga 2846 Bis,Concordia,03545-154013453,20-17966227-3,752,buloneraelpaso@gmail.com,Entre Rios,Monotributo ,(en blanco),77,(en blanco),7
+8583.00,Equipavic SRL,Dr.Roig 299,Urdinarrain,+ 54 9 11 4099 0342,30-71448767-8,966,compras@casabourlot.com,Entre Rios,Inscripto   ,Sr Daniel,0,(en blanco),7
+8596.00,Lescura Vanessa ***,Bouquet Roldan 737,Neuquen,0299-1558-06138,27-23786909-0,939,visualdnqn@yahoo.com.ar,Neuquen,Inscripto   ,(en blanco),71.3,(en blanco),7
+8606.00,Organizacion La Loma SA,Rivadavia 719,Libertador Gral San Martin,(en blanco),30-71164247-8,494,andres.racovsky@corralonlaloma.com,Entre Rios,Inscripto   ,(en blanco),77,(en blanco),7
+8607.00,S.Bustos SRL***,Calle Villegas 4955,Gral Roca,0298-154229904,30-71540095-9,628,pablocb64@hotmail.com,Rio Negro,Inscripto   ,(en blanco),77,(en blanco),7
+8609.00,Sanifer V.C.P SA,Avda Carcano 453,Villa Carlos Paz,03541-423975,30-71159365-5,402,monjefernandez@hotmail.com,Cordoba,Inscripto   ,Norberto Monje,0,(en blanco),7
+8610.00,Accesorios Top Auto SA***,Magallanes 4409 ENTREGAR EN DOMICILIO,Mar del Plata,0223-4801481 /4807178,30-71564998-1,984,info@accesoriostopauto.com,Buenos Aires,Inscripto   ,Yanina Bouzas,77,(en blanco),7
+8615.00,Trentini Luis Alejandro*****,Alvear 4367,San Martin,15-5121-1663,20-22578827-9,100,aguautolube@gmail.com,Buenos Aires,Inscripto   ,(en blanco),77,(en blanco),7
+8622.00,Bonifacio Adrian Abel*****,Calle 3 Nª 220 Villa Mariano Moreno,Las Talitas,0381-155089814,20-27961502-7,150,germannxs20elpasaje@gmail.com,Tucuman,Inscripto   ,(en blanco),0,(en blanco),7
+8631.00,Basiloff Ruben,Juan José Paso 840,Zárate,+549 3487228423,20-34521130-7,100,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,(en blanco),7
+8633.00,Der Hammer SRL,Av.Tucuman 589 Y Wilde,Obera,03755-422334,30-71479202-0,10,ferreteriaderhammer@gmail.com,Misiones,Inscripto   ,Hector Y Nori,71.3,(en blanco),7
+8648.00,Dorado Silvia Liliana,Avda San Martin ,Pcia Roque Saenz Peña,03725-15444-649,27-26225423-8,495,ferreteriacasaferro@gmail.com,Chaco,Inscripto   ,(en blanco),77,(en blanco),7
+8649.00,Curbelo Fernanda Lorena,Alfredo Palacios 2167,Troncos Del Talar,4715-5663,27-26532273-0,81,ferreterialostroncos@hotmail.com,Buenos Aires,Monotributo ,(en blanco),80.6,(en blanco),7
+8654.00,Transquim SRL,Belgica 701,Maximo Paz,15-70950671,30-71408388-7,100,transquim@hotmail.com,Buenos Aires,Inscripto   ,Horacio Malaisi,0,(en blanco),7
+8658.00,Ancillai Eduardo Juan,Av.Giagetto 1410,Sta Rosa De Calamuchita,03546-15418509,20-12411220-7,694,ferreteriaancillai@gmail.com,Buenos Aires,Inscripto   ,(en blanco),77,(en blanco),7
+8671.00,GUILLERMO DAQUINO,INDALECIO GOMEZ 3975 (Direccion Deposito,Villa Lynch,(en blanco),30-71042215-6,100,lucasventas1@hotmail.com,Buenos Aires,Inscripto   ,(en blanco),77,(en blanco),7
+8678.00,Catterinuzzi Luis Andres,Salta 164/160,Rosario de la Frontera,03876-481946,20-25303518-9,150,donsurco6@gmail.com,Salta,Inscripto   ,FERNANDO,77,(en blanco),7
+8690.00,Lucero Maximiliano Marcos,Rio De Janeiro 29,Alta Gracia ,03547-437848,20-24539412-9,485,maxilucero@hotmail.com,Cordoba,Monotributo ,(en blanco),77,(en blanco),7
+8694.00,Repuestos Pichingo SA,Carlos Arroyo 119,Carlos Casares ,02395-452626,30-71116865-2,688,(en blanco),Buenos Aires,Inscripto   ,Sergio (dueño),77,(en blanco),7
+8697.00,Cornejo Patricio****,Retamar 1394,Ushuaia,02901-15609642,20-33648609-3,21,eduardomorales56@hotmail.com,T. del Fuego,Inscripto   ,alfintodoushuaia@gmail.com,77,(en blanco),7
+8705.00,Bulonera TDF,Facundo Quiroga 907 Esq 9 De Julio,La Rioja,0380-154867276,20-32240919-3,289,exequielalcidesmercadozuliani@gmail.com,La Rioja,Inscripto   ,(en blanco),77,(en blanco),7
+8712.00,M G Implementos Agricolas SRL,Mazzanti 243,Goya,03777-15598106,30-71472912-4,708,(en blanco),Corrientes,Inscripto   ,Juan Ghiglione,77,(en blanco),7
+8716.00,Rosa Larrieu Eduardo Hernan,Patricia Argentina 626 Centro,Palpala,0388-5140000,20-26293987-2,414,bulonerazaplafa@gmail.com,Jujuy,Monotributo ,Hernan,77,(en blanco),7
+8738.00,Flores Rodolfo Javier,Chañar 5 M Y,La Rioja,(en blanco),20-22443169-5,289,(en blanco),La Rioja,Inscripto   ,(en blanco),0,(en blanco),7
+8747.00,Montenegro Hugo Oscar,Los Aromos 306,San Luis,0266154320792,23-12736052-9,936,montenegrohugo25@gmail.com,San Luis,Inscripto   ,(en blanco),77,(en blanco),7
+8769.00,Serra Fabian,Ojo De Agua 471,Villa Gral Belgrano,03546-465788,20-18501098-9,694,buloneracentro@hotmail.com,Cordoba,Monotributo ,(en blanco),77,(en blanco),7
+8812.00,Ferreteria Del Sur De Marchione Y Lopez*,Juan Jose Paso 8,Puerto Madryn,0280-154035613,30-71656246-4,976,ferreteriasdelsur2019@gmail.com,Chubut,Inscripto   ,Ignacio,77,(en blanco),7
+8837.00,Tecnopesca Argentina SA,AV. DE LOS PESCADORES 838,Mar del Plata,0223-4896326,30-67958454-1,939,gz@tpa-argentina.com,Buenos Aires,Inscripto   ,Patricio 0223-4896326,0,(en blanco),7
+8841.00,FMF Agropartes SAS (NO USAR. USAR 2085),Av.San Lorenzo 247,Concordia,0345-4215810,30-71688140-3,752,(en blanco),Entre Rios,Inscripto   ,tractopartessa@tractopartessa.com.ar,77,(en blanco),7
+8846.00,Tangermann Ernesto Carlos,Boulogne Sur Mer 260,Gral.Pacheco,15-61460006 tito,20-17176490-5,81,ventas@repuestosparasuhogar.com.ar,Buenos Aires,Inscripto   ,(en blanco),77,(en blanco),7
+8859.00,Paglia Mauro Miguel,Av.de Los Agricultores 1181,Charata,03731-15620135,20-23119409-7,136,admin_ferreteria@grupopaglia.com,Chaco,Inscripto   ,(en blanco),77,(en blanco),7
+8860.00,Repuestos Del Sur SA,Av.Independencia 1332,Caleta Olivia,(en blanco),30-70900649-1,939,leonardodanielrossi@gmail.com,Santa Cruz,Inscripto   ,Juan,77,(en blanco),7
+8874.00,Campos Monica G,Alsina1462,Gral Roca,02984-451320,27-14982112-6,705,ferreteriacamposmonica@hotmail.com,Rio Negro,Inscripto   ,(en blanco),77,(en blanco),7
+8876.00,Tosetto Lorena Del Valle,Alberdi 760 ,Sunchales,03493-423396,27-23164330-9,296,claudioaguirre2001@yahoo.com.ar,Santa Fe,Inscripto   ,CLAUDIO,77,(en blanco),7
+8877.00,Cassino Viviana Elisabet,Ubaldo Fernandez 252,Zarate,03487-441746,27-14166500-1,81,bulonera01central@gmail.com,Buenos Aires,Inscripto   ,(en blanco),77,(en blanco),7
+8902.00,Muñoz Emilio Marcelo**,Av.Mendoza Y Calle Del Niño (circunvalac,Marcos Juarez,03475-4440004,20-40678157-8,936,agorep_1973@hotmail.com,Cordoba,Inscripto   ,(en blanco),77,(en blanco),7
+8910.00,Cusal SAS,Hillcoat 454,America,02337-475230,30-71640321-8,270,carlos@laviejacarpinteria.com.ar,Buenos Aires,Inscripto   ,Carlos Cucurull,77,(en blanco),7
+8920.00,Cardoso Patricia Mercedes****,Sarmiento 435,Gualeguaychu,+54 9 3446 62-3154,27-14165458-1,490,ventas@ferreterialoslapachos.com.ar,Entre Rios,Inscripto   ,Ramiro,77,(en blanco),7
+8933.00,Dittler Gerardo Agustin,Ruta 12 Y Moreno,Cerrito,343-6208507,20-12350669-4,936,gerardodittler@hotmail.com,Entre Rios,Inscripto   ,(en blanco),77,(en blanco),7
+8948.00,Acosta Lujan Adrian,Calle San Martin Y Moreno Valdes,25 Ds  Mayo,2345-563490,20-24650410-6,271,acostaa25@hotmail.com,Buenos Aires,Inscripto   ,(en blanco),77,(en blanco),7
+8953.00,Cabrera Rodrigo German************ OJO!!,Av Libertador 1830,Vicente Lopez,5263-2760,20-28010612-8,100,compras@kikely.com.ar,Buenos Aires,Inscripto   ,(en blanco),71.4,(en blanco),7
+8967.00,La Herradura SRL,San Martin 860,Pico Truncado,+ 54 9 297-4779731,30-71159618-2,353,listas@laherradurasrl.com,Santa Cruz,Inscripto   ,Guillermo/cristian Salazar,77,(en blanco),7
+8992.00,Grupo Copar SRL****,Bª Itamembe Guazu,Posadas,0376-5161213,30-71556357-2,18,construmat.misiones@gmail.com,Misiones,Inscripto   ,(en blanco),71.3,(en blanco),7
+9017.00,Rigoni Ezequiel Hugo,Calle Nª3 Parque Industrial (Ejido Feder,Federacion ,03456-15515659 hugo,20-34302234-5,128,ferreteriadelparque@outlook.com,Entre Rios,Monotributo ,(en blanco),77,(en blanco),7
+9098.00,Arlettaz Hidraulica,Urquiza 2745,Villa Elisa,03447-480552,30-71519830-0,127,info@arlettazhidraulica.com.ar,Entre Rios,Inscripto   ,(en blanco),77,(en blanco),7
+9179.00,Fissolo Juan Marcelo,Ruta 42 Finca Alcobado,Monte Rico,+54 9 3884 39-8255,20-23308202-4,414,juanmafissolo@gmail.com,Jujuy,Inscripto   ,SEBASTIAN,77,(en blanco),7
+9183.00,Lopez Bernal Ignacio,Juan B Justo 851 Local 1,Puerto Madryn,0280-154035613,20-36240930-7,976,ferreterisur2021@gmail.com,Chubut,Monotributo ,(en blanco),77,(en blanco),7
+9211.00,Acuña Irene,Av.Del Trabajo 950,Las Perlas,0299-4441414,27-24825060-2,584,(en blanco),Rio Negro,Inscripto   ,(en blanco),77,(en blanco),7
+9264.00,Duran Construcciones,Calle S/N,Capilla del Señor,(en blanco),20-31140927-2,100,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,(en blanco),7
+9321.00,Palacio Ramon Javier,Junin 1244,San Jose,(en blanco),20-22633394-1,127,p.ramat@hotmail.com,Entre Rios,Inscripto   ,(en blanco),77,(en blanco),7
+9365.00,Nieves Julián,Juan José Paso 122 ,Puerto Madryn,02804307461,20-28678252-4,115,ferresurmdy@gmail.com ,Chubut,Inscripto   ,(en blanco),0,(en blanco),7
+9409.00,Ferreplast SRL,Navarro 4753 Piso 2 Dto A,CABA,4734-1293/1473/1469,30-71448980-8,81,(en blanco),C.A.B.A.,Inscripto   ,(en blanco),0,(en blanco),7
+9416.00,Newness SRL,Lavalle 1473 Piso 4 Dpto 403,CABA,+54 9 11 4039-9229 emilio,30-65417270-2,100,(en blanco),C.A.B.A.,Inscripto   ,Emilio,0,(en blanco),7
+9663.00,Praad Electronics SA,Ruta 5 KM 209 Parque Ind Bragado,Bragado,+ 54 9 2342 -15484104,30-71521916-2,100,lucas@elpra.com.ar,Buenos Aires,Inscripto   ,Ing Lucas Carrizo,0,(en blanco),7
+9672.00,Amarela Tucuman SRL,Av.Gobernador Del Campo 956,Tucuman,(en blanco),30-71491471-1,414,comprasamarelatucuman@gmail.com,Tucuman,Inscripto   ,Daniel Romagnoli,77,(en blanco),7
+9734.00,Peltzer Fabian J,Leopoldo Herrerra 1712,Parana,+ 54  9 3434-177458,20-17027640-0,0,(en blanco),Entre Rios,Inscripto   ,(en blanco),77,(en blanco),7
+9791.00,Metalurgica CDG S.A.******************,Centenario 1830,Cañada de Gomez,+ 54 93471-524642,30-71837804-0,281,(en blanco),Santa Fe,Inscripto   ,(en blanco),77,(en blanco),7
+9808.00,Diseño Neto SRL,Monseñor Angelelli 936,Moron,1123638577,30-70963639-8,100,proveedores@nikeliluminacion.com.ar,Buenos Aires,Inscripto   ,(en blanco),0,(en blanco),7
+9822.00,Faszzeski Maquinas Para Madera SRL,Ruta Nacional 12 Km 1540,El Dorado,(en blanco),30-67246663-2,977,ivanfaszzeski@gmail.com,Misiones,Inscripto   ,(en blanco),0,(en blanco),7
+9828.00,Rivas Leandro,Fournier 3252,Olivos,+54 9 11 6000-3315,20-20273250-0,100,(en blanco),Buenos Aires,Inscripto   ,(en blanco),0,(en blanco),7
+9839.00,Abbet Andres Eduardo**********,Bv. Peron 2136,Reconquista,+54 9 3482 58-9421,20-32076198-1,136,ingeda@trcnet.com.ar,Santa Fe,Inscripto   ,(en blanco),71.3,(en blanco),7
+9872.00,Centro De Servicios San Frnacisco SA,Av.Rawson 1251 Norte,San Juan,0264-4211666,30-68166599-0,977,(en blanco),San Juan,Inscripto   ,(en blanco),77,(en blanco),7
+9890.00,Indumet SRL,Late Ruta 40 Nor Y Callejon Pasilla 1956,Chimbas,0264-4215553/4201457,30-70996084-5,977,administracion@indumet.com.ar,San Juan,Inscripto   ,Maria Sol,0,(en blanco),7
+9895.00,Raimol SAS***,Av.Gral Jose Garibaldi 894 B.Banda Norte,Rio Cuarto,+ 54 9 3584- 831233,30-71751212-6,15,(en blanco),Cordoba,Inscripto   ,Nico Moliva,77,(en blanco),7
+9963.00,Bulmad SAS***,DEPOSITO PQUE INDUS.LIVIANO PTO MADRYN,Puerto Madryn,+ 54 9 280 4307461,30-71818141-7,115,bulmadpmy@gmail.com,Chubut,Inscripto   ,Julian Nieves (sion Autopartes),77,(en blanco),7
+10104.00,Senini Hector Luis,Felix Pagola 220,Zarate,+54 9 3487 53-1641,20-14518848-3,100,(en blanco),Buenos Aires,Inscripto   ,atodobulon@gmail.com,77,(en blanco),7
+10258.00,Marconi Roberto Oscar,Alvarado 83,Bolivar,(en blanco),20-20494348-7,710,ferremarc83@gmail.com,Buenos Aires,Inscripto   ,Patricia Señora,77,(en blanco),7
+10278.00,Oxigeno La Union SRL,Av.San Martin 6308,Rio Ceballos,(en blanco),30-71430345-3,545,(en blanco),Cordoba,Inscripto   ,(en blanco),77,(en blanco),7
+10314.00,Gonzalez Nahuel Emiliano,Andrada 56 o Benito Olmedo Esq Los Molle,Villa De La Rosas,03544-494668,20-28422037-5,7,(en blanco),Cordoba,Inscripto   ,(en blanco),77,(en blanco),7
+10399.00,Bella Vista Manufacturing SRL,Gral Jose Maria Paz 2314,Tucuman,+ 54 9 3814-677234,33-70233793-9,0,(en blanco),Tucuman,Inscripto   ,(en blanco),77,(en blanco),7
