@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ResorTecnica Pro | Sistema de Gestión</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+    <style>
+        :root { --blue: #002d5a; --accent: #e74c3c; }
+        body { background: #f0f2f5; font-family: 'Segoe UI', sans-serif; font-size: 0.85rem; }
+        .header { background: var(--blue); color: white; padding: 15px; text-align: center; border-radius: 0 0 20px 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); }
+        .card { border-radius: 12px; border: none; box-shadow: 0 4px 10px rgba(0,0,0,0.05); margin-bottom: 15px; }
+        .info-label { font-weight: bold; color: #666; text-transform: uppercase; font-size: 0.65rem; }
+        .info-value { color: #000; margin-bottom: 4px; border-bottom: 1px solid #eee; min-height: 1.2rem; font-weight: 500; }
+        .item-row { background: white; padding: 10px; border-bottom: 1px solid #eee; transition: 0.3s; }
+        .item-row:hover { background: #f8f9ff; }
+        .resumen-line { display: flex; justify-content: space-between; margin-bottom: 5px; font-size: 0.9rem; }
+        .btn-xl { padding: 12px; font-weight: bold; border-radius: 10px; }
+        .nav-tabs .nav-link { color: #666; font-weight: 600; border: none; }
+        .nav-tabs .nav-link.active { color: var(--blue); border-bottom: 3px solid var(--blue); background: none; }
+    </style>
+</head>
+<body>
+
+<div id="loginPage" class="container" style="max-width:400px; margin-top:80px;">
+    <div class="card p-4 text-center shadow-lg border-top border-4 border-primary">
+        <h3 class="fw-bold mb-4" style="color: var(--blue);">ResorTecnica S.R.L.</h3>
+        <input type="text" id="userInput" class="form-control mb-3" placeholder="Usuario">
+        <input type="password" id="passInput" class="form-control mb-4" placeholder="Contraseña">
+        <button class="btn btn-primary w-100 btn-xl" onclick="intentarLogin()">INGRESAR AL SISTEMA</button>
+    </div>
+</div>
+
+<div id="appPage" class="app-content" style="display:none;">
+    <div class="header mb-3">
+        <h5 class="fw-bold mb-0">ResorTecnica S.R.L.</h5>
+        <div id="status" class="badge bg-white text-dark mt-2 px-3 shadow-sm">Sesión Activa</div>
+    </div>
+
+    <div class="container">
+        <ul class="nav nav-tabs mb-3" id="myTab" role="tablist">
+            <li class="nav-item"><button class="nav-link active" data-bs-toggle="tab" data-bs-target="#tab-nuevo">NUEVO PEDIDO</button></li>
+            <li class="nav-item"><button class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-historial" onclick="actualizarHistorial()">HISTORIAL</button></li>
+        </ul>
+
+        <div class="tab-content">
+            <div class="tab-pane fade show active" id="tab-nuevo">
+                <div class="card p-3">
+                    <div class="input-group mb-2">
+                        <span class="input-group-text bg-white border-end-0"><i class="bi bi-search"></i></span>
+                        <input type="text" id="busCli" class="form-control border-start-0 fw-bold" placeholder="COD. CLIENTE + ENTER" onkeydown="handleEnterCliente(event)">
+                        <button class="btn btn-primary px-4" onclick="buscarCliente()">BUSCAR</button>
+                    </div>
+                    
+                    <div id="infoCli" class="mt-2 p-3 bg-white rounded border-start border-4 border-primary" style="display:none;">
+                        <div class="d-flex justify-content-between">
+                            <div class="fw-bold text-primary h5" id="v_nom"></div>
+                            <div class="badge bg-primary h6" id="v_cod_display"></div>
+                        </div>
+                        <div class="row g-2 mt-1">
+                            <div class="col-6"><div class="info-label">CUIT</div><div class="info-value" id="v_cuit"></div></div>
+                            <div class="col-6"><div class="info-label">E-MAIL</div><div class="info-value text-lowercase" id="v_mail"></div></div>
+                            <div class="col-12"><div class="info-label">Domicilio</div><div class="info-value" id="v_dom"></div></div>
+                            <div class="col-6"><div class="info-label">Localidad / Provincia</div><div class="info-value" id="v_loc"></div></div>
+                            <div class="col-6"><div class="info-label">Transporte</div><div class="info-value text-danger" id="v_trans"></div></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card overflow-hidden">
+                    <div class="card-header bg-light py-2 fw-bold text-muted small">DETALLE DE ARTÍCULOS</div>
+                    <div id="contenedor-items"></div>
+                    <div class="p-2">
+                        <button class="btn btn-outline-primary btn-sm w-100 fw-bold" onclick="nuevaFila()">+ AGREGAR ARTÍCULO</button>
+                    </div>
+                </div>
+
+                <div class="card p-3 border-top border-4 border-primary">
+                    <div class="resumen-line"><span>Subtotal Bruto:</span> <span id="res_sub">$0,00</span></div>
+                    <div class="resumen-line text-success font-monospace"><span>Bonif. Cliente (<span id="res_per">0</span>%):</span> <span id="res_dto">-$0,00</span></div>
+                    <div class="resumen-line fw-bold"><span>Subtotal Neto:</span> <span id="res_neto">$0,00</span></div>
+                    <div class="resumen-line text-muted"><span>IVA (21%):</span> <span id="res_iva">$0,00</span></div>
+                    <hr>
+                    <div class="resumen-line h4 fw-bold text-primary"><span>TOTAL:</span> <span id="v_total">$0,00</span></div>
+                </div>
+
+                <div class="d-grid gap-2 mb-5">
+                    <button class="btn btn-success btn-lg btn-xl shadow" onclick="finalizarPedido('whatsapp')">ENVIAR WHATSAPP</button>
+                    <button class="btn btn-dark btn-lg btn-xl shadow" onclick="finalizarPedido('excel')">DESCARGAR EXCEL PROFESIONAL</button>
+                </div>
+            </div>
+
+            <div class="tab-pane fade" id="tab-historial">
+                <div id="listaHistorial">
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+const USUARIOS = {
+    "Chris": { pass: "0402", folder: "Chris", admin: true },
+    "Lucas": { pass: "1234", folder: "01-11 De Blasi" },
+    "Carlos": { pass: "1234", folder: "06 Payeres" },
+    "Eduardo": { pass: "1234", folder: "07 Morales" },
+    "Leandro": { pass: "1234", folder: "10 Serra" },
+    "Andres": { pass: "1234", folder: "17 De Felice" },
+    "Andrecito": { pass: "1234", folder: "20-21 Gallo" },
+    "Hernan": { pass: "1234", folder: "22 Galo" },
+    "Francisco": { pass: "1234", folder: "26 Schmid" },
+    "Alfredo": { pass: "1234", folder: "30 Pavon" },
+    "Ricardo": { pass: "1234", folder: "31 Gudiño" },
+    "HernanR": { pass: "1234", folder: "32 Righi" }
+};
+
+let DB = { cli: {}, art: {}, tra: {} };
+let SESION = null;
+let CLIENTE_SEL = null;
+
+function norm(txt) { return txt ? txt.toString().trim().toLowerCase().split('.')[0].normalize("NFD").replace(/[\u0300-\u036f]/g, "") : ""; }
+function fmt(num) { return new Intl.NumberFormat('es-AR', { style: 'currency', currency: 'ARS' }).format(num); }
+
+function intentarLogin() {
+    const u = document.getElementById('userInput').value.trim();
+    const p = document.getElementById('passInput').value;
+    if (USUARIOS[u] && USUARIOS[u].pass === p) {
+        SESION = { nombre: u, ...USUARIOS[u] };
+        document.getElementById('loginPage').style.display = 'none';
+        document.getElementById('appPage').style.display = 'block';
+        cargarBaseDatos(SESION.folder);
+    } else { alert("Datos incorrectos"); }
+}
+
+async function cargarBaseDatos(folder) {
+    const fetchCSV = async (n) => {
+        const r = await fetch(`data/${encodeURIComponent(folder)}/${n}.csv?v=${Date.now()}`);
+        if(!r.ok) return [];
+        const txt = await r.text();
+        return new Promise(res => {
+            Papa.parse(txt, { skipEmptyLines: 'greedy', complete: (resul) => {
+                const data = resul.data;
+                let hI = data.findIndex(row => row.some(c => ["CODIGO", "CLIENTE", "ARTICULO"].includes(norm(c).toUpperCase())));
+                if (hI === -1) hI = 0;
+                const headers = data[hI].map(h => norm(h).toUpperCase());
+                res(data.slice(hI + 1).map(row => {
+                    let o = {}; headers.forEach((h, i) => o[h] = row[i] ? row[i].trim() : ""); return o;
+                }));
+            }});
+        });
+    };
+    try {
+        const [c, a, t] = await Promise.all([fetchCSV('clientes'), fetchCSV('lista'), fetchCSV('transportes')]);
+        c.forEach(i => DB.cli[norm(i.CODIGO || i.COD)] = i);
+        a.forEach(i => DB.art[norm(i.CODIGO || i.COD || i.ARTICULO).toUpperCase()] = i);
+        t.forEach(i => DB.tra[norm(i.CODIGO || i.COD)] = i);
+        document.getElementById('status').innerText = "VENDEDOR: " + folder;
+        nuevaFila();
+    } catch (e) { alert("Error al cargar datos."); }
+}
+
+function handleEnterCliente(e) { if (e.key === 'Enter') { buscarCliente(); setTimeout(() => document.querySelector('.art-input')?.focus(), 200); } }
+
+function buscarCliente() {
+    let id = norm(document.getElementById('busCli').value);
+    let c = DB.cli[id];
+    if(c) {
+        CLIENTE_SEL = { ...c, cod_orig: document.getElementById('busCli').value.trim() };
+        document.getElementById('v_nom').innerText = c.CLIENTE || c.NOMBRE;
+        document.getElementById('v_cod_display').innerText = "CÓD: " + (c.CODIGO || c.COD);
+        document.getElementById('v_cuit').innerText = c.CUIT || "-";
+        document.getElementById('v_mail').innerText = c.EMAIL1 || c.EMAIL || "(Sin Email)";
+        document.getElementById('v_dom').innerText = c.DOMICILIO || "-";
+        document.getElementById('v_loc').innerText = (c.LOCALIDAD || "-") + " / " + (c.PROVINCIA || "-");
+        document.getElementById('v_dto').innerText = (c.DTO || 0) + "%";
+        document.getElementById('res_per').innerText = (c.DTO || 0);
+        let tId = norm(c.TRANSPORTE);
+        document.getElementById('v_trans').innerText = DB.tra[tId] ? DB.tra[tId].NOMBRE : "A CONVENIR";
+        document.getElementById('infoCli').style.display = "block";
+        calcular();
+    } else { alert("Cliente no encontrado."); }
+}
+
+function nuevaFila() {
+    const id = Date.now();
+    const html = `
+    <div class="item-row" id="f-${id}">
+        <div class="row g-2 align-items-center">
+            <div class="col-4"><input type="text" class="form-control form-control-sm art-input fw-bold" placeholder="COD" onkeydown="handleArtKey(event, '${id}')"></div>
+            <div class="col-4 small"><div class="fw-bold d-nom text-truncate">-</div><div class="text-muted d-pre">$0</div></div>
+            <div class="col-2"><input type="number" class="form-control form-control-sm q-in text-center" value="1" onkeydown="handleQtyKey(event, '${id}')" oninput="calcular()"></div>
+            <div class="col-2 text-end"><button class="btn btn-sm text-danger" onclick="document.getElementById('f-${id}').remove(); calcular();">✕</button></div>
+        </div>
+    </div>`;
+    document.getElementById('contenedor-items').insertAdjacentHTML('beforeend', html);
+    const ins = document.querySelectorAll('.art-input'); ins[ins.length - 1].focus();
+}
+
+function handleArtKey(e, id) {
+    if (e.key === 'Enter') {
+        e.preventDefault();
+        let cod = e.target.value.trim().toUpperCase();
+        let a = DB.art[cod];
+        let row = document.getElementById('f-'+id);
+        if(a) {
+            row.querySelector('.d-nom').innerText = a.DESCRIPCION;
+            let p = parseFloat(a['LISTA 1']) || 0;
+            row.querySelector('.d-pre').innerText = fmt(p);
+            row.dataset.precio = p; row.dataset.nombre = a.DESCRIPCION; row.dataset.codigo = cod;
+            row.querySelector('.q-in').focus(); row.querySelector('.q-in').select();
+            calcular();
+        } else { alert("Articulo no encontrado."); }
+    }
+}
+
+function handleQtyKey(e, id) { if (e.key === 'Enter') { e.preventDefault(); nuevaFila(); } }
+
+function calcular() {
+    let sub = 0;
+    document.querySelectorAll('[id^="f-"]').forEach(r => { sub += (parseFloat(r.dataset.precio || 0) * parseFloat(r.querySelector('.q-in').value || 0)); });
+    let porc = CLIENTE_SEL ? parseFloat(CLIENTE_SEL.DTO || 0) : 0;
+    let dto = sub * (porc / 100);
+    let neto = sub - dto;
+    let iva = neto * 0.21;
+    document.getElementById('res_sub').innerText = fmt(sub);
+    document.getElementById('res_dto').innerText = "-" + fmt(dto);
+    document.getElementById('res_neto').innerText = fmt(neto);
+    document.getElementById('res_iva').innerText = fmt(iva);
+    document.getElementById('v_total').innerText = fmt(neto + iva);
+}
+
+function finalizarPedido(tipo) {
+    if(!CLIENTE_SEL) return alert("Cargá un cliente");
+    
+    let items = [];
+    document.querySelectorAll('[id^="f-"]').forEach(r => { 
+        if(r.dataset.nombre) items.push({ cod: r.dataset.codigo, nom: r.dataset.nombre, q: r.querySelector('.q-in').value, p: r.dataset.precio });
+    });
+
+    if(items.length === 0) return alert("Agregá al menos un producto");
+
+    // Guardar en Historial
+    const pedido = {
+        id: Date.now(),
+        fecha: new Date().toLocaleString(),
+        vendedor: SESION.nombre,
+        cliente: document.getElementById('v_nom').innerText,
+        codCli: CLIENTE_SEL.CODIGO || CLIENTE_SEL.COD,
+        total: document.getElementById('v_total').innerText,
+        items: items
+    };
+    let hist = JSON.parse(localStorage.getItem('historial_pedidos') || "[]");
+    hist.unshift(pedido);
+    localStorage.setItem('historial_pedidos', JSON.stringify(hist));
+
+    if(tipo === 'whatsapp') {
+        let txt = `*PEDIDO RESORTECNICA*%0A*Cod. Cli:* ${pedido.codCli}%0A*Cliente:* ${pedido.cliente}%0A---%0A`;
+        items.forEach(i => txt += `• [${i.cod}] ${i.nom} (x${i.q})%0A`);
+        txt += `---%0A*TOTAL:* ${pedido.total}`;
+        window.open(`https://wa.me/5491154678020?text=${txt}`);
+    } else {
+        generarExcel(pedido);
+    }
+}
+
+function generarExcel(p) {
+    let data = [
+        ["RESORTECNICA S.R.L. - COMPROBANTE DE PEDIDO"],
+        ["Fecha:", p.fecha],
+        ["Vendedor:", SESION.folder],
+        [],
+        ["DATOS DEL CLIENTE"],
+        ["CÓDIGO CLIENTE:", p.codCli],
+        ["NOMBRE:", p.cliente],
+        ["CUIT:", document.getElementById('v_cuit').innerText],
+        ["E-MAIL:", document.getElementById('v_mail').innerText],
+        ["DOMICILIO:", document.getElementById('v_dom').innerText],
+        ["LOCALIDAD:", document.getElementById('v_loc').innerText],
+        ["TRANSPORTE:", document.getElementById('v_trans').innerText],
+        [],
+        ["CÓDIGO", "DESCRIPCIÓN", "CANT", "PRECIO LISTA", "SUBTOTAL BRUTO"]
+    ];
+
+    p.items.forEach(i => data.push([i.cod, i.nom, i.q, parseFloat(i.p), (i.q * i.p)]));
+
+    data.push(
+        [],
+        ["", "", "", "SUBTOTAL BRUTO:", document.getElementById('res_sub').innerText],
+        ["", "", "", "BONIFICACIÓN ("+document.getElementById('res_per').innerText+"%):", document.getElementById('res_dto').innerText],
+        ["", "", "", "SUBTOTAL NETO:", document.getElementById('res_neto').innerText],
+        ["", "", "", "IVA (21%):", document.getElementById('res_iva').innerText],
+        ["", "", "", "TOTAL A PAGAR:", document.getElementById('v_total').innerText]
+    );
+
+    const ws = XLSX.utils.aoa_to_sheet(data);
+    ws['!cols'] = [{ wch: 12 }, { wch: 45 }, { wch: 8 }, { wch: 15 }, { wch: 18 }];
+    const wb = XLSX.utils.book_new();
+    XLSX.utils.book_append_sheet(wb, ws, "Pedido");
+    XLSX.writeFile(wb, `Pedido_${p.codCli}_${p.cliente.replace(/ /g,'_')}.xlsx`);
+}
+
+function actualizarHistorial() {
+    const contenedor = document.getElementById('listaHistorial');
+    contenedor.innerHTML = "";
+    let hist = JSON.parse(localStorage.getItem('historial_pedidos') || "[]");
+    
+    // Filtro para administrador
+    if(!SESION.admin) {
+        hist = hist.filter(p => p.vendedor === SESION.nombre);
+    }
+
+    if(hist.length === 0) {
+        contenedor.innerHTML = "<div class='text-center text-muted p-4'>No hay pedidos registrados.</div>";
+        return;
+    }
+
+    hist.forEach(p => {
+        contenedor.innerHTML += `
+        <div class="card p-3 mb-2 shadow-sm border-start border-4 ${SESION.admin ? 'border-dark' : 'border-success'}">
+            <div class="d-flex justify-content-between align-items-start">
+                <div>
+                    <div class="fw-bold text-dark">[${p.codCli}] ${p.cliente}</div>
+                    <div class="small text-muted">${p.fecha} ${SESION.admin ? '- Vendedor: '+p.vendedor : ''}</div>
+                </div>
+                <div class="fw-bold text-primary">${p.total}</div>
+            </div>
+            <div class="mt-2 small text-muted">
+                ${p.items.length} artículos cargados
+            </div>
+        </div>`;
+    });
+}
+</script>
+</body>
+</html>
