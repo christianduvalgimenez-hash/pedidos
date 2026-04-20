@@ -1,0 +1,945 @@
+Codigo,Nombre,Direccion
+1,Lujan de Cuyo SA 4308-0038,Pergamino 3750 (CTC - NAVE D)
+2,De La Iglesia 4912-2164******,Pedro Baliña 4060
+3,Sudoeste SA 4911-1127,Peperi 633
+4,Heral (CTC),Pergamino 3750 (CTC) Nave 2 Nº 40/41
+5,Misiones  TE:4923-5891 4923-8865,Av Riestra l655
+6,Orsi O El Trebol 4942-6684,Uspallata 2638
+7,Tin-Car 4301-3096,Galpon 2-Est F Belgrano Sud
+8,Malargue 3754-7241 / 42 / 43 / 44 / 45 /,Av. Pergamino 3751. Villa Soldati
+9,Ascencio 4919-8930,Beron de Astrada 2796
+10,Obera. TE:4918-8592,Portella 3245
+11,Sauer 4911-0348,Iguazu 1207
+12,Pawe SRL 4911-8789,J.C.Paz 2934
+13,Guillan 4942-4801,Colonia 371
+14,La Camionera Mendocina 4931-9674,San Pedrito 3771
+15,Oliva 4686-6666 / 6768/69,E. Rodo 6255
+16,Di Batista 3754-7236/7,Pergamino 3751 Módulo 91 nave 4
+17,El Tero (TE:21-0390),Azara 1337
+18,Central Argentino ***,Traful 3773  - 4912-5262
+19,Baroni 4632-7400,E. Bonorino 1246
+20,Elisero (ELPIBO SA) 4301-4727,Pergamino 3751 CTC Nave B 44
+21,El Tio 4638-0181 4601-5476,Cañada de Gomez 4163
+22,El Quebrachito 4500-7324,Fructuoso Rivera 2660 
+23,Ben-Hur 4854-9557,Galicia 367
+24,Rodriguez Hnos 4918-8004,Erescano 3880
+25,Goizueta 4911-6286,Grito de Ascensio 3247
+26,Lanin 4925-6667,Chiclana 3444
+27,Spacapan S.A *4 Copias C/Reemb 4911-9035,Los Patos 3196
+28,Santos Gonzalez 4911-1127,Cortejarena 2969
+29,El Libertador SRL. 4919-3642,Pergamino 3750 (CTC) Mod. C Nave C 70
+30,Couto,Carlos Calvo 3102
+31,M y B (no Esta Mas En Esta Direccion),Estacion Bs As Galpon 2
+32,Ingolotti 4922-8478,Varela 3045
+33,Mendez 4912-5590 4911-2850,Castañon 3685
+34,Expreso Jouvre 4942-2749,Pedro Chutro 2451
+35,COLECTIVO PARADA Liniers SAIC,Av Gral Paz 10752
+36,Andreani 4208-6666/4852/4330/4854-0606,Fragata Sarmiento 2163 (CTC)
+37,Sedano SRL 4931-5551,Sanchez de Loria 611
+38,La Union 4911-1711,Grito de Ascencio 3141
+39,Serena SRL 4911-8522/ 4912/2164,Pedro Baliña 4060
+40,Colon 4942-2749,Pedro Chutro 2451
+41,Ziegler 4911-6382,Cortejarena 2954
+42,Alegre 4942-4801/4308,San Pedrito 3442
+43,Junin (No Trabajar Con Este Trans),Monteagudo 754
+44,Serena SRL 4912-2164 ,P.L. Balina 4060
+45,Hada 4911-1115,Rio Cuarto 4552
+46,Luke  4912-4418 / 4911-3459,Guarani 315
+47,Solis 4942-5509,Amancio Alcorta 2733
+48,Farmaco 4602-6314,Zuviria 6553
+49,Traiser 4941-2550,Garay 3020
+50,Union Misionera 4682-2284,Remedios 5941
+51,MAIPU 4632-3174 (NO existe mas),Alte Segui 480
+52,San Isidro 4911-0584,Zavaleta 301
+53,Sacomer 4911-5514,P. Balina 4060
+54,Lenis 4911-7897,Grito de Ascencio 3226
+55,MORRESI 4919-3200/3162,Carlos Berg 3591
+56,"Sanchez ""NO C/REEMBOLSO"" 4918-4482",Fructuoso Rivera 2600 (Y Varela)
+57,El Amanecer 4218-3312,VALPARAISO 628. V. ALSINA
+58,Amancay,Tilcara 3022
+59,Bull Transporte 49423565 / 49425509,Amancio Alcorta 2733
+60,San Jorge 4911-3499,Guarani 375
+61,Parana 4431-7771,J.J.Biedma 529
+62,Tarducci 4772-1100,N. Vega 4754
+63,Cuyo Carga S.A 4302-7992,Sto Domingo 3400 (V. Sarf 1600
+64,Ferrero,Beron de Astrada 2880
+65,Marisur 4302-2388 Estacion Sola G 2 P20,Pinedo y Suarez y Australia
+66,El Carrizal 4941-5281,LUNA 225 O MERC. CENTAL NAVE D1
+67,La Surena 4911-6457,Pepiri 1535
+68,Dos Ciudades: 4918-6017/19**,Ogorman 3572 Alt Rabanal 2100
+69,Zuluaga 4911-1711,Grito de Ascencio 3141
+70,Coffa (Tecro  - Coffa)   TE:4988-0098,Fragata Sarmiento 854-
+71,Caroccio y Vairolatti 4 No C/R 4919-6297,27 De Febrero 5631
+72,Sudamericana 4924-3201,Estacion Sola Suarez Y Pinedo
+73,Don Guzman 4911-6286,Grito de Ascensio 3245
+74,Rodar 4941-8187,PERGAMINO 3751
+75,Arco Iris 4942-2749,Pedro Chutro 2451
+76,Chap y Cia SRL 4911-2790,Pergamino 3750 (nave B 45) CTC
+77,Madariaga 4306-6895,Brandsen 2727
+78,Expreso del Sur 4942-8106,Monasterio 269
+79,Pinna NO 4922-9848,Tabare 1240
+80,Conte 4304-9969 4304-9123 /9125 /9076,Paracas 261 (cerca Borda)
+81,TRANSPORTE PROPIO,
+82,El Rapido (Cba La Carlota) 4911-5956,Bonavena 1255 (Ex Elia)
+83,Cruz del Sur-Usuahia/R Grande,Perdamino 3751  (CTC - NAVE D)
+84,Expreso Ramallo 4919-4329,Ferre 2630
+85,Uspallata 4308-4624,Uspallata 2653
+86,San Nicolas(NO MANDAR C/R)***,Rio Cuarto 3931
+87,Hada 4911-1115,Rio Cuarto 4552
+88,Cafi 4912-0094,Traful 3412
+89,Zoco 4753-8955,Iturraspe 1046
+90,Pedrito (NAVE 3),Pergamino 3751 Deposito 58/60 
+91,El Rutero 4911-3673,Monteagudo 837
+92,Benasi 4911-2178,Santo Domingo 4251
+93,Entre Rios Expreso 4918-5121,San Pedrito 3486
+94,"Hernandez (cerró, No Esta Mas)",Diaz Colodrero 2960
+95,Aizcar 4911-2460,Grito de Ascensio 3632
+96,Becher (San Juan) 4918-7462,Corrales 2223
+97,Pico 4303-3130 / 4302-0830,Autralia 2758
+98,Famar  TE 21-5844,Sto.Domingo 3079
+99,Plus Ultra 4919-1212,Av Cnel Roca 2101
+100,Retira Fabrica,Calle 93 Nº 948 San Martin
+101,Intedoc 4381-9704,Venezuela 1260
+102,Dep. Ferr-Oxigen 4637-4776,B. Fernandez Moreno 2743
+103,Costa Parana NO ESTA MAS,Culpina 3518
+104,Robles 4911-8552,P. Balina 4060
+105,"Garay 4301-5440  (FACT, AFUERA)",Cafarena 36 (antes  Gral Daniel Cerri 16
+106,Fueguino *FACT.AFUERA*Barracas 4303-6222,Australia 2838 (1½ V. Sarfield
+107,Continental 4303-4701,Luzuriaga 834
+108,Breccia SRL.  4919-1486,San Pedrito 3540
+109,Ruta Sur 4302-1143,Salom 667
+110,Singer 0810-222-1888,Patagones 2954
+111,Gonzalez 4922-8510,Gregorio Pomar 4259
+112,Encargo 4911-0587,Cachi 477
+113,Expreso BH 4918-4980,Santa Catarina 2151
+114,Imperial (MENDEZ)- NO C/R********,Castañon 3685
+115,Union de Juan y Jose Parente (chubut) ,L. De La Torre 3945
+116,Maipu (nave 3 Pta 60 /61),Pergamino 3700 (Estacion De Cargas)
+117,Pedrito 4631-2335,Pergamino 3751 Deposito 58/60 
+118,Juarez hnos 4566-2799,A.Margarino Cervantes3951
+119,Mitre Transporte,AV.FERNANDEZ DE LA CRUZ 2340 
+120,FGH Sr M.Freccia Galpon 5 al 7,Est.Palermo.J.B.Justo y Paragu
+121,Ullua,Uspallata 2653
+122,Almafuerte  4918-6278,Charrua 3520
+123,Transcordillera 4941-0412,Monasterio 181
+124,Turser 4787-7145/7305,Av Del Trabajo 7099
+125,Fransportar SRL 4713-0480,Iturraspe 709
+126,Platamar  4302-7296,Av.Pinedo 50 Estac.Sola Pta 16/19
+127,Premat 4919-1158,Rabanal 2630
+128,Villanova 4919-1158 (NO CONTRARREMBOLSO),Rabanal 2630
+129,Almafuerte 4918-6278 (Parana E.Rios),Charrua 3520 (Alt. Rocca 2000)
+130,De Monte  Modulo 29/31 Nave B)**,Pergamino 3751 (CTC) 
+131,Condor La Estrella,Estacion Retiro
+132,T.A.S TE 4919-9733 // 4918-0402,RABANAL (EX ROCA) 3159
+133,Alasia (Mar-sol Mar ) 4943-7309,Pedro Chutro 2451
+134,Cuyo Transporte 4657-6425,Achabal 540
+135,Jose Maria TE:4301-2560,"Pergamino 3751 (CTC) NAVE ""B"" 43"
+136,Snaider 4600 7464 / 7465,Pergamino 3751 (CTC) Nave A Pta 25
+137,Sarita  TE:4581-6072,Maturin 2854
+138,El Porvenir Santafesino 4919-3330,Erezcano 2914
+139,Colectivo,.
+140,Sagipak 4301-3096,Av. Velez Sarfield 701 Galpon4
+141,Sica   TE:4912-2164-4911-8552,P. Baliñas 4060
+142,Hermes Transporte 4683-0110,Corvalan 1534
+143,Lopez Sabando TE:4918-7016,Ferre 2117/19
+144,El Pampero 2052-3270/4304-1714,Amancio ALCORTA 1955
+145,Pampa/ El Jesuita  4919-4035,Beron De Astrada 2867
+146,Autocarga SA 4911-5811,Iguazu 637
+147,NO EXISTE MAS T.C.B,Almafuerte 45
+148,Gustavo 4912-1703,Pedro Baliña 3975
+149,Fradaos TE 4180-0443,Julio Troxquer 3220
+150,La Sevillanita 3754-8800,Pergamino 3751 Nave A Puerta 17
+151,Kino TE 4941-3259,Pichincha 1550
+152,San Carlos   4919-0291,Beron De Astrada 2712 
+153,Vaz-Car,Grito de Asencio 3759
+154,Rollie y Brown 4302-5145,Sto Domingo 2277
+155,Mar del Sol SRL TE:4918-7587,Ferre 2552
+156,Devechi (No Contrarrembolso),Pedro Chutro 2451
+157,El Auntual 4942-9752,Montesquiu 487
+158,Auntual,Montesquiu 487
+159,Punta Alta 4922-0644,"Pergamino 3750 (CTC) Sedtor ""C"" 69/70"
+160,Cargas Formoseñas 4942-3061,Manuel Garcia 466
+161,Tatuado TE:4302-6922,Suarez 2590
+162,Teirtentre (ex Sudatlantico) Sr Carente,Rio Cuarto 4552 Sr Carente
+163,Salma SRL 4683-3511,Pedro Montes Carvallo 1651 (E Peron 4500
+164,Trans-Norte SA 4919-7814,Mon 3538
+165,La Union Santafesina,Armenia 1728
+166,De La Vega  4302-3371,Luna 1299 (atras Cancha De Barracas Cent
+167,Monteverde,Mirella 2770
+168,Salta 4911-6333,Grito de Ascencio 3759
+169,Nor-Sur TE:4302-2992/2993,Rio Limay 1454/76
+170,Gonzalez (Salta) 4601-4601,Zuviria 6571(y Piedrabuena) Lugano
+171,Bisonte TE:4912-0261,Pergamino 3750 (CTC) Nave 2 Nº 75/76
+172,Lan Carg SRL 4584-8270,Trelles y Agñasco Gpn 1 Pta 10
+173,Lo Bruno,Murgiondo 3317
+174,Marmisolle 4911-2850 4912-5590,Famatina 3305
+175,El Gaucho,Pedro Chutro 2451
+176,Alberti 4942-2749,Pedro Chutro 2451
+177,Vidal TE:4912-5007/11,Traful 3768
+178,Diagonal SRL te: 4301-0053,Est. Sola Galpon 1 Pta 5
+179,Mar del Sol S.A 4919-2389,Ferre 2552
+180,Ruiz TE 4911-5663,Ancaste 3109
+181,Doña Ramona  2206 2603 /2206 2604,"Pergamino 3750 Nave ""B"" 47 (CTC)"
+182,Las Cañas TE: 4308-2908,Los Patos 2508
+183,Horizonte 4918-0377,Beron de Astrada 2712
+184,Barberini,Famatina 3305
+185,Campana 4301-8085,Osvaldo Cruz 2030
+186,Losa SRL TE:4568-9525,Chivilcoy 1453
+187,Huemul TE: 4911-5514,Pedro Baliña 4060
+188,Garcia 4912-2164,Estacion Sola Galpon 5 pta 29 / 32
+189,Transser TE:4911-6165,Zavaleta 431
+190,Tim-Car (No C/R) Lu A Jue,Avda Cruz 2340 Y C. Berg
+191,El Rapido  4301-8085*NO CONTRARREMBOLSO),Pergamino 3750 (CTC)
+192,Pomar 4912-0082,Ancaste 3791
+193,El Porvenir (CERRO* 4911-2693,Las Casas 3445 TE:4911-2693
+194,El Valle ,Plataforma 64 / 65 Retiro
+195,Expreso Mario,Jose C. Paz 2921
+196,Valle de Lerma ,PEDRO CHUTRO 2457
+197,Larraz  4301-0504,Santa Catalina 2151
+198,San Martin Aero Cargas 4752-0572,Calle 121 Nº 2632
+199,Haristoy (NO C/REEMB) 15-6167-2738,Santo Domingo 3930
+200,El Pibe,Famatima 3205 o 3305
+201,Espinosa TE:4912-7396,E. Bonorino 3561
+202,Los Ases TE:4941-8370,Pedro Chutro 2735
+203,"Hernando (cerró, No Esta Mas)",Pedro Baliña 4060
+204,Stelo 4911-8552,P. L. Baliña 4060
+205,Carreteros,Los Patos 2548
+206,Chiche Sedano TE:4925-8512,Miraflores 2085
+207,Jouve 4943-7309,Pedro Chutro 2451
+208,Bartomeo (Con Fact Afuera) 4942-5666****,Monasterio 269
+209,Basilio 4912-3123,Ancaste 3356
+210,De Medio Hnos Soc Col 4304-5789,A. Alcorta y Anchoriz
+211,Tres T (NO EXISTE),Monasterio 181
+212,Mario TE: 4911-6333,Grito de Ascencio 3759
+213,Pigue 4912-0094 / 0096,Traful 3412
+214,Ramon Rodriguez 4918-7789,Pedernera 2815
+215,El Sol (Azul) 4943-5501,Los Patos 2751
+216,Ciarlantini 4923-2988,Inclan 3527
+217,Expreso Centro (NO C/ Reem) 4918-1080,Ferre 2371
+218,Mathias,Santo Domingo 4241
+219,Envia Expres,Coronel Roca 2360
+220,Chevalier-  Dir:Cabildo 4912 /4314-5555,Est.Retiro o Lujan 2695-Barrca
+221,Meli Pal 4305-8671,Amancio Alcorta 1955
+222,Morabito S.A 4942-6686 NO USAR,Los Patos 2557
+223,La Union Rionegrina,Montesquiu 487
+224,Lujan,Beazley 3519
+225,Gaspari y Marinuchi,Catulo Castillo 2400
+226,De Andrea NO CONTRA REEMBOLSO,Culpina 3518
+227,Ruben,P.Chutro 2457
+228,Cejas 4919-4801,Culpina 3518
+229,Expreso Garcia. 4301-4430 ,Pinedo 50
+230,Mar del Sol TE: 4919-2389,Ferre 2552
+231,Trans Paye,Pedro Chutro 2451
+232,Henry 4911-2083,Grito de Ascencio 3759
+233,Parolina  SA 4632-3411,Trelles 638
+234,Ala 4943-7309,PEDRO CHUTRO  2451/53
+235,Centro Sur,Pepiri 1326
+236,El Serrano 4302-3058,Suarez 2761
+237,Centenario 4303-7006,Alvar Nuñez 90
+238,Williams,Uspallata 2663
+239,Ñandubay SRL 4308-1782,Pergamino 3750 (CTC) NAVE 2 C 64 /65
+240,Miramar 4302-1331,Estacion Sola Suarez  Y Pinedo
+241,Balcarce 4301-2371,Alvar Nuñez 234
+242,Villense 4943-5717,Luna 664
+243,Cotram 4919-8730/,Agustin de Vedia 3391
+244,B.H SRL 4943-5717,Luna 696
+245,Alvano (Cuyo Cargas S.A) 4302-7985,Santo Domingo 3400(V.Sarfi1600
+246,Ruta 6 4304-5789,Amancio Alcorta 1800
+247,El Tajamar 4568-9822,Concordia 1515
+248,El Buen Aire,Iriarte 2763
+249,Centauro  4919-7519,Pergamino 3552
+250,Federal 4912-0082,Ancaste 3791
+251,Cargo ,Rio Cuarto 4085
+252,Simionato 4484-9253  4441-2448,Gral Madariaga  3531
+253,Trans Dan 4302-7367,Lamadrid 1850
+254,Rinaldi y Rico 4911-3616,Amancio Alcorta 3041
+255,Zapata,Luna 666
+256,El Nocturno 4866-4035 /4963-8717,Diaz Velez 3302 Galpon 4 Esq Gallo
+257,"Sud Atlantico (NO MANDAR, Cambiar X 162)",Rafaela 4710
+258,Ciarlantini 4923-2988,Inclan 3527
+259,Rocinante SRL * 4303-3130 / 4302-0830,Australia 2758. Barracas
+260,El Andariego 4942-6684,Uspallata 2638
+261,Alvear 4912-0082,Ancaste 3791
+262,El Pampa 4912-0082,Ancaste 3791
+263,Nueva Union,Av. Sanchez de Loria 2149
+264,Imaz SRL 4919-0267 4919-0269,Pergamino 3830
+265,Ferrero SRL 918--8528,Av. Cnel Roca 2775/77
+266,El Sol Del Neuquen 925--0288,Av. Cnel Roca 2360
+267,Ferrero (Sur),Av. Roca 2775
+268,Carlitos (PCIA Bs As) 4308-4624,Montesquiu 557
+269,Villa Dolores 4942-9466,Montesquieu 487
+270,Camara de Comercio 4919-0291,Berón de Astrada 2791
+271,Albo TE: 4302-4114,ESTACION SOLA PINEDO 50 GALPON3 P 1Y 2
+272,Ovalle,QUINQUELA MARTIN 2310 PTA 2
+273,Fiorotto 4956-2397,Av Independencia 2923
+274,Vera,Grito de Ascencio 3759
+275,Punta Alta,"Pergamino 3750 (CTC) Sedtor ""C"" 69/70"
+276,De Kelice,Uspallata 2758
+277,La Estrella 4600 7498,Pergamino 3751 PUERTA B 50 (CTC)
+278,La Antartida 15-53064896,Rio Cuarto 4491
+279,Los Rafaelinos 4911-3669,Labarden 125
+280,Laferpa 4301-1562,Mirave 2720/2728
+281,Cañada de Gomez 4362-2572,Necochea 1030 (Brandsen Y Pinzon)
+282,Ponce 5294-4555,Mendez 2433 (Bonorino/Rivera Indarte)
+283,Gubell 4911-7622,Jose C. Paz 2969
+284,Ortiz 4912-6777,Est. Sola
+285,Moyano -4919-7793 (vuelta Redonda),Agustin de Vedia 3391
+286,Saunig,Mom 3538
+287,Maral  TE: 4918-0014/9164,Castañon 3561/75 esq. Ferre
+288,Cotil-Carg S.A (C/REEMB Con Cheques),Varela 3687
+289,Chilecito 4919-7269,RABANAL 2662
+290,Di Pascuali 4911-9065,Elias 1071 y Traful
+291,Rabbione 4942-4456,Monasterio 269
+292,Morabito SRL 470-7624 4942-6686/4942-262,Los Patos 2577
+293,Santa Ana 4911-1752,Cotajerena 2934
+294,T.D.H SRL  ,Av Remedios 5424 Y Larrazabal- Mataderos
+295,Caballero 4942-4801,Colonia 371
+296,Santa Rosa S.A 4600 7475,Pergamino 3751 Galpones 109/110 Nave 4
+297,Disser SRL 4300-4945,Irala 345
+298,Tas Car Srl TE: 4919-9733,Int. Rabanal 3159 (EX  Cnel Roca )
+299,Solidario y Osvaldo Martin Hns,Bacacay 2851
+300,Pilberg TE 249-1097 4942-2903,Montesquiu 464
+301,Copar   Te 4919-2378 4918-7424,Ferre 3254
+302,El Chaqueño TE:4919-0971 4918-1924,Ferre 2366
+303,Bin Hnos (Central De Cargas),Pergamino 3751. Nave 2 Modulo 48 
+304,Jacaranda 4911-1752,CTC Pergamino 3750
+305,Fer S.R.L 4918-0577,O'Gorman 3252
+306,El Dorado 4631-0229 / 4633-1023,Av Cruz 1930 Y Perito Moreno
+307,Sol SRL 4918-0577,O'Gorman 3252
+308,Alem SRL 4918-2005,Ferre 2877
+309,Donelli Hnos (NUEVO TRANSPORTE),BALIÑA 4060
+310,Traful 4811-2850,Famatima 3305
+311,Villa Angela 4911-6745 4911-6562,Ancaste 3111
+312,El Lider 4308-4624,Uspallata 2653
+313,Clorinda TE:4912-0082 4918-2229,Castañon 2858
+314,Camilletti,Velez Sarfield y Suarez
+315,San Cayetano,Grito de Ascencio 3759
+316,Frontera  NO/CONTRAREEMBOLSO,John Cooke 3225
+317,El Sol Cuyano 4919-7573,Ferre 2135
+318,Logistica Di Fabio  4918-3232 4918-3242,San Pedrito 3476
+319,Enco SRL TE 4302-9093 4302-1240,Australia 2800
+320,Raosa SRL2206-2645/46,"Pergamino 3750 Nave ""b"" 56 (CTC)"
+321,Sebi 4912-7016,Av. Velez Sarfield y Suarez
+322,OJO NO MANDAR MAS Andina Hnos,Echeandia 4661
+323,Mar de Ajo 4941-5680,Catulo Castillo 2444
+324,Dorcas SRL 4942-9903,Pedro Chutro 2735
+325,Juguera Alberto 4228-1645,Cnel Sayo 2651
+326,Camionera Rosarina 4581-9519,Cesar Diaz 2153
+327,Becerra 4919-4801,Culpina 3518
+328,Camufer SA 4301-7505,A. del Valle 1139
+329,Super 73 ,FERRE 2630
+330,Peruginni (Ex Pilli) 4911-7744,Santo Domingo 4241
+331,El Suarense 4931-8988,Humberto Primo 3352
+332,20 de Octubre 4301-1407,Gral Iriarte 2775
+333,Expreso Algarañaz 4942-6684,Uspallata 2635
+334,El Nene 4919-4801,Culpina 3518
+335,Diaz,Ancaste 3660
+336,Union-(Pringles) 4304-2224,"Estacion Sola, Galpon 5, Puerta 2223"
+337,Meridiano 2 (NO USAR MAS)  ,Ferre 2135
+338,Rodriguez Ramon,Pedernera 2815
+339,Expreso del Ferrocarril 4304-0031,Gral Hornos 11
+340,Cirelda,Monteagudo 850
+341,Richter TE:4308-1526 4308-6262,Pergamino 3751 (CTC) NAVE 3 C 74 /C 76
+342,Di Pardo SRL. 4302-7972,Lujan 2602 Esq. Sta Elena
+343,A.L.A. 4932-6899,Virrey Liniers 1350
+344,Andelica S.A TE:4632-8081,Altte F. J. Segui 309
+345,Cruz Del Sur 4480-6666 ,Perdamino 3751 (CTC - NAVE D)
+346,El Zonda TE: 4582-0022,Pepiri 633
+347,Morell S.A TE 4912-0305 ,MAGALDI 1344 BARRACAS
+348,Sanchez (Cba) TE:922-9517,Santa Catalina 1769
+349,La Union (Loberia) 4301-3171,Alvar Nuñez 234
+350,Di Clemente 4942-2196,Labarden 690
+351,Montero 4911-2083,Grito de Ascencio 3759
+352,Sur-Mar (NO VA AL SUR) 4301-6563,Salomon 667
+353,Cruz del Sur (Pat) 4480-6666 ,Perdamino 3751  (CTC - NAVE D)
+354,Nueva Ruta ,Pinedo 50 Est Sola Galpon 3 Pta 19
+355,Castellanos NO C/REEMBOLSO,Bonavena 1071 *Ex Elias*
+356,Petrovalle (SR NELSON) 4918-1144 /4233,San Pedrito 2751
+357,Rapi Flet 4605-0999,Cañadon Gomez 5487 (Autodromo)
+358,Sur Mar(OJO NO VA SUR ESQUEL),Salom 667(Alt.Av. Iriarte 2500
+359,Carlitos Transporte (E. Rios) NO C/REEM,EST. SOLA GALPON 5 PTA 3 Y 4 SALIENDO
+360,Vazquez 4911-2083,Grito de Ascensio 3759
+361,D'YLT ( Ex Mercopaq),Cnel Bonorino 1246
+362,Szilak 4912-3903,Grito De Ascencio 3231
+363,Rodriguez Hnos TE4301-9956/7/8,Erescano 3880
+364,Ilia,SAN PEDRITO. 3434
+365,Pepe ,VARELA 3652
+366,Cañuelas ,AV.FERNANDEZ DE LA CRUZ 2340
+367,DE SA 4911-1177,Pepiri 633
+368,El Faro S.A TE:911-9981,Rio Cuarto 4041
+369,Manenti Julio TE 4912-2164,Pedro Baliña 4060
+370,La Transportadora 4942-6684,Uspallata 2638
+371,Maipuense  4919-2443 /9779,ITATI 2787
+372,Frontera NO /CONTRAREEMBOLSO,John Cooke 3225
+373,Rio Limay 4601-7012,Pilar 3935
+374,Caltabiano 4918-7304,Ferre 2716
+375,Rio de La Plata,.
+376,Rutalmar,Pavon 3035
+377,Coseani 4918-6164,Av Cnel Roca 2896
+378,La Internacional,Est. Carga RETIRO
+379,Saenz 4912-0082,Ancaste 3791
+380,Benoza 4921-0102,Cachimayo 1836
+381,Lucero SRL Estacion de Cargas 4911-2083,Grito de Ascencio 3759
+382,El Bolson 4635-0924,Larrazabal 2122
+383,Yo-Max  4912-3628/3954,Pepiri 633
+384,Bibiloni   4919-9071,CARLOS MARIA RAMIREZ 1542 Y MON
+385,Rumbo 4911-5831,Montesquiu 487
+386,"Haristoy ""no Contrarrembolso"" ",Santo Domingo 3930
+387,Trole,Trole 267 (Av Saenz 200)
+388,Avelli S.A ***NO ENVIAR X QUIEBRA,Amancio Alcorta 3260 Esq. Bonavena
+389,El Vasquito 2206-2600,Av Pergamino 3751 Y Rabanal Mod 38 Y 39
+390,Naposta 4301-6553/4302-1143,Pergamino 3750 (CTC) Nave 2 Nº 83/84
+391,Bersee 4638-2595,Echiandia 5651
+392,Salto Flet 4911-2083,Grito De Ascencio 3759
+393,Circolani 4912-3737,Grito de Ascencio 3250
+394,Marenguini,Australia 2634
+395,Tati 15-54266199,"E. Solá, Galpón 5, Puerta 4 SALIENDO"
+396,Le Cona TE:4301-2096,Santa Elena 944
+397,Huerque Puelche 4918-2463,Mendez 2596 esq. Varela
+398,Angeles 4911-2850,Famatima 3305
+399,El Trebol de Mar del Plata NO C/REEMBOL ,Paracas 253
+400,O.M.A.R TE:4684-0470 de15a17hs,Larraya 2541
+401,Oro Negro 5091-9000,Pergamino 3751 (CTC) 4911-0741/8775
+402,Rigars SRL TE: 4942-9339/9711,Amancio Alcorta 2505
+403,Expreso Alvear,Roca 3069
+404,Brio.,San Pedrito 3771 Esq.Ferre
+405,Cormar 3478-1437,San Pedrito 3434 Y Rabanal
+406,Casini,Nontesquiu 464
+407,Mossotto TE: 0236-442-7187,San Pedrito 3570
+408,Romero (NO EXISTE MAS) 4302-1143,Salon 667 TE: 4301-6553
+409,Pronto 4855-6969,Thames 680
+410,Expreso Chascomus ,Rabanal 2630
+411,El Araucano 4846-1374,Pozo de Vargas 3232
+412,ANDREA 4918-3590/ 4919-3683,Beron de Astrada 2840
+413,El Sol SRL (Saladillo) 4942-9903,Montesquiu 464
+414,Rivadavia ,Pepiri 1543
+415,Iguazu 4911-7275 // 4912-3484,Grito De Ascencio 3141
+416,Sedica Logistica 4911-5011,TRAFUL 3768
+417,Ribota TE 4911-6692 4911-1980,Monteagudo 663
+418,El Aguara (NO CONTRARREMB),Beron De Astrada 2836
+419,Garmendia 4911-4612 C/REEMB CON CHEQUE**,Santo Domingo 3930
+420,Las Heras 4911-4784,Iguazu 719
+421,Sierra  TE: 4741-1200 Llamar De 14 A 17h,Pedernera 2815/ Belgrano 1656 Torcuato 
+422,Jet-Pack 4130-4000,Aeroparque Jorge Newbery
+423,Fraser NO C/REEMBOLSO 4919-1368,Gral Chilavert 3258
+424,Traverso 4941-8370 ,Pedro Chutro 2735
+425,Top-Line,Albariño 3660
+426,Connangel S.A 4306-2278,Luis Saenz Peña 2002
+427,Bonader 4308-4624,Uspallata 2653
+428,Tarres 4301-6750,Suarez 2761
+429,RETIRA COMISIONISTA,.
+430,Nueva Alianza NO CONTRARREMBOLSO,Homero Manzi 3042/44
+431,Transportadora Andina 4919-9461/ 9908,Ferre 2526
+432,Lecina (Lincoln)***NO MANDAR C/REEMBOLSO,Pedro Chutro 2735
+433,Credi-Fin S.A (No contra reemb ),Pergamino 3751 Nave A Nª 6/7/8
+434,Brinatti 3754-7200 Hasta 16hs,Pergamino 3750 CTC - V Soldati
+435,Morenchino,Jose Barros Paso 5560
+436,Copeball 4942-2986,Colonia 225
+437,Buenos Aires SRL 4301-0923,Santa Magdalena 364
+438,Avelli S.A***NO ENVIAR X QUIEBRA,Amancio Alcorta 3260 Esq Bonavena
+439,Mostto NO USAR,
+440,Peruggini TE:4912-3600,Beazley 3525 (A.Alcorta 3500)
+441,El Caballero NO CONTRARREMBOLSO,FERRE 2519
+442,T.A.C,TERMINAL RETIRO
+443,Norte (Misiones) 4919-2591,Av Int. Ravanal 2846 *Ex Roca
+444,Deposito Rosamonte,Suarez esq. Velez Sarfield
+445,B.J,Portella 3245
+446,TCN Carga del Norte S.A 4911-3113,Ancaste 3536
+447,Baymar Express-M DEL PLATA 4912-1279,Zabaleta 661
+448,25 De Mayo 4942-4456,Monasterio 269
+449,Interprovincial - FACT AFUERA DE LA CAJA, Añasco 2790
+450,Brusa 4918-8734,Ferre 2102
+451,Logistica y Servicios 4301-7600,Bto Quinquela Martin 1391
+452,"Luces ""NOHACE C/REEMBOLSO""",POTOSI 1965
+453,Roele,Luna 696
+454,Ratti Raul (Lin-Ros) 4922-6627,Jose Marmol 854
+455,Banchero 4919-9043,O Gorman 3016 
+456,Paris TE 4942-1057 4942-9903,Montesquiu 464
+457,Banchero 4919-9043,O Gorman 3016
+458,El Paisanito TE 4802-8528,Ex Mercado Salguero 3451 1º 36
+459,Santa Marta Del Norte -Valle,Ventana 3772
+460,Labruna 4602-2892,Murgiondo 3317/19
+461,3 Pack 4303-4701,Luzuriaga 834
+462,Perez Jorge,Lambare 5266(Crovara 2100)
+463,Libertador 4716-0130,Mestra Baldini 1710
+464,Nenu 4368-2595,Echeandia 5651
+465,El Trebol Pampeano O Orsi 4942-6684,Uspallata 2638
+466,COLECTIVO 4703-0432,Av Cabildo 4702
+467,Merixel TE: 4919-8045,Mon 3538
+468,Norte (Formosa) **NO HACE C/REEMBOLSO,San Pedrito 3494
+469,T B Transporte (ex Veracruz) 4918-7304,Ferre 2775
+470,Arnes 4301-2835,Australia 2959
+471,Rober Dibe,Luna 666
+472,Bai-Mar -San Cayetano,Mirave  3381
+473,Gabeli,ANCASTE 3095
+474,Escobar TE:4911-8490/4912-0621,Monteagudo 754
+475,Ballent,Pepiri 1245
+476,Italia 4919-1158,Rabanal 2630
+477,Furnaris,Ancaste 3791
+478,Ferreiro (SAWER)TE 4941-3742,Luna 358
+479,ECSA,Uspallata 2738
+480,San Enrique TE:4301-8750,Lamadrid 1850
+481,Cristaldo,Roca 2846-
+482,Neter,Brandsen 2737
+483,Carlitos Transporte ( E Rios) NO C/REEM,EST. SOLA GALPON 4 PTA 3 Y 4 SALIENDO
+484,Prada (paga En Saenz 676 4911-9972,Villarino 2352 Paralela Iriarte Al Rio
+485,El Jesuita/pampa SRL 4919-4035*****,BERON DE ASTRADA 2814
+486,Alvear Sur,Av Remedios de Escalada San Martín 3630
+487,Arkobelys SRL,Anchoris 368 E/caseros Y Alcorta
+488,Distribuidora Central,A. de Vedia 3825
+489,Nuevo Valle,Pergamino 3700 (CTC) Modulo 41 - Nave B
+490,Mosto Bogdan,Portela 3447
+491,Jose,Pèpiri 629/633
+492,Piloni (ELPIBO SA)  15-6260-8561,Pergamino 3751 CTC Nave B 43
+493,"San Jose ""Rosario"" 4922-1671***",Las Casas 3553
+494,Aguilar Binaghi  4919-7181,Fernandez Francisco De La Cruz 2576 
+495,Lider 4 Copias De Fact Afuera C/remito,Agustin De Vedia 3050
+496,Andina Hnos ,Suarez 2590
+497,Fransportar SRL,Diag 101 Nº 709
+498,Comisionista,.
+499,Chos Malal,BERON DE ASTRADA 2814
+500,Baires Logistica TE4919-0991/6148,Portela  3479
+501,Vesprini (NO C/REEMBOLSO),Gral Madariaga 3531 (RUTA 3 AL 5100)
+502,Patagonica Express,Est.Sola Galpon 1 a 4
+503,El Cholo TE 4635-4864,Larrazabal 1742
+504,Rodriguez -MZA,Erescano 3880-Av Roca al 1800
+505,Baicco CEL :02983 15-647606,Culpina 3518
+506,Transportar-4912-8019-,0223-4722532-Mar del Plata
+507,Heit,San Pedrito 3442/44
+508,El Resero 4919-0291,Beron De Astrada 2791
+509,Carnevalli,Suarez 2761/69
+510,Mercurio,
+511,Scor-Dina S.A,Amancio Alcorta 3473
+512,O.C.A,.
+513,Santa Rita (Sur),Castañon 3556
+514,NOOOOO TRES LOMAS**** MANDAR MAS,Beron De Estrada 2836
+515,El Lucero,Grito de Asencio 3759
+516,Montenegro,Centenario 37
+517,Lencina (Los Toldos),Lucio Correa Morales 2677 (Varela Y Via)
+518,Once de Marzo,Pedro Chutro 2736
+519,Las Flores TE 4301-1523,Francisco Fernandez De La Cruz 2340
+520,Transporte Del Sur (ex Mingo),RIO CUARTO 3912
+521,Perez Hnos,Melgar 54 (Altura Sto Domingo 2650)
+522,Cadiher,Uspallata 2638
+523,Soumar,Luzuriaga 834
+524,Lin - Ros (Ratti Raul)***,Iguazu 637
+525,Lb,Santa Elena 946/948
+526,Inca 4919-5572,Castañon 3651
+527,Malvicino,Echeandia 5651(Larrazabal 2800
+528,Alonso (No C/Reemb) 4911-2083,Lucio Correa Morales 2627 Y Varela
+529,Tito Hijo TE:4919-9474,Ferre 2656
+530,Tandil NO MANDAR!!! TE:4304-3092,Obrien 1235
+531,Don Gregorio,Mirave 3323 (Estadio Huracan)
+532,Versat S.A,Tabare 3136
+533,Nuevo Valle  2206 2630,Pergamino Nº 3751(CTC) ave B Pta 41
+534,Billetta 49198750 / 49198758,Troxler 3200 Paralela A Ferre 3200
+535,Enco Pais,.
+536,T:A:S (anteriror Pringles),Rabanal 3159 TE: 4928-0428
+537,Ridis,Grito de Ascencio 3759
+538,Tauro,Pedro Chutro 2451
+539,El Sol Mendocino,Ferre 2135
+540,Tania 4912-0305,Magaldi 1344
+541,Trucks 4303-2498,Av.Pinedo50-Est Solá-Galpón1-pta21/22/23
+542,MZ,Uspallata 2674
+543,Alasia (CHACO),Luna 358
+544,Logitrck-4912-3113,Beron De Astrada 2740
+545,Jumbo,Pergamino 3750 (CTC) 
+546,Tia SA,Gral Juan Jose Valle 2933
+547,Ridissi,VARELA 3652
+548,Tres Hermanos (NO C/R),Culpina 3518
+549,Centro** (NO CONTRARREEMBOLSO),Ferre 2373
+550,Scordina (FALTA TE),A. Alcorta 3473
+551,Via 2,Teniente Rabanal 2756
+552,Lojo 4301-0837,Iriarte 2767
+553,Delimar,Pedro Chutro 2735
+554,Dali-Mar,Pedro Chutro 2735
+555,Sabella Hector - NO SE HACE REP,SAN PEDRITO 3450 -de c/reemb
+556,J.C,Mariano Acosta 1930 Avellaneda
+557,Plusmar Cargas,Daniel Cerri 1348
+558,Expreso Sisa Gral Villegas 03368-422036,Bonavena 1268
+559,Deposito Tres Hermanos,Culpina 3518
+560,Sanchez Hnos (a en lugar 508),Mirave 3385
+561,Pangare,Ferre 2656/58
+562,Ara,Av. Saenz Oeste 1469
+563,Rodriguez Jorge,PORTELLA 3470
+564,Caminos del Norte,Mon 3538 TE:4919-6831
+565,Privitera SRL 4919-4986 / 6293,Rabanal 2354
+566,Bogdan,Pergamino 3751 CTC Nave B 44
+567,Logistica Y Distribuciones,Beazley 3525
+568,Jesus Maria  22062644    Nave 3,"Pergamino 3750 (CTC) Sector ""C"" 56 Y 57"
+569,Carosio (No Contrarrembolso),Jose Cortejarena 3067
+570,Sol Expreso (NO CONTRAREMBOLSO),Zavaleta 611/19
+571,Comicar SRL,Uspallata 2663
+572,Sol Cuyano,Ferre 2135
+573,Regino TE:0227-215400040,Trole 163
+574,Saladillo (Pedir TE),Mirave 3323
+575,Logistica Di Fabio 4918-3232,San Pedrito 3476
+576,Colectivo TATA,Terminal Retiro
+577,Tradelog S.a.u,Pergaminio 3751 Nave C 71/75
+578,El Fortin 4918-7016,Ferre 2117 
+579,Sissa 4912-9981 *** No Mandar C/R,San Pedrito 3570
+580,Arana,Varela 396 Esquina Corrales
+581,Traffic Pack,Pepiri 633
+582,Muñoz,Aristobulo Del Valle 1139
+583,Baiocco,Culpina 3518
+584,Expreso Argentino,Las Palmas 2871 Y P. Moreno- Pompeya
+585,DRENNY Sa,Av Corea 1774
+586,Iros Tour . ,Ancaste 3060
+587,Menuet 4301-1407 - 4302-0850,Iriarte 2775
+588,Gutierrez,JOSE C. PAZ 2969
+589,Todo Carga,.
+590,Alonso Gaston Te:4919-4801,CULPINA 3518
+591,Renca,Montiel 5951
+592,Cotta 4911-1944,Santo Domingo 4030
+593,Sneider E Iriarte,Traful 3412
+594,LOGISTICA RIME (EX EMIR),Lavarden 250
+595,Alonso Hnos**(Bahia Blanca),AV.Pinedo  850  Galpon 1 Y2 Pta 10 Y 11
+596,Rodriguez Wlater,Culpina 3518
+597,Valle Grande,San Pedrito 3442 Esq.Int.Rabamal
+598,Carolo 4303-4055,Rio Cuarto 2736
+599,Andes Mar (Retiran A Domicilio),Terminal Retiro
+600,Tiasa,ALVAR NUÑEZ 90
+601,T V Transportes,Garay 660
+602,Sur   SRL,CARLOS  M RAMIREZ  2204-AL  ROCA 2200
+603,Alianza Javari SRL,Gral  J J Valle  2939
+604,Don Alfredo (entre Suarez Y Australia),Pinedo 50 Galpon 3 Pta 35 
+605,Mar Sol Mar (NO MANDAR C/REEMB),Pedro Chutro 2451
+606,El Norte De Casilda,Ancaste 3060
+607,Carolo 4303-4055,Rio Cuarto 2736
+608,El Trebol (CBA CAMPILLO) 4919-7519,PERGAMINO 3552
+609,LISTA 129  (12/10/2005),BONIFICACION:     %
+610,Scropanich ****NO HACE CONTRAREEEMBOLSO,Fernandez De La Cruz 2340
+611,Comisiones Pesa (NO MANDAR NUNCA MAS),RIO CUARTO 2738
+612,Pina,TABARE 1240
+613,Fer - Nic,Uspallata 2638
+614,NUEVO HORIZONTE 4657-9992,Mosconi 273 Y Gral Paz
+615,Don Carmelo,Castañon 2858 ( Y Cruz)
+616,El Campanense,Monasterio 271
+617,Linea Sur 4611-1783,"Pergamino 1939 (Alt. Pto, Moreno 3300"
+618,Del Norte Integral,Grito De Ascencio 3640
+620,NT Servicios Y Cargas,Veracruz 2875
+621,Lo Bruno S.A,Prudencio Murgiondo 3317
+622,Tuñon Y Mossotto,San Pedrito 3570
+623,Cargas Del Norte,Monasterio 181
+624,Union (carhue / Guamini) 4919-4801,Culpina 3518
+625,El Suarence,H.Primo 3352
+626,Interpack (Distrilog SA),Chiclana 3436
+627,Melhen SRL(NO CONTRA REEMBOLSO)   ,Monteagudo 477
+628,Ferrocargas Del Sur 4301-0386,Luna 1299 Entre Las Vias Y Olavarria
+629,Gonzalo,Pedro Valiña 4060
+630,Miguel,Pedro Baliñas 4060 Esq.Pepiri
+631,Ferrero (Bari Bahia),Estacion Sola Galpon 5 Puerta 14
+632,Guarani (NO ESTA LA DIRECCION),Beron De Astrada 2861 (ACA NO ESTA MAS)
+633,Logística  V W,Beazley 3523/27
+634,Angelani,Zalarrayan 5982
+635,Iris,Pedro Baliña 4060
+636,Del Sur,Pedro Baliña 4060
+637,Bolatti 4911-0800,PEPIRI 1535
+638,11 De Marzo,Pedro Chutro 2735
+639,DADIMAR,PEDRO CHUTRO 2735
+640,Avellaneda,Marmol 824
+641,Vitale,Est.sola Puerta 11 Galpon 5 
+642,Expreso El Rapido,Marmol 854
+643,Expreso Antonela,Jose Marmol 824
+644,Receptoria Andreani Bigoye Express,Corvalan 1534 Esq.Directorio
+645,El Capitan,Pedro Baliña 4060
+646,Expreso Lancioni 3985-6738,Pergamino 3750 - CTC
+647,ECA,Baldenegro 2984
+648,Trans Full,Troxler 3259
+649,Nuevo Transporte SRL-Bell-Ville  ,Pergamino  3552
+650,Trafipack Srl,Pepiri 633
+651,Expreso Huangelen,Humberto 1 3352 Boedo
+652,Pulki Pack 4912-1671,LINCH 3555
+653,LA VELOZ DEL NORTE,TERMINAL RUTA 197
+654,"Fernandez Guillermo ""El Gallego"" F/TEL",Los Patos 2751
+655,Cobra,Colonia 371 - Parque Patricios
+656,Distribucuin Y Logistica,Rabanal 2768
+657,Argentina Logistica,Castañon 3665
+658,EG 2003-5259,Gorriti 650 Avellaneda
+659,Puerto Nuevo SRL,Av Ramon Castillo (alt Al 800) Y Calle 6
+660,TECRE  NO CONTRARREMBOLSO (EX COFA),Pte.Fragata Sarmiento  854  4988-0162
+661,GOMEZ  4912-2660 / 4911-8670,MONTEAGUDO 459
+662,LEANDRO,MONTESQUIU 464 
+663,V W Logistica 4911-6009,Bealey 3523/7
+664,Oro Blanco 4918-2649,Rivera Indarte 2749
+665,Trans City 4912-0423,Paso 1460 ( Al T Diaz Velez 1400)
+666,Rodriguez,Pedro Baliña 4060
+667,Brignolo Hnos 4754-3187,Pte.Peron 5545. San Martin
+668,Calcabrini 4911-5911,Ancaste 3660
+669,ELPIBO SA 4301-4727,PERDRIEL 1179/81
+670,Leal SRL (NO HACE C/REEMBOLSO),Iguazu 719
+671,Alarcon 4602-0041,Oliden 3145
+672,Balverde 4301-0504,CTC B 47 
+673,Andina  (SAN LUIS),Ferre 2520
+674,Expreso Santulli CTC,"Pergamino 3750, Nave A 4."
+675,Pintor Hnos 03329-424395,Av.Pinedo  850  Estacion Sola
+676,Juancito 4942-4801,Pedro Chutro 2451
+677,Turibell,Rincon 650
+678,Via Bariloche Terminal Picun Leufu,Terminal Pablo Nogues Ruta 197 
+679,Alimar 4924-5160,Muñiz 2080
+680,Via Bariloche  4663-8668/8899,Ruta 197
+681,Cota ,Castañon 3685
+682,Guillermina 4301-1407,Iriarte 2775
+683,Expreso Formosa 4308-3415/4033,Av. A. Alcorta 2773
+684,SIRO 4941-3792,LUNA 360
+685,Don Vicente 4301-3096 / 4301-9735*,Velez Sarfield 701
+686,Marcos Paz 4912-0142,Grito De Ascencio 3231
+687,La Ruta S.A 4694-5340/1000,Rosas Juan Manuel 7002
+688,Encom. Carlos Casares 4912-6358,Monteagudo 493
+689,"Mac Blan ""NO EXISTE MAS"" 4301-1407",Iriarte 2775
+690,Vaque 4943-5665,Constitucion 2318
+691,Logistica Y Servicios TE: 4865-7291,Sarmiento 3484
+692,Bari Bahia 4635-2111,Lasalle 1926
+693,Chivilcoy Expreso 4918-1041,Ferrer 2016
+694,Biletta**4942-4801/4919-8750,JULIO TROXLER 3259 TE 4308-0255
+695,VIA AZUL 4922-8510,Gregorio Pomar 4259
+696,Alex 4943-2905/4942-9486,Pedro Chutro 2446
+697,FLECHA BUS,TREMINAL RUTA 197
+698,Sol Mar SRL 4918-0608/0154,Carlos Berg 2794
+699,BALVERDE 4301-0504,CTC B 47 
+700,Ruta 11 4308-4624,Uspallata 2653
+701,Kember SR 0385-154065567,Villarino 2375 Bajo Estacion Yrigoyen
+702,Balmar S.A 4918-6040,Tabare 3136
+703,OSCAR BOVA PTE DIN 409,GUATAQUIL 1021
+704,La Paz (trans. Duval) 4919-0291,Beron De Astrada 2712
+705,Nor Patagonico 4912-3123,PEPIRI 1535
+706,Munuet 4301-1407/302-0850,Iriarte 2775
+707,GUILLERMINA 4301-1407,IRIARTE 2775
+708,Ara-vera SRL 4919-0033 ,San Pedrito 3590
+709,Sica 4912-2164,Pedro Baliña 4060
+710,Expreso Bolivar  4911-9070,Ferre 2035
+711,Expreso Romar 4919-9524,Rabanal 2876
+712,JET- Richter 1169912763,CTC Nave C 75
+713,Santulli CTC ,"Pergamino 3750, Nave A 4."
+714,Don Ortiz 4919-1158,Rabanal 2630
+715,Don Antonio (JESUS MARIA) 4911-5911,ANCASTE 3650
+716,Luisito,Mirave 3323 (bajo Cancha Huracan)
+717,Furlan 4301-3994,Pergamino 3751 Nave 4 Mol. 85  (CTC) 
+718,Arias 5247-7256 / 7257,AVDA CNEL ROCA 6451
+719,Carena 4942-2196,Varela 3621
+720,Don Antonio 4912-2164,Pedro Baliña 4060
+721,Loumat 4919-8608 /6697 /1742,Varela 3687
+722,Castro 4301-0818,Alvar Nuñez 250
+723,Sanguinetti,Famatima 3305
+724,Bodgan 4301-4727,Rio Cuarto 1418 Y Av Patricios
+725,Quebracho (lun /vie De 13 A 17),Uspallata 2653
+726,Santa Rita (Cordoba) 4919-0980,Ferre 2145
+727,Chavez Hnos ,"Pergamino 3750 Nave ""B 51"" (CTC)"
+728,Gallo 4301-7786,Estacion Sola Galpon 3 Puerta 7
+729,Yo-Max No Utilizar Este Nuemro,Pepiri 633
+730,RUTA 5 4942-6684,USPALLATA 2638
+731,Expeso Rodrigo,Carlos Mario Ramirez 2176
+732,El Gallego FALTA TELEFONO,Los Patos 2751
+733,Filardi SRL***NO MANDAR COBRA Y NO PAGA,Montesquiu 464
+734,Nobal 4911-5956,Bonavena Oscar 1255
+735,Caracol 4921-0605,Muñiz 2060 (Entre Rondeau Y Caseros)
+736,Heredia NO EXISTE MAS,Remedios 5424
+737,"EXPRESO SAN JOSE ""RETIRO""",
+738,Piedra Movediza (NO USAR)**,Pinedo 50 E Sola Galp.4 Pta 5/6 SALIENDO
+739,La Vanguardia  4304-3096 / 9731,Estacion Bs As Galpon 2 (suarez Y V. Sar
+740,MORRISON 4919-9559 /6884,Monseñor Bufano 1621 (Cno Cintura)
+741,BARADERO (claudio 03329-15691055),Beron De Astrada 2712
+742,Don Max // Yovan 4919-5797,O´¨gorman 3252
+743,Diemar 4919-6284,Ferre 1682 (y Elezcano)
+744,El Rayo C/reemb C/cheque 4919-9000,Beron De Astrada 2730
+745,Lago (retiran De Fabrica),Ferre 2373
+746,Antonella /no Existe Ver El Sol (215),PEDRO CHUTRO 2735
+747,Nuevo Transporte (S. Miguel Del Monte),Corvalan 1534
+748,Rutrans SRL 4308-4272,Monasterio 191
+749,Trans Union-Paolini 4942-6743 /3527,P.Chutro 2457
+750,TLC Tranportes Srl 4918-3999,BERON DE ASTRADA 2576
+751,Marchetto 4942-9903,J.C.Paz 3450
+752,Dagol  4302-7182,Villarino 2352 Paralela A Iriarte Al Rio
+753,Ruta Misionera 4301-2560,Lujan 2159
+754,Expreso Rivadavia (LOS JUANES),Carlos Maria Ramirez 1647
+755,Transportelli 4919-2229,Av.Rabanal 2764
+756,Guillermo Morei 4919-4801,Culpina 3518 Esq. Rabanal
+757,Caselli ,Mendez 2580 
+758,Americano ,Permegano 3751 (CTC) (C70 Espacio Kelli)
+759,Belgrano 4918-3354,Ferre 2135
+760,Andreani Suc San Martin ENCOMIENDAS,Av 101 (Ruta 8) Nº 1637
+761,MOREI 4919-4801,Culpina 3518/20
+762,Astuti 4911-5911,Ancaste 3650
+763,Lucel 4918-7304,Ferre 2775
+764,Nuevo Transporte SRL 4912-2164,Pedro Baliña 4060
+765,TRANSPORTELLI 4919-2229,AV.INT.RABANAL 2764
+766,Del Oeste (LINIERS),
+767,ARLEQUIN  4581-3716,MATURIN 2470
+768,MAYO 4912-0094,Traful 3412
+769,Gabriel 4319-6181,Crespo 3135
+770,LOVATO 4301-1275 /5817,AUSTRALIA 3081
+771,Transporte Pacini 4912-3885/4911-6269,Pepiri 1245/49
+772,Expreso El Tuyu 4638-1925,Pedernera 3538
+773,TRANS RUT 38 4911-6562/5745,Ancaste 3111
+774,ALCON 4942-9903,POTOSI 1965. VALENTIN ALSINA
+775,Expreso Yet (Triade SA) 4919-2035,Bernardo Castañon 3458
+776,Miguelito 4919-1955,San Pedrito 3466
+777,Estrella Federal 4912-5590,Famatima 3305 (8 A 16)
+778,Parmigiani 4309-6200,Pienovi Nª 104 (V. SARFIELD)
+779,Transsix 4919-1158,Av. Rabanal 2630
+780,El Chaguito 4911-5956,Av.Bonavena 1255
+781,EL BOLSON 4484-1614,INCLAN 3169 ALTURA MONSEÑOR BUFANO
+782,Trans Cargo (NO C/R),Rio Cuarto 4838
+783,Andar 4302-1441/933-8933,SANTA CATALINA 2151 V. SOLDATI
+784,Carretera 9 4301-6404,Av.Pinedo Esta. Sola Galpon 3 Ptas 1y2
+785,BRILLARA  4308-4624,USPALLATA 2663
+786,Tran Ruta 38 - El Lucero 4911-2883,Grito De Ascencio 3759
+787,Logistica Entreriana  4919-8758,San Pedrito 3456  Villa Soldati
+788,Cema 15-3555-6057/ 5886-3881,Cnel Benito Meana 1136 (Pedriel/Autralia
+789,Via Cargo ,PTE.Peron 3725 Y Calle 99 1 Cuadra Ruta 
+790,Tir Pentre/EG 4302-8512,Pinedo 50 Estacion Sola Galpon 5 Pta 25
+791,Castelli 011-154414767,Est. Sola Galpon 5 Pta 22 / 23
+792,Azul (a Cordoba) 4303-8858,Av Iriarte 2763
+793,Tam 4919-4801,Culpina 3518
+794,Full-Trans 4301-3096/9735,Av.Fernandez De La Cruz 2340
+795,Via Rutas 4918-7261,Corrales 2223
+796,Orion De Gy Z SA 4585-4447/4586-1700,Trelles 2669
+797,Autotrasnporte San Juan 4308-1750,Pasco 659/71
+798,El Rapido (Cap.Sarmiento) 4139-8202,Correa Morales 2677 Varela Y Culpina
+799,Camionera Mendozina 4919-0293,San Pedrito 3977 - Villa Soldati
+800,Amtrac Expreso 4912-3106/4911-3249,Maza 2150
+801,Expreso Punta Alta 4924-7096,Av.Juan De Garay 3961
+802,Henin 4431-5627,Ricardi Repetto 340
+803,CERES SRL 4919-3653 /3669,Av Fernandez De La Cruz 2340
+804,Breccia SRL 4919-1485/1486,San Pedrito 3540
+805,Scor-dina SA 4911-1428,Amancio Alcorta 3473
+806,Cia Coordinadora De Cargas 4911-6997,Av.Amancio Alcorta 3289
+807,LOBOS BUS 02226-423677,MITRE 1760 Y CALLAO
+808,Faccio 4911-8305,Baliña 4077
+809,Logistica Entrerriana 4919-8758,San Pedrito 3456  Villa Soldati
+810,Logistica Entreriana 4919-8758,San Pedrito 3456  Villa Soldati
+811,ARA BERA 4918-0076,AV. San Pedrito 3590
+812,Transporte Mirasso 4442-7582,Nave Del Pescado Puesto 33 Mercado Centr
+813,DELPA ARGENTINA S.A. 5218-1866,RECONQUISTA 513 CUIT 30-70880395-9
+814,Scor-Dina SA 4911-9514,Av.Amancio Alcorta 3473
+815,ALARCON SRL 4635-9442,EUGENIO GARZON 5672
+816,TRANSP LURO 4942-4801,Pergamino 3702
+817,D.L Distribucion Logistica 4919-4821,Avda Rabanal 2768
+818,DON MARIO,Lujan 2159
+819,Transporte Sudamericanos SA,Av.Riestra 1655
+820,Sudamerica Trasnporte,Estacion Sola Galpon 3 Pta 23/24/25
+850,Transporte Muñoz,Méndez 2433
+900,Bin Pack SA,Labarden 650
+901,Cruz Del Sur,Pergamino 3751  (CTC - NAVE D)
+902,Trans Sur Srl,Paraguay 1836 (esq Esnaola)
+903,Expreso Ruta 5 4942-6684,Uspallata 2638
+904,Expreso Tascar Srl 4919-0977,Av. Int. Rabanal 3159 
+905,Armanes,Baliña 4060
+906,Impala,Pergamino 3740
+907,Norte Casilda,Ancaste 3060
+908,Santorini,Boulogne Sur Mer 592 (Once)
+909,EXPRESO PINAMAR,Av.Fernandez De La Cruz 2286
+910,Expreso Velomax 4919-1171,Mom  2861
+911,Nexo Logistic,Remedios 5424
+912,CHECA (NO TRABAJAR MAS)***15-2344-8708,Bonavena 1377 - Pompeya
+913,Expreso Demonte 5275-1960,Pergamino 3751 (CTC) Nave B Pta 31
+914,Transporte Rina  SH,Monseñor Bufano 3057
+915,Ben -Val Logistica,Portela 3479
+916,Expreso Cardone 4919-6036,San Pedrito 3476
+917,BRIO NO USAR ESTE NUMERO,
+918,Expreso Tango,Montesqui 464
+919,OCA San Martin,COCHABAMBA 2308
+920,18 De  Mayo SRL,Pergamino 3552
+921,Distribuidora Y Logistica DL,Av.Rabanal 2768
+922,Expreso Mayo (salto),Paracas 295
+923,Rosario Cargas,Pwergamino 3750 (CTC)
+924,Hacha De Piedra,Pergamino 3750 (CTC)
+925,Alfa,Pergamino 3750 (CTC)
+926,MDQ Logistica Y Servicios Srl,Pinedo 50 Estacion Sola Galpon 5 Pta 15
+927,Nicolas Gorgone,Av.Riestra 1655
+928,Rosario Logistica,Avalos 18
+929,Amanes,Baliña 4060 
+930,Distrelauquen,Jose Marmol 824
+931,Alcuva SA,Av.<Gral.Fernandez De La Cruz 2300
+932,DE A 4 BAHIA 4919-8427 ,Jhon Cooke 3255
+933,Dietrich,Ferre 2135
+934,El Centinela,BERON DE ESTRADA 2575
+935,El Changuito,Oscar Bonavena 1251/55
+936,BUS PACK EXPRESS,RIVERA INDARTE 85
+937,SAN MARTIN CARGO,AV.SAN MARTIN Y MURATURE
+938,CRUCERO DEL NORTE,MURATURE Y SAN MARTIN
+939,Crucero Express,Av.San Martin 700 Esq Murature
+940,NUEVO EXPRESO O FLECHA BUS,
+941,La Movediza,Est.Sola Pinedo 50 Galpon 3 Puerta 21
+942,Andesmar Express(Fact Cta 4957 Aldar SA),Av.Pte.Juan D Peron 3764
+943,LA RUTA,BERON DE ASTRADA 2575
+944,Alonso (Bragado),Lucio Correa Morales 2677 (e. Culpina 
+945,Melo Guillermo (8 A 16),Andres Ferreyra 3960 (av Saenz 400)
+946,4H SRL,PERGAMINO 3751 (exp. Lancioni) Nave B 33
+947,EL ANGEL PATAGONICO,CORVALAN  3520
+948,RUTA EXPRESS,M.Chilavert 2968
+949,Transnort,Rivera Indarte 3745
+950,SERVI BAIRES (9 A 13),AV.Larrazabal 2562
+951,Branic 4308-4624,Montesquieu 587 
+952,Expreso Gonzalo Srl 4919-7519,Pergamino 3552
+953,Alejandro (NO CONTRAREEMBOLSO) ,Paracas 253
+954,EXPRESO EL PEREGRINO ,CHUBUT 1287 
+955,TRASNPORTE OMAR,FERRE 2375
+956,EXPRESO YOVAN,OGORMAN 3252
+957,FORZAP,Pinedo 50 Est Sola. Galpon 4 Puerta 8-17
+958,ANK TRASNPORTE (RECETORIA SAN MARTIN),AV.SAN MARTIN Y MIRATURE
+959,Expreso MD,Castañon 3466
+960,Expreso All Box,Pepiri 1535
+961,Dep. De Daniel Miraballes LLAMAR ANTES!!,Gervasio De Posadas N° 1275
+962,Expreso Picoito,Estacion Sola Pinedo 50 Galpon 4 Pta 1/2
+963,EXPRESO 4H  3985-6738,PERGAMINO 3751 CTC NAV B Mod Nº 42
+964,4 H EXPRESO,Pergamino 3751 (CTC) Nave B Dep Lancioni
+965,Andreani Transp. Camiones,Av Pergamino 3711 // Sto Domingo 3220
+966,Expreso Piro,Jose C Paz 2935
+967,MD TRANSPORTE,Castañon 3464
+968,Expreso Transcia,Pepiri 1355
+969,Transporte HD,Castañon 3415 
+970,Belio Martin,Ferre 2035
+971,Libertador (PERGAMINO),CTC NAVE 3 70 B
+972,Ecomiendas Carlos Casares 4912-6358,Monteagudo 493
+973,Transporte Cerena 4919-9191,AV VARELA 3621
+974,TRANSPORTE AVELLANEDA,RABANAL 2866
+975,Credifin Express,Calle 83 Cerrito 2393
+976,Patagonia Express,Luna 1299 (atras Cancha De Barracas Cent
+977,Via Cargo,Avda Angel T De Alvear 459
+978,BUENA FE 4637-4561,PERGAMINO 1969
+979,Rodriguez E Hijos ,San Pedrito 3442
+980,Transporte Merlo 11-5631-1119,Castañon 3685 
+981,Expreso MZ,Castañon 3682 
+982,Trasnporte Crisol,Monteagudo 754 CAba
+983,Bara Pack Est.cargas Caba Srl,Fructuoso Rivera 2660
+984,MD CARGAS,AV.SAN MARTIN  Y MURATORE
+985,Transporte Petrel,Gral Francisco Fernandez De La Cruz 2476
+986,Transporte Bin Pack,Pergamino 3751
+987,Expreso Cargo SA,Pepiri1386
+988,Expreso Cargo,Pepiri 1386
+989,Expreso 5,Uspallata 2638
+990,Expreso Car-pack 4581-3716,Maturín 2470
+991,TRANSPORTEHERO SRL,ALMAFUERTE 429
+992,Nueva Roma,O.Bonavena 1268
+993,Expreso Astutti S.C,Ancaste 3650
+994,Transporte Don Fabio,Montesquieu 587
+995,Trasnporte Re Srl,Oscar Bonavena 1287
+996,TRASNPORTE SOL NACIENTE,OSCAR BONAVENA 1268
+997,O.L Logistica SRL 4919-6539,Ferre 2035
+998,Expreso San Aurelio,Santa Catalina 1769
+999,Tokio,Beron De Astrada 1929
+1000,TRASNPORTE RINA,MONS BUFANO 3057
+1001,TRANSPORTE BECERRA,FRUCTUOSO RIVERA 2660
+1002,CTD,Rabanal 2792
+1003,San Martin Encomiendas,Avda San Martin Y Murature
+1004,Global Pack 7539-1491,Timoteo Gordillo 3851
+1005,TRANSPORTE DE CARGAS DE MAYO,PARACAS253 
+1006,Cuarto De Milla,Uspallata 2638
+1007,Delog S.A 11-5563-6806,Rio Cuarto 4838 Bº 
+1008,Expreso El Santi ,AvSan Juan B De Lasalle 1926/Transp Roca
+1009,Transporte Bicentenario,Julio Troxler 3120
+1010,SLP Serv Logisticos Y Postales SA,John Cooke 3155 E/San Pedrito Y Pergamin
+1011,Tio Rico,Culpina 3518
+1012,Sol De Cuyo,Pte. Peron 5040 E/Mandeville Y Zapiola
+1013,Doble G,Tandil 6648
+1014,Velomat,Mom 2161
+1015,Alianza,gustín de Vedia 3056 e/Corrales y Tabaré
+1016,Expreso Maldonado,Av.Amancio Alcorta 3205
+1017,Brochero,Algarrobo 1080
+1018,Transporte Don Eduardo,Benito Quinquela Martin 2310
+1019,Expreso Fontana,Dr. Pedro Baliña 4060 Y Pepiri 
+1020,Seven Express,Beron De Astrda 2575
+1021,Transporte Petrel,Av.Gral Francisco De La Cruz 2476
+1022,Neotrans SA,Tabaré Nº 1240
+1023,BUSPACK EXPRESS VILLA LYNCH,Av. Gral San Martin 700
