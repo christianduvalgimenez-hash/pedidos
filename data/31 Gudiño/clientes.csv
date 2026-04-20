@@ -1,0 +1,1608 @@
+Codigo,Cliente,Domicilio,Localidad,Telefono,Cuit,Transporte,Email 1,PROVINCIA,TIPOIVA,Contacto,dto,condicion de pago,Vendedor
+94.00,Lorente Orlando *****,Calle 17 Nº 436,General Pico,02320-15543319,20-08215985-2,484,(en blanco),La Pampa,Inscripto   ,Matias,80.8,7 ds fecha factura,34
+288.00,Ceaglio Carlos Walter****,Entre Rios 940,Villa Del Rosario,03573-424074 / 03573-1569,20-08313728-3,452,repuestosceaglio@hotmail.com,Cordoba,Inscripto   ,(en blanco),80.8,15 DIAS ,31
+408.00,Ranieri Victor Hugo,Av Fuerza Aerea 2583,Barrio Balcarce,051-661291,20-10651936-7,0,(en blanco),Cordoba,Inscripto   ,(en blanco),80.8,15 DIAS C/REEMBOLSO. FALTA TRANSPORTE,31
+414.00,Lovera Maria Teresa Sosa De*****,Avda Buenos Aires 499,La Playosa,0353-4899302,27-14119830-6,15,f_continental@hotmail.com,Cordoba,Inscripto   ,Jorge,80.8,30 DS F/FACTURA,31
+675.00,Casa Ercole S.R.L,Av Japon 15,Bº Remedios de Escalada,0351-4998151,30-60059901-8,346,(en blanco),Cordoba,Inscripto   ,(en blanco),80.8,15 DS.C/REEMB.,31
+1033.00,Kuhm Horacio Manuel,Avda Luro 2133,Santa Rosa,02954-427474,20-10363172-7,465,hmkrodamientos@infovia.com.ar,La Pampa,Inscripto   ,(en blanco),80.8,15 DS.C/REEMB.,34
+1059,LLorensi Martin Emilio,Av.Ignacio Crespo 730,Recreo,0342-4960187/944,23-20051915-9,117,info@casamartinrecreo.com.ar,Santa Fe,Inscripto   ,MARTIN,80.8,15 DS.FECHA FACTURA ,31
+1061,Siñeriz Hugo Manuel,Av Roca 618,Santa Rosa,02954-416791,20-08454591-1,144,labulonera@cpenet.com.ar,La Pampa,Inscripto   ,(en blanco),80.8,15 DS.C/REEMB.,34
+1062,YPF Norte (Carlos Pessi SRL),Raul V. Diaz 175,Santa Rosa,0954-32568,30-67163768-9,145,(en blanco),La Pampa,Inscripto   ,(en blanco),80.8,15 DS.C/REEMB.,34
+1063.00,Montero Carlos N.Bul del Norte,Calle 107 Nº 1045,General Pico,02302-424215,20-11168106-7,27,(en blanco),La Pampa,Inscripto   ,(en blanco),80.8,CDO.ANTICIP.UNICA.DEV.MERCA,34
+94.00,Lorente Orlando *****,Calle 17 Nº 436,General Pico,02320-15543319,20-08215985-2,484,(en blanco),La Pampa,Inscripto   ,Matias,77,7 ds fecha factura,34
+288.00,Ceaglio Carlos Walter****,Entre Rios 940,Villa Del Rosario,03573-424074 / 03573-1569,20-08313728-3,452,repuestosceaglio@hotmail.com,Cordoba,Inscripto   ,(en blanco),77,15 DIAS ,31
+408.00,Ranieri Victor Hugo,Av Fuerza Aerea 2583,Barrio Balcarce,051-661291,20-10651936-7,0,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 DIAS C/REEMBOLSO. FALTA TRANSPORTE,31
+414.00,Lovera Maria Teresa Sosa De*****,Avda Buenos Aires 499,La Playosa,0353-4899302,27-14119830-6,15,f_continental@hotmail.com,Cordoba,Inscripto   ,Jorge,77,30 DS F/FACTURA,31
+675.00,Casa Ercole S.R.L,Av Japon 15,Bº Remedios de Escalada,0351-4998151,30-60059901-8,346,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,31
+1033.00,Kuhm Horacio Manuel,Avda Luro 2133,Santa Rosa,02954-427474,20-10363172-7,465,hmkrodamientos@infovia.com.ar,La Pampa,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,34
+1059.00,LLorensi Martin Emilio,Av.Ignacio Crespo 730,Recreo,0342-4960187/944,23-20051915-9,117,info@casamartinrecreo.com.ar,Santa Fe,Inscripto   ,MARTIN,77,15 DS.FECHA FACTURA ,31
+1061.00,Siñeriz Hugo Manuel,Av Roca 618,Santa Rosa,02954-416791,20-08454591-1,144,labulonera@cpenet.com.ar,La Pampa,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,34
+1062.00,YPF Norte (Carlos Pessi SRL),Raul V. Diaz 175,Santa Rosa,0954-32568,30-67163768-9,145,(en blanco),La Pampa,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,34
+1063.00,Montero Carlos N.Bul del Norte,Calle 107 Nº 1045,General Pico,02302-424215,20-11168106-7,27,(en blanco),La Pampa,Inscripto   ,(en blanco),77,CDO.ANTICIP.UNICA.DEV.MERCA,34
+1138.00,Suero Rodolfo Casimiro,Ricardo Aldo 1857,Santa Fe,0342-4606583,23-06243251-9,117,buloneriaricardoaldao@yahoo.com.ar,Santa Fe,Monotributo ,RODOLFO,77,30 ds FECHA FACTURA,31
+1228.00,Cervetto Jorge Ricardo,Rivadavia 366,Jacinto Arauz,02925-493916,20-11244503-0,933,jenewton_54@hotmail.com,La Pampa,Inscripto   ,(en blanco),77,7 ds fecha factura*verificar cond de pago,34
+1339.00,Kudos SA,Pte Peron (E) 306,Rio Cuarto,0358-4664929,30-71236809-4,15,ferreterialvaro@yahoo.com.ar,Cordoba,Inscripto   ,Alvaro 0358-1540189020,77,15 DS.fecha factura,31
+1472.00,Oviedo Ricardo Alberto***,Spinetto 911,Santa Rosa,02954-435646,20-14335048-8,145,oxigenonorte@speedy.com.ar,La Pampa,Inscripto   ,(en blanco),77,CDO ANTICIPADO. OJO ESTA FUNDIDO,34
+1473.00,Bellone Pedro,Hipolito Yrigoyen 742,Eduardo Castex,0334-2691,20-07338894-6,152,(en blanco),La Pampa,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,34
+1475.00,Bul. Lu-Gi de Castañeira Aldo F***,Av. Circunvalacion 1556 (Sur),Santa Rosa,02954-702538,20-12026756-7,259,buloneralugi@hotmail.com,La Pampa,Inscripto   ,Sra Rosa,77,45ds.C/REEMB.,34
+1503.00,La Cueva Repuestos S.H.,Eduardo Fernandez y España,La Carlota,03584-420370,30-70837918-9,15,lacueva@lconline.com.ar,Cordoba,Inscripto   ,(en blanco),77,7 DIAS FF COBIMPRO,31
+1508.00,Bueno Group S.A ,"M. T DE ALVEAR 697 ""SECTOR FERRETERIA""",Rio Cuarto,(0358) 463-0064,30-71092386-4,15,administracion@buenogroup.com.ar,Cordoba,Inscripto   ,ferreteria@buenogroup.com.ar ,77,30 ds FECHA FACTURA,31
+1509.00,Distribuidora Omi SRl***,Velez Sarfield 576,Rio Cuarto,0358-4623764,30-59827098-4,22,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 DIAS FF.OJO CLIENTE CON CUIDADO,31
+1511.00,Nardoni Daniel (El Ferretero),San Martin 2395,Rio Cuarto,0358-4631573/4642911,20-14624463-8,15,nardonis@hotmail.com,Cordoba,Inscripto   ,DANIEL,77,30 DS FEFCHA FACTURA,31
+1512.00,Rasmusen Carlos Celestino,25 de Mayo 1048,General Cabrera,0358-4930322,20-06641559-8,15,carlosrasmusen@copespnet.com.ar,Cordoba,Inscripto   ,(en blanco),77,30 DIAS C/REEMBOLSO,31
+1514.00,Galiano Hugo Francisco,Bv. Rivadavia 202,Hernando,0353-4960331,20-06605755-1,203,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 ds c/reembolso,31
+1517.00,Cotagro Coop. Agric. Ltda,9 de Julio y Rivadavia,General Cabrera,0358-4930356/4930320,30-52715145-3,203,odefilippi@cotagro.com.ar,Cordoba,Inscripto   ,(en blanco),77,15 DS.F/FACT.,31
+1567.00,Olivera Nestor,Garret 43,Carlos Tejedor,0357-21057,20-12037645-5,46,tejedor_repuestos@ctejedor.com.ar  ,Buenos Aires,Inscripto   ,(en blanco),77,15 DS.fecha factura,34
+1587.00,Walter Ruben David***,Miglioli S/N,Catrilo,02954-491505/491166/49128,20-12896868-8,682,(en blanco),La Pampa,Inscripto   ,(en blanco),77,CDO.ANTICIP. SI O SI. NO PAGA CONTRARREMBOLSO,34
+1621.00,Frassone Jose Carlos NO EXISTE MAS,Irigoyen 742,Carlos Tejedor,0357-20771,20-11166353-0,46,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,CERRO,34
+1633.00,IF Cabo SRL,Avda Gral Savio 945,Rio Tercero,03571-422032,30-71833490-6,202,compras@indusfer.com.ar,Cordoba,Inscripto   ,NICOLAS,77,30 ds FECHA FACTURA,31
+1634.00,Fernandez Carlos Luis,Cordoba 63,Santa Rosa de Calamuchita,03546-420849/420757,20-16503683-3,202,gallegoferreteria@gmail.com,Cordoba,Inscripto   ,CARLOS FERNANDEZ EL GALLEGO,77,15 DS ff,31
+1635.00,Vasconsuelo Manuel Andres***,Santa Paula 18,Carnerillo,0358-4883288,20-06605184-7,15,ferre.cor@hotmail.com,Cordoba,Inscripto   ,(en blanco),77,30 DSFECHA FACTURA,31
+1636.00,Ruiz Ariel Victor***,Independencia 735,Laboulaye,03385-428441,20-17058290-0,80,jb_ruiz@arnet.com.ar,Cordoba,Inscripto   ,Ariel,71.3,15 DS.F/FACT.,31
+1650.00,Palacio Juan Carlos,Av.Buteler 44,Elena,0358-4881138,23-06638952-9,202,ferreteriapalacio@gmail.com,Cordoba,Inscripto   ,(en blanco),77,7 ds fecha factura,31
+1670.00,Potenzoni Claudio Pedro**,Lucas V. Cordoba 811,Alta Gracia,03547-420056,20-12439193-9,15,claudiopotenzoni@hotmail.com,Cordoba,Monotributo ,CLAUDIO,77,30 DS F/FACTURA,31
+1673.00,Spreng Graciela Leticia*******,JUAN B JUSTO 891,Villa Carlos Paz,03541-434019,27-10714039-0,249,bulonera_carlospaz@hotmail.com,Cordoba,Inscripto   ,GRACIELA,77,30DIAS F/FACT.,31
+1709.00,Grainco Pampa S.A,Av. Sarmiento y Pellegrini,Intendente Alvear,02302-482016-COB-02302-48,30-58052572-1,434,(en blanco),La Pampa,Inscripto   ,(en blanco),77,30 DS.F/FACT.,34
+1714.00,Valencia Hector Oscar***,España 1083,General Acha,02954-15693827/ 15583917,20-17979205-3,259,(en blanco),La Pampa,Monotributo ,(en blanco),77,15 dias c/reembolso,34
+1715.00,Casa Margon SRL,Gral Campos 1146,General Acha,02952-436232,30-64237057-6,259,margon@coseganet.com.ar,La Pampa,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,34
+1716.00,Peola Hector,25 de Mayo 778,Intendente Alvear,02302-482376-482246,20-07368632-7,484,hectorpeola@hotmail.com,La Pampa,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,34
+1717.00,Moyano Lucrecia Anabela,Italia 1227,Eduardo Castex,02334-43041,30-71000445-1,144,lucremoyano@hotmail.com,La Pampa,Inscripto   ,(en blanco),77,15 ds c/reembolso,31
+1718.00,Matteazi Carlos Alberto,Victoriano Rodriguez 940,General Acha,02952-432696,20-11631399-6,260,elgringo@gralacha.com.ar,La Pampa,Inscripto   ,(en blanco),77,15 DS.F/FACT.,34
+1720.00,Gutierrez Andres y Otros S.H,Avda San Martin 1428,General Cabrera,0358-4930550,30-70787795-9,15,gcabrera@andresgutierrez.com.ar,Cordoba,Inscripto   ,(en blanco),77,15 DS.F/FACT.,31
+1766.00,M.T.Comercial S.H de Toribio A.I. ,San Martin 27,America,02337-452041,30-52681235-9,270,mtcom@jsnet.com.ar,Buenos Aires,Inscripto   ,(en blanco),77,7 DS.F/FACT.,34
+1784.00,Falco y Cia S.R.L,San Martin e Hipolito Yrigoyen,Bell Ville,03537-425386,33-59404792-9,309,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 DS.C/REEMB. ojo solo c/reembolso,31
+1785.00,Ferreteria Martin SRL,Tucuman y Ameghino,Bell Ville,03537-425260,30-52645509-2,565,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,31
+1787.00,Bartolome Mercedes Cesere S.A,Rta Nac. 158 S/N,Pozo del Molle,0353-4830065/4830950,30-54302336-8,637,bmcsa@coopmolle.com.ar,Cordoba,Inscripto   ,(en blanco),77,30 DS.F/FACT.,31
+1814.00,Cima SRL,Pedro J. Frias 302 y N.Gonzale,Jesus Maria,03525-422142,30-66833895-6,568,cimasrljm@gmail.com,Cordoba,Inscripto   ,Gabriel / Natalia,77,30 DS F/FACTURA,31
+1815.00,Oxigeno Jesus Maria SRL,Pedro J. Frias 444,Jesus Maria,03525-421208/ 444444,23-11334341-9,249,marcos@oxigenojm.com.ar,Cordoba,Inscripto   ,(en blanco),77,15 C/REEMB.,31
+1822.00,Ceballos Lorena G,Carlos Pellegrini 37,Las Varillas,03533-422008 423423,27-26641310-1,22,bulonerialasvarillas@outlook.com.ar,Cordoba,Inscripto   ,bulonerialv@lasvarinet.com.ar,77,7 DS.FF,31
+1850.00,Lourincevich Ana Maria J. ,Av. Sabattini 4004,Barrio Empalme,051-555585,27-05801551-8,287,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 DS C/REEMB. VER,31
+1854.00,Tamed SA***,Hipolito Yrigoyen 124,Villa Del Rosario,03573-422435 / 425838,20-06444396-9,452,casarossa@covinter.com.ar,Cordoba,Inscripto   ,DARIO,71.4,30 D FF  MAL PAGADOR,31
+1863.00,Brocanelli Bruno Luis,Avda O'Higgins 2649,Bº Cabaña del Pilar,0351-4640188,20-32124854-4,15,(en blanco),Cordoba,Inscripto   ,Bruno,77,15 ds c/reembolso,31
+1905.00,Gomez Y Cia SRL,Sarmiento 239,Winifreda,02333-497105 Fax 497127,30-59951465-8,484,gomez@cew.com.ar,La Pampa,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,34
+1907.00,Bulonera General Paz SRL,Francisco De Quevedo 43,Barrio Alta Cordoba,0351-4711338,30-71731358-1,301,bulonerageneralpaz@yahooh.com.ar,Cordoba,Inscripto   ,Diego,77,15 DS F/FACTURA,31
+2095.00,Bulonera Mediterranea SA,Jose Salvador De La Reta 1028,Cordoba,0351-4215166,30-70739695-0,545,laura@mediterranea.com.ar,Cordoba,Inscripto   ,Ruben Cannuni,77,15 DIAS FF,31
+2200.00,Garcia Gerardo David,San Martin 12,Cruz del Eje,03549-425069,20-30311281-3,249,cruz_ubp@hotmail.com,Cordoba,Inscripto   ,GERARDO,77,30 DS F/FACTURA,31
+2204.00,Chavez Mario Osvaldo***,Pte Peron 1169,Cosquin,03541-453022/Cel:076-6221,20-06296281-0,249,(en blanco),Cordoba,Inscripto   ,DIEGO (HIJO),77,CDO/C REEMB DEV. MERC EN 1RA COMPRA,31
+2205.00,Herracort SA,Av. España esq. F. Alcorta,La Falda,03548-422317,30-71118663-4,368,info@herracort.com.ar,Cordoba,Inscripto   ,CARLOS,77,30 DS F/FACTURA,31
+2206.00,Pereyra Olga Yolanda,Caseros 45 (ruta 38),Villa Soto,03549-480524,27-11728012-3,249,hectorhugo53@yahoo.com.ar,Cordoba,Inscripto   ,Hugo,77,30 ds /factura,31
+2266.00,Marzo Carlos Horacio,Autonomista 865,Santa Rosa,0954-29803,20-10269464-4,144,(en blanco),La Pampa,Inscripto   ,(en blanco),77,EFECT. C/REEMB. BUEN TIPO,34
+2288.00,Lucero Juan Carlos******,San Martin 418,General Acha,02952-416708,20-14253696-0,259,(en blanco),La Pampa,Inscripto   ,(en blanco),77,30 DIAS F. F,34
+2341.00,Megaferr de Campise Natalio S.,Avda Sabattini 4088,Barrio Empalme,051-580799 /579757,20-11562717-2,249,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 ds c/reembolso,31
+2351.00,Nolcar Toranzo SRL**,Cipriano Perello 5739,Ferreyra (sur),0351-4979210,30-70892633-3,301,nolcar@arnet.com.ar,Cordoba,Inscripto   ,OSCAR TORANZO,77,15 DIAS C/REEMBOLSO. ver que pasa,31
+2366.00,Pergolini Aldo Mario,Garcia Pubill 115,Las Vertientes,0358-4914173,20-10762603-5,15,aldopergolini@hotmail.com,Cordoba,Inscripto   ,(en blanco),77,30 DIAS FF,31
+2367.00,Bogino Maria Elena,Rivadavia 781,Sampacho,03582-420654,27-21515178-1,22,mebogino@hotmail.com,Cordoba,Inscripto   ,Ricardo,77,30ds  fecha factura,31
+2439.00,Rene Chiavon SRL,Av Circ Sgto Marzo ESTE Nº 2596,Santa Rosa,02954-432230 / 423117,30-69355093-5,144,renechiavonsrl@speedy.com.ar,La Pampa,Inscripto   ,Cacho,77,15 DS.C/REEMB. PEDIR TELEFONO NUEVO,34
+2440.00,Fernandez Ricardo Antonio,Av. Luro 2815,Santa Rosa,no hay,20-07365553-7,144,(en blanco),La Pampa,Inscripto   ,(en blanco),77,no existe mas. consulrtar,34
+2444.00,Bertin y Davyt Omar A.,Artigas 895,Jacinto Arauz,02925-493228,30-67169469-0,337,(en blanco),La Pampa,Inscripto   ,(en blanco),77,15 ds c/reembolso,34
+2447.00,Boitard Carlos Mario,Avda Circunvalacion 1450,Santa Rosa,(en blanco),20-10227892-6,144,carlosmboitard@speedy.com.ar,La Pampa,Inscripto   ,(en blanco),77,15 CO/reemb. falta telefono y expreso,34
+2458.00,Giuliani Humberto****,San Martin 1835,Rio Cuarto,0358-4644717/cel0358-1556,20-12832283-4,15,mariaek1967@live.com,Cordoba,Inscripto   ,(en blanco),77,15 DS.F/FACT.,31
+2462.00,Oxigeno Union SA,Av. Italia 1749,Rio Cuarto,0358-4625982,30-71097988-6,16,compras@oxigenounion.com,Cordoba,Inscripto   ,GERMAN/dario Gramajo,77,30 DS F/FACTURA ,31
+2484.00,Estrada Nicolas Luis,San Martin 1686,Rio Cuarto,0358-4650249,20-35915307-5,15,ferreteriaestrada@arnetbiz.com.ar,Cordoba,Inscripto   ,Luis,77,30 DS C/REEMBOLSO,31
+2590.00,Principe Gustavo Gabriel,Rivadavia  Esq.Sarmineto,Laborde,03537-460197,20-20245262-1,424,buloneriarivadavia@hotmail.com,Cordoba,Inscripto   ,Gustavo 03537-11585733 Celu Personal,77,30/45 ds c/reembolso,31
+2649.00,Pibetta Ricardo,Avda Fuerza Aerea 4281,Cordoba,0351-4663628,20-16500986-0,436,(en blanco),Cordoba,Inscripto   ,(en blanco),77,CDO.ANTICIPADO.DEV.MERCA,31
+2710.00,Aramburu Juan A y Magliochetti,Calle 11 nº 1119 (O),General Pico,02302-421445/ cel 15-6908,20-17310910-6,434,(en blanco),La Pampa,Inscripto   ,(en blanco),77,15DS.C/REEMB.TRABAJA SEGURA,34
+2753.00,Ziback Fabian Alberto,Cordoba 363,Santa Rosa de Calamuchita,03546-420808,20-21695618-5,694,ziback@sparosanet.com.ar,Cordoba,Inscripto   ,(en blanco),77,30 DS.F/FACTURA,31
+2795.00,Fridel Gabriel Horacio,9 De Julio 372,Winifreda,02333-497292,20-21638283-9,144,agrorepuestoswini@yahoo.com.ar,La Pampa,Inscripto   ,GABRIEL,77,15 DS.C/REEMB.,31
+2863.00,Ravera Oscar Raul,Calle 28 Nº 385 Norte,General Pico,02302-424402/ 02302-156-9,20-10269828-3,484,(en blanco),La Pampa,Monotributo ,(en blanco),77,15 DS.C/REEMB.,34
+2865.00,Capovillia Helio Santiago,Roque Saenz Peña 879,Santa Rosa,02954-453041,20-07347761-2,145,(en blanco),La Pampa,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,34
+2997.00,Coop. de Trabajo La Historica,Calle 32 Nº 921,General Pico,02302-437340,30-70730345-6,531,(en blanco),La Pampa,Inscripto   ,(en blanco),77,Contado anticipado,34
+3011.00,Agric. Unidos de Tancacha Coop. Ltda,Belgrano esq.San Juan,Tancacha,03571-460109 FIJO,33-51164221-9,694,rdean@agricultoresunidos.com.ar,Cordoba,Inscripto   ,Ruben Dean,77,20 DS.F/FACT.,31
+3012.00,Toti Conti S.A,Bulevart Moreno 695,Hernando,0353-4847023 Andrea,30-70815249-4,694,contiferreteria@gmail.com,Cordoba,Inscripto   ,ferreteria@contienrique.arnetbiz.com.ar,77,30 ds FECHA FACTURA,31
+3013.00,Lucero Miguel Antonio,Av Zenon Bustos 524,Reduccion,0358-4884045// 155-626144,20-06595931-4,15,ellaberinto@hotmail.com,Cordoba,Inscripto   ,(en blanco),77,30 DS.FECHA  FACTURA,31
+3015.00,Pasetti Emiliano Nicolas,Bv.San Martin 95,General Deheza,0358-4053828-155610584,20-25986978-2,534,ferreteradeheza@hotmail.com,Cordoba,Inscripto   ,HECTOR,77,30 DS.F/FACTURA,31
+3088.00,Cucurull Carlos Alfredo,Lavalle 20,America,02337-452695,20-11514234-9,270,carlos@laviejacarpinteria.com.ar,Buenos Aires,Inscripto   ,Lucrecia@laviejacarpinteria.com.ar,77,30 DS.C/REEMB.,34
+3090.00,Garbarino Roberto Luis,Calle 8 Nº 153,General Pico,02302-421908,20-07363445-9,27,(en blanco),La Pampa,Inscripto   ,(en blanco),77,CDO.C/REEMB.MOTOSIERRAS,34
+3123.00,Peccoud Heraldo Rene,San Martin Y Velez Sardfield 0,Las Perdices,0353-4940028/0353-4950555,20-22508122-1,694,administracion@ri-pe.com.ar,Cordoba,Inscripto   ,(en blanco),77,30 DS FEHA FACTURA,31
+3124.00,Coop Agric Gand de Monte Buey Ltda,Rivadavia y Dean Funes,Monte Buey,03467-470029/470113/,30-53112211-5,565,coopferreteria@nodosud.com.ar,Cordoba,Inscripto   ,ADRIAN VISCONTI,77,15 DS.F/FACT.,31
+3129.00,Beitia Lucia Josefa***,Rawson 460,Rio Cuarto,0358-4651174,23-14132302-4,597,ferreteriarawson@gmail.com,Cordoba,Inscripto   ,Luis,77,30 ds FECHA FACTURA,31
+3139.00,Gutierrez Andres y Otros S.H,Av Buenos Aires 316,General Deheza,0358-4053550,30-70787795-9,15,gdeheza@andresgutierrez.com.ar,Cordoba,Inscripto   ,Pagos Lidia Ver Direc. Mail Internet,77,15 DS.F/FACT.,31
+3180.00,Impinnisi Hector Roberto,Nuñez 85,Alpachiri,02953-497412,20-05063749-3,421,(en blanco),La Pampa,Inscripto   ,(en blanco),77,15 ds c/reembolso,34
+3242.00,Asinari Roberto***,Roque Saenz Peña 70,Oliva,03532-420921,20-08473291-6,646,(en blanco),Cordoba,Inscripto   ,(en blanco),77,30 DS.C/REEMB.,31
+3243.00,Sucesion De Belanti Oreste Carlos***,San Martin 537,Santa Rosa de Rio Primero,03574-480527,20-10049067-7,71,mdbelanti@hotmail.com,Cordoba,Inscripto   ,(en blanco),77,30DS.FECHA FACTURA,31
+3245.00,Toneatti Monica Liliana****,Boulevard Urquiza 470,Santa Rosa de Rio Prinero,03574-480425,27-21402187-6,404,buloneratotal@outlook.com,Cordoba,Inscripto   ,FERNANDO,77,30 ds FECHA FACTURA,31
+3250.00,Molina Juan Carlos,Tucuman 532,Alejo Ledesma,03468-490161,20-08439242-2,80,ferreteriamolinaal@hotmail.com,Cordoba,Inscripto   ,(en blanco),77,30 DSC/REEMB.,31
+3264.00,Benitez De Lamberti G. Y Parola J. SH***,Juan A.Mas 20,Laboulaye,03385-420819,30-70776249-3,520,(en blanco),Cordoba,Inscripto   ,(en blanco),77,ANTICIPADO SI O SI,31
+3265.00,Suarez Gaston Ariel,Speroni 111,Bernardo Larraude,02302-492172,20-30576054-5,484,casaelrincon@ialvear.com,La Pampa,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,34
+3266.00,Arzer Nestor Pedro,El Ortondo 720,Miguel Riglos,02953-498311,20-14253594-8,514,(en blanco),La Pampa,Inscripto   ,(en blanco),77,15 DS.C/REEMB. FALTA MAIL,34
+3268.00,Palacio Hector M. V,Roca 371,Intendente Alvear,02302-481416,20-20305184-1,484,elpamperoventas@gmail.com,La Pampa,Inscripto   ,(en blanco),77,15 DS.C/REEMB.ultimo pago 70 dias,34
+3269.00,Asoc. Civil Colonia Menonita***,PARA SR PEDRO GIESBRECH,Guatrache,02924-492401,30-67167616-1,337,(en blanco),La Pampa,Inscripto   ,(en blanco),77,30/60 DS C/REEMBOLDO,34
+3319.00,Coop. Agricola Berrotaran S.A,Nicolas Berrotaran Nº 1,Berrotaran,0358-4940405,30-53293004-5,15,fersup@coopabe.com.ar,Cordoba,Inscripto   ,JORGE COSEANI,77,30 DS F/FACTURA,31
+3323.00,Insagro SRL,Pedro J Frias,Jesus Maria,03525-425144,30-70790440-9,568,insagrosrl@coop5.com.ar,Cordoba,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,31
+3324.00,Carandino Guillermo Ariel,San Martin 70,Villa Del Rosario,03573-422177,20-24520583-0,594,casacarandino@covinter.com.ar,Cordoba,Inscripto   ,GUILLERMO,77,15 DS F/FACTURA,31
+3326.00,Grill Daniel Y Grill Mario SH,Av San Martin 179,Rio Primero,03574-420114,30-68096182-0,594,ferreteria@ferreteriagrill.com.ar,Cordoba,Inscripto   ,(en blanco),77,30 DS C/REEMBOLSO,31
+3327.00,Heredia Marcos,Int.Jose Froute 14,General Deheza,0358-4053696,20-22562543-4,668,marcos400_4@hotmail.com,Cordoba,Inscripto   ,(en blanco),77,15 DIAS FECHA FACT.,31
+3337.00,Marcon Hector Hugo,Chacabuco 432,Las Acequias,0358-4890442,20-28627788-9,15,hugomarcon@hotmail.com,Cordoba,Inscripto   ,HUGO / Claudia,77,15 DIAS FECHA FACTURA,31
+3411.00,Dalmas Ricardo Alberto,Pringles 63,Guatrache,02924-492494,20-07365938-9,337,dalmasra@lpguatrache.com.ar,La Pampa,Inscripto   ,Ricardo,77,15 DS.C/REEMB.,34
+3414.00,Rubilar Jose B. (La Pampa)***,Garibaldi 25,Santa Rosa,02954-424206,20-11904268-3,144,repuestosep@speedy.com.ar,La Pampa,Inscripto   ,Sergio,77,7 DS.F/FACT.,34
+3433.00,Escobar Raimundo,Las Heras 682,Quemu Quemu,02333-442386,20-05492513-2,587,escobarraimundo@yahoo.com.ar,La Pampa,Inscripto   ,(en blanco),77,15 DS.F/FACT.,34
+3435.00,Juan Carlos Narcisi S.R.L***,Calle 9 Nª 159 (O),General Pico,02302-422601,30-69486461-5,484,"narcisi@speedy.com.ar, ventas@jcnarcisi.com.ar",La Pampa,Inscripto   ,(en blanco),77,15 DS.F/FACT. TIENE SUCURSAL STA ROSA,31
+3436.00,Bertino Jose Daniel,Argentino Valle 798 Y Circunvalacion,Santa Rosa ,02954-428623,20-11866367-6,0,ferreteriabc@speedy.com.ar,La Pampa,Inscripto   ,(en blanco),77,15 C/REEMB. FALTA EXPRESO,34
+3437.00,Berdozzi Jose Maria,Cale 11 Nº 1378,General Pico,02302-423777,20-07358443-5,434,armeriaroasenda@speedy.com.ar,La Pampa,Inscripto   ,(en blanco),77,15 DS.C/REEMB.,34
+3438.00,Ansotegui Ruben,9 De Julio 372,Quemu Quemu,02302-15602672,20-07363160-3,587,ferreteria9dejulio@cosypro.com.ar,La Pampa,Inscripto   ,(en blanco),77,7 DS.C/REEMB.,34
+3439.00,BRS De Borasio Leonardo,Calle 9 Nº 1430,General Pico,02302-422877,11-11111111-1,434,(en blanco),La Pampa,Inscripto   ,(en blanco),77,CDO.C/REEMB.FALTA CUIT,34
+3452.00,Dick Enrique R. Y Cía SRL***,Av. Julio A. Roca 264 / 70,Villa General Belgrano,03546-461369,30-52941249-1,694,maj@dickhaus.com,Cordoba,Inscripto   ,WALTER,77,30 DS F/FACTURA,31
+3538.00,Coop. Agrop. Union De Justiniano Posse,Av De Mayo 6,Justiniano Posse,03537-431147 /431268,30-51153449-2,565,ggomez@coopunion.com.ar,Cordoba,Inscripto   ,Hernan/Gomez Gonzalo,77,15 DS.F/FACT.,31
+3555.00,Lanzetti Jose Maria,Rivadavia 469,Ingeniero Luiggi ,02335-472125,23-10647276-9,152,lanzettiagro@inluigi.com.ar,La Pampa,Inscripto   ,(en blanco),77,30 DS.C/REEMB.,34
+3556.00,Bruni De Schanton Graciela,25 De Mayo Y Rivadavia,Ingeniero Luiggi,02335-472188,27-11345211-6,152,elindustrial@ingluiggi.com.ar,La Pampa,Inscripto   ,GRACIELA,77,15 DS.C/REEMB.,34
+3558.00,Moronta Horacio Manuel******,Jose Luro 1056,Santa Rosa,02954-15464236,20-14253779-7,145,(en blanco),La Pampa,Monotributo ,Horacio,77,CDO ANTICIPADO. DEBE C/REEMB $ 138 DEL 26/3/2009,34
+3635.00,Cingolani German Y Cingolani  G S.H.,Ruta Provincial Nº 6 Km 201,Monte Buey,03467-470936,20-06552972-7,565,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 DS.F/FACTURA,31
+3640.00,Da-Di Ferreteria SA***,San Juan 441,Mattaldi,03583-481603,30-71119142-5,608,dadiferreteriasa@gmail.com,Cordoba,Inscripto   ,David Acotto,77,30 DS.C/REEMB.,31
+3641.00,Pomiro Aldo Armando***,Mitre 314,Jovita,03385-498951/498056,20-12452134-4,608,jovitabulones@hotmail.com,Cordoba,Inscripto   ,(en blanco),77,30 DS.F/FACTURA,31
+3642.00,Razzeto Roberto Edilio***,Av. San Martín 359,Adelia María,03585-420231,20-06641260-2,15,(en blanco),Cordoba,Inscripto   ,Roberto,77,30 DS.C/REEMB.,31
+3646.00,Maffioli Raul Pascual,San Martín 662,General Cabrera,0358-4932938,20-242805502-,15,(en blanco),Cordoba,Inscripto   ,RAUL,77,30 DS.C/REEMB.,31
+3647.00,Vega Ruben Artemio,J. B. Alberdi 2052,Pilar,03572-471666 /471748,20-08411585-2,646,ferreteria@estructurasvega.com,Cordoba,Inscripto   ,ZANA MARCOS,77,30 DS.F/FACTURA,31
+3648.00,Gualtieri Orlando Y Etcharren Jose SH,Av. Sabattini 2695,Rio Cuarto,0358-154110093,30-70925916-0,15,laaguada_gualtieri@hotmail.com,Cordoba,Inscripto   ,Orlando/GABRIELA ENC COMPRAS RIO CUARTO,77,30 ds FECHA FACTURA,31
+3657.00,Poli Fabian**,Ruta 9 Km 784,Villa El Totoral,03524-470510,23-20073834-9,568,fpmetro@hotmail.com,Cordoba,Inscripto   ,Fabian,77,30 ds FECHA FACTURA,31
+3708.00,Castro Jorgelina***,Ejercito Argentino 3419 Ruta 19 Km 1,Santo Tome,0342-156108486,27-24536489-5,117,ferreterialila@yahoo.com.ar,Santa Fe,Inscripto   ,(en blanco),77,30DIAS FF,31
+3745.00,Girardo Cristian,Alberdi 175,Jovita,03385-498331,20-25150051-8,608,(en blanco),Cordoba,Inscripto   ,CRISTIAN,77,15 ds FECHSA AFACTURA,31
+3778.00,Sur Y Agro S.A.,Mitre Y Rivadavia,Adelia Maria,03585-420494,30-66904021-7,15,suryagro@amaria.com.ar,Cordoba,Inscripto   ,(en blanco),77,30 DS F/FACTURA,31
+3780.00,Casa Blas SA,Ruta Prov. 24 Oeste Nº 133,San Basilio,03585-491888 FEDERICO,30-71040397-6,15,hugocarlosblas@gmail.com,Cordoba,Inscripto   ,FEDERICO,77,30ds fecha factura,31
+3783.00,Santi Rossano Y Cia SA***,O.Ostendorp 745,Serrano,03385-495088,30-66874120-3,520,(en blanco),Cordoba,Inscripto   ,(en blanco),77,30 ds f/factura. PIDE CON Nº SEGURA,31
+3784.00,Barbieri  Hnos SA****,Mitre 237,Coronel Moldes,03582-483202,30-71524903-7,15,dmgrodamientos@yahoo.com.ar,Cordoba,Inscripto   ,BARBIERI GERMAN,77,30 ds FECHA FACTURA,31
+3785.00,La Colonia S.R.L.,San Martin 802,Sampacho,03582-420521,30-60150680-3,22,lacolonia@arnetbiz.com.ar,Cordoba,Inscripto   ,(en blanco),77,30 DS F/FACTURA,31
+3789.00,Comercial Bulonera S.R.L.,Tucuman 910,Rio Segundo,03572-15691187/15403967,23-14892556-9,285,comercialbulonera@hotmail.com,Cordoba,Inscripto   ,Hugo,77,30ds fecha factura,31
+3791.00,Bonina Eduardo Alberto,Av.Cordoba 830,Luque,03573-481232,20-12483792-9,452,boninarepuestos@hotmail.com,Cordoba,Inscripto   ,(en blanco),77,15 ds c/reembolso,31
+3794.00,Bernabe Victor Gabriel,25 De Mayo 689,Luke,03573-480782,23-21400960-9,452,(en blanco),Cordoba,Inscripto   ,(en blanco),77,30 ds FECHA FACTURA,31
+3800.00,Alonso Gerardo,Rivadavia 1012,Villa De Maria De Rio Seco,03522-422192,20-12420085-8,15,copo1982@hotmail.com,Cordoba,Inscripto   ,GERARDO,77,30 diasF/FACTURA,31
+3824.00,Barth Carlos Enrique,25 De Mayo 40,Alpachiri,02953-497302,20-11374342-6,260,aguadasbarth@hotmail.com,La Pampa,Inscripto   ,(en blanco),77,15 ds c/reembolso,34
+3845.00,Arroyat Pablo Javier,Av.9 De Julio 445,Toay,02954-15593879,20-17719236-9,145,pabloarroyat@gmail.com,La Pampa,Inscripto   ,(en blanco),77,30 DS C/REEMBOLSO,34
+3856.00,Cabral Aldo Omar****,Caseros 1843 ,Villa Ocampo,03482-466840,20-12901476-9,136,(en blanco),Santa Fe,Inscripto   ,Aldo,77,CONTADO C/REEMBOL EFVO,31
+3857.00,Walter D Zalazar Y Graciela Yaccuzzi SH*,P.Angel Tibaklo 1141,Villa Ocampo,03482-468380,30-70729375-2,136,fercomat@cocampo.com.ar,Santa Fe,Inscripto   ,(en blanco),71.4,30 DS FECAH FACTURA,31
+4025.00,Valdivieso Antonio Hernan,Italia 936,Catrilo,(en blanco),20-17042748-4,645,(en blanco),La Pampa,Inscripto   ,(en blanco),77,30 DS C/REEMBOLSO,34
+4068.00,Franz Fernando,(en blanco),Alpachiri,(en blanco),20-05767589-7,0,(en blanco),La Pampa,Inscripto   ,(en blanco),77,7 dsC/REEMBOL.NO HAY DATOS,34
+4157.00,Eberhardt Hugo,Cincuvalacion Sur 2006,Santa Rosa,02954-425800,20-11462237-1,259,hugoeber@yahoo.com.ar,La Pampa,Inscripto   ,(en blanco),77,30 DS C/REEMBOLSO,34
+4190.00,Bulplus SAS******,Av. Santa Ana 3033 Bª Alto Alberdi,Cordoba,0351-4877689/4870846,30-71666615-4,80,diegomezzano@bulplus.net,Cordoba,Inscripto   ,Diego Mezzano,77,15 ds fecha factura,31
+4223.00,Rivera Abel Hugo,Pasaje Escuela 11 Nª 81,General Acha,02952-432276,23-08215057-9,259,(en blanco),La Pampa,Inscripto   ,(en blanco),77,15 ds c/reembolso,34
+4326.00,Jaureguibehere Maria Eugenia,A.Argentina 1105 Esq Caseros,Santa Rosa,02954-431448/434429,27-13689636-4,145,(en blanco),La Pampa,Monotributo ,(en blanco),77,contado c/rembolso,34
+4375.00,Sola Julio Cesar***,Suipacha 696,Rio Cuarto,0358-4630651,20-06642714-6,15,(en blanco),Cordoba,Inscripto   ,(en blanco),77,30ds fecha factura,31
+4416.00,Gonzalez Hector Miguel****,Eva Peron 607,Cruz Del Eje ,03549-424695,20-11192033-9,249,(en blanco),Cordoba,Inscripto   ,(en blanco),77,30 DS F/FACTURA,31
+4419.00,Gomez Luis B,Chile 447,Alta Gracia,03547-421007 / 429402,(en blanco),0,info@ferreteriagomez.com.ar,Cordoba,Inscripto   ,(en blanco),77,FALTAN DATOS,31
+4440.00,Navarro Sergio Antonio,Avda Luro 1848,Santa Rosa,02954-412015,30-64154084-2,707,navarro.ser@hotmail.com,La Pampa,Inscripto   ,(en blanco),77,7 dias ff. COBIMPRO .FALTA MAIL,31
+4454.00,Rodriguez Leandro Fernando***,Av.9 De Julio 389,Tacural,03493-492306,20-23247033-0,36,ferretacural@cooptacural.com.ar,Santa Fe,Inscripto   ,FERNANDO,77,15/30/45/60/75 C/REEMBOLSO CHEUQ,31
+4464.00,Prandi Rodolfo Javier,Maipu 175,America,02337-404166,20-22828207-4,270,fpmaquinarias@jsnet.com.ar,Buenos Aires,Inscripto   ,(en blanco),77,20 ds fecha factura,34
+4485.00,Dadone Osvaldo,25 De Mayo Y Belgrano,Alta Italia,02302-491151,20-07341337-1,8,osvaldodadone@altaitalialp.com.ar,La Pampa,Inscripto   ,(en blanco),77,7 DS FECHA FACTURA COBINPRO,34
+4486.00,Viano Roberto,Mullally E Italia,Realico,02331-462050,20-10213983-7,8,casaviano@realicosatelital.com.ar,La Pampa,Inscripto   ,(en blanco),77,15 C/REEMB. FALTA EXPRESO,31
+4487.00,Corralon Don Antonio Srl,Ruta 35 Km 526,Huinca Renanco,02336-442617,30-71022426-5,8,ventasdonantonio@huincacoop.com.ar,Cordoba,Inscripto   ,(en blanco),77,15 D/REMMB.,34
+4488.00,Torres Luis A.,Naico 87,Arata,02335-498160,20-14364674-3,152,epuyenlt@hotmail.com,La Pampa,Inscripto   ,(en blanco),77,15 C/REEMB.,34
+4489.00,Carmar SRL,Malvinas Argentinas 260,Arata,(en blanco),30-70735034-9,0,carmarsrl@live.com.ar,La Pampa,Inscripto   ,(en blanco),77,15 C/REEMB. FALTA EXPRESO Y TELEFONO,34
+4490.00,Conexcion Patagonia SRL,Calle 9 Nº 895 Oeste,General Pico,02302-423634,30-71030785-3,484,conexionpatagonia@hotmail.com,La Pampa,Inscripto   ,(en blanco),77,cerraron,34
+4491.00,Hebert Adema,Estrada 361,Lonquimay,02954-494582,20-11827021-6,0,(en blanco),La Pampa,Inscripto   ,(en blanco),77,15 C/REEM. FALTA EXPRESO- MAIL,34
+4492.00,Feito Raul Oscar,Nuñez 521,Lonquimay,02954-15537548,20-10759621-7,144,(en blanco),La Pampa,Inscripto   ,(en blanco),77,15 C/REEMB. FALTA EXPRESO Y MAIL,34
+4493.00,Bernardi Edgardo Omar,Luro Nº 1 Y Pueyrredon,Santa Rosa,02954-424111,20-10269062-2,145,haaslp@hotmail.com,La Pampa,Inscripto   ,(en blanco),77,15 C/REEMB.,34
+4495.00,Sanchez Gustavo Nahuel,Juan D. Peron 4973,Toay,02954-490800,20-31926050-2,707,gucho87@hotmail.com,La Pampa,Inscripto   ,Pamela,77,15 C/REEMB.,31
+4496.00,Bello Ricardo,Leguizamon 1298 Esq. Wilde,Santa Rosa,02954-15554527,20-07364335-0,690,(en blanco),La Pampa,Inscripto   ,(en blanco),77,15 C/REEMB. FALTA MAIL,34
+4497.00,Ballesteros Marcos Adrian,Telen 1703,Santa Rosa,02954-15559357,20-25851189-2,0,(en blanco),La Pampa,Inscripto   ,(en blanco),77,15 C/REEMB. FALTA EXPERSO Y MAIL,34
+4498.00,Marconetto Jose Luis,Avda Luro 1045,Santa Rosa,02954-430711,(en blanco),0,(en blanco),La Pampa,Inscripto   ,(en blanco),77,15 C/REEMB. FALTA CUI Y MAIL Y EXPRESO DIRECCION,34
+4536.00,Serassio Edgardo***,Doctor Rocha 128,Alejandro Roca,0358-4981120,20-14355201-3,15,bruzzoneferreteria@gmail.com,Cordoba,Inscripto   ,(en blanco),77,CDO ANTICIPADO. DEV MERC. Y PAGAMOS $ 60,31
+4545.00,Espinoza Juan,Rivadavia 277,La Cumbre,03548-15467433,20-20378434-2,0,ferreteriacorral@gmail.com,Cordoba,Inscripto   ,(en blanco),77,"7 ds fecha factura/falt c,postal y transporte",31
+4549.00,Badaluzzi Daniel Alberto,Ameghino 210,Jesus Maria,03525-442200,20-21399187-7,568,herra_fer@hotmail.com,Cordoba,Monotributo ,(en blanco),77,30 ds c/reembolso .,31
+4553.00,Agromax SRL,Frias 524,Jesus Maria,03525-421674,30-70904402-4,568,femajm@coop5.com.ar,Cordoba,Inscripto   ,(en blanco),77,15 C/REEMB. ,31
+4554.00,Canavesio Javier,Mitre 220,Las Varillas,03533-423599,20-21693492-0,620,femajm@coop5.com.ar,Cordoba,Inscripto   ,(en blanco),77,15 C/REEMBOLSO. ,31
+4555.00,Nazar Gomez Natalia,Hipolito Yrigoyen 1196,Alta Gracia,03547-426120,27-25411856-2,485,ferreteria_aj@hotmail.com,Cordoba,Monotributo ,(en blanco),77,15 C/REEMBOLSO,31
+4556.00,Quinodoz Carlos,Maipu 452,Canals,03463-420433,20-06557294-0,80,carlosquinodoz@intersatisp.com.ar,Cordoba,Inscripto   ,(en blanco),77,15 C/REEMB.,31
+4557.00,Mattarucco Eduardo Oscar,Arascaeta 721,La Carlota,03584-1545807/ 809,20-10888161-6,80,elpalierlacarlota@yahoo.com.ar,Cordoba,Inscripto   ,(en blanco),77,15 C/REEMB.,31
+4558.00,Font Carina Esther,San Martin 99,La Cralota,03584-422455,27-24991700-7,80,ferromax_ongaro@yahoo.com.ar,Cordoba,Inscripto   ,(en blanco),77,15 C/REEMBOLSO,31
+4612.00,Chartier Walter Y Chartier Cristian SH,Camino A San Roque 2130,San Justo,03498-429172,30-71465264-4,117,tornilleriachartiersj@gmail.com,Santa Fe,Inscripto   ,Encargada Leonor,77,30 DS F/FACTURA,31
+4614.00,Oviedo Laura***,25 De Mayo 220,Huinca Renanco,02336-442325,27-23851111-4,8,(en blanco),Cordoba,Inscripto   ,Marioni Carlos,77,30 ds  c/reembolso,34
+4620.00,Libois Oscar Jose***,Calle Italia S/N,Monte Nievas,02334-489110,20-07368283-6,152,(en blanco),La Pampa,Inscripto   ,(en blanco),77,30 c/reemb. DEV.PARTE MERC. DIJO $ DISPARATOS,34
+4627.00,Seisdedos Juan Carlos***,Sarmiento s/n,Miguel Cane,02302-15603586,20-11777716-3,706,seisdedosjc@hotmail.com,La Pampa,Inscripto   ,(en blanco),77,falta condicion de pago,34
+4628.00,Zipenco Maria Esther****,L.N.Alem S/N,Pichi Huinca,02335-480023,27-05188639-4,434,carinapombo@gmail.com,La Pampa,Inscripto   ,(en blanco),77,falta condicion de pago,34
+4629.00,Perez Luis Miguel****,Av.Ruben H Marin S/N,La Maruja,02335-499167,20-11698282-0,706,agrolamaruja@hotmail.com,La Pampa,Inscripto   ,(en blanco),77,falta condicion de pago,34
+4671.00,Alonso Guillermo***,Rivadavia S/N,Villa De Maria De Rio Seco,03522-422545,20-10378775-1,568,guillermoluisalonso@hotmail.com,Cordoba,Inscripto   ,(en blanco),77,30 DS C/REEMBOLSO,31
+4673.00,Marcuzzi Nelson,Av.San Martin 3325,Colonia Caroya,03525-466635,20-12844224-4,568,marcuzzinelson@gmail.com,Cordoba,Inscripto   ,Alejandro,77,30ds fecha factura,31
+4675.00,Oga Jorge Gregorio***,Fermin Rodriguez 227,Villa Caeiro,03541-15648637,20-13151455-8,249,ogamajul@hotmail.com,Cordoba,Monotributo ,Jorge,77,30 DS F/FACTURA. CLIENTE COMPLICADO,31
+4689.00,Olivares Leandro Exequiel*****,Av.Richeri 3814,Santo Tome,0342-4747292,20-32733218-0,978,leandroeolivares@hotmail.com,Santa Fe,Inscripto   ,Olivares Rodrigo Titular (LEANDRO),71.4,30 ds f/factura MAL PAGADOR,31
+4690.00,Sacco Delio Luis,Av.Lujan 4204,Santo Tome,0342-4750877 /4752224,23-16199533-9,117,ferreteriasacco@yahoo.com,Santa Fe,Inscripto   ,Luis,77,15 ds c/reembolso,31
+4728.00,Mungussi Ruben Daniel,Aufranc 1316,Esperanza,03496-427089,20-10958524-7,719,(en blanco),Santa Fe,Inscripto   ,(en blanco),77,30 DS C/REEMBOLSO,31
+4782.00,Lubrina Oscar Aristides,R.Martinez 130,Berrotaran,0358-4940119,20-06563788-0,202,(en blanco),Cordoba,Inscripto   ,(en blanco),77,30 DS C/REEMBOLSO,34
+4823.00,Ruiz Jose Ariel,Calle 9 De Julio 334,La Falda,03548-425018,20-17794357-7,249,arielruizferreteria@hotmail.com,Cordoba,Monotributo ,(en blanco),77,30 DS C/REEMBOLSO,31
+4855.00,Garcia E.N. Y Patrignani A.B.,Calle 10 929,General Pico,02302-156251168/15601043,30-67156292-1,259,(en blanco),La Pampa,Inscripto   ,(en blanco),77,falta condicion de pago,34
+4858.00,Gonzalez Martinez Sept Soc.Hecho***,Av.Spinetto 1240,Santa Rosa,02954-563563,30-71098659-9,259,ecosdelsur@cpnet.com.ar,La Pampa,Inscripto   ,ecosdelsur09@hotmail.com,77,15 dias c/reembolso,34
+4859.00,Cucchiarini Juan Pablo,Av.Viale 132,Catrilo,02954-15367136,23-24175046-9,434,jpcucchiarini@intercatrilo.com.ar,La Pampa,Inscripto   ,(en blanco),77,30 DS C/REEMBOLSO,34
+4861.00,Mel Pablo***,Rio Deseado 326,Rio Cuarto,0358-4630108,20-22991191-1,967,pablormel@hotmail.com,Cordoba,Inscripto   ,Mel PABLO,77,30/60 FECHA FACTURA COMPRO ORING X TE,31
+4870.00,Cavallera  Maria Fernanda***,Bv.25 De Mayo 299,Freyre,03564-562994 celular,27-20027987-0,71,jesicafornero@hotmail.com,Cordoba,Inscripto   ,Jesica,77,30/60 DS FECHA FACTURA,31
+4874.00,Franchioni Horacio Daniel***,Entre Rios 651,Villa Maria,0353-4527381,20-14130940-5,646,fyb_mingo@hotmail.com ,Cordoba,Inscripto   ,Nicolas/daniel,77,30 ds fecha factura. COBIMPRO,31
+4877.00,Cocco Monica Maria,Mendoza 2221,Villa Maria,0353-4549185,27-16635479-5,285,listapreciosferret@hotmail.com,Cordoba,Inscripto   ,MONICA,77,30ds fecha factura,31
+4936.00,Angeletti Alfredo Martin,Gongora 854,Barrio Alta Cordoba,0351-4705103,20-30844250-1,15,buloneragongora@hotmail.com,Cordoba,Monotributo ,Alfredo,77,15 dias ff A PEDIDO DE GUDIÑO,31
+4962.00,Geronimo Viano E Hijos SRL***,Ruta 6 Km 201.500,Monte Buey,03467-470518,30-70890825-4,565,geronimo@nodosud.com.ar,Cordoba,Inscripto   ,YANINA PAGOS,77,15 DIAS FF,31
+4968.00,Wernly Ramona Leticia,Av.Aristobulo Del Valle 8410,Santa Fe,0342-154499227,27-06121388-6,117,nortebulones1@hotmail.com,Santa Fe,Monotributo ,Cesar,77,30DIAS FF,31
+5024.00,Strumia Dario Salvador,Velez Sarfield Y Belgrano, Baigorria,0358-4882012,20-20476939-8,15,ferreteriastrumia@hotmail.com,Cordoba,Inscripto   ,DARIO,77,30 DS F/FACTURA,31
+5096.00,Kunz Adriana Noemi***,Av.Tejerina Norte 406,Rio Cuarto,0358-4780866,27-21998465-6,15,(en blanco),Cordoba,Monotributo ,ADRIANA,77,15 ds fecha factura,31
+5097.00,Kunz SRL***,ZARONDON 118,Rio Cuarto,0358-4780866,30-70807092-7,15,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 ds fecha factura,31
+5183.00,Mason Gustavo Volmer,Guemes 160,Villa Huidobro,02336-481128,20-18156235-9,8,lamelga@coopvh.com.ar ,Cordoba,Inscripto   ,(en blanco),77,15 ds c/reembolso,34
+5188.00,Martina Claudio,Av Circunvalacion Sgo Marzo Norte 171,Santa Rosa,02954-1566-5752,20-23872677-9,144,(en blanco),La Pampa,Inscripto   ,CLAUDIO,77,15 DIAS COBIMPRO,34
+5196.00,Dorrego  Andrea Fabiana,Pueyrredon 682,Capilla del Monte,03548-482941,27-16399992-2,249,alejandro.dorrego@hotmail.com,Cordoba,Inscripto   ,(en blanco),77,30 ds FECHA FACTURA,31
+5199.00,Ferreteria Sol SRL***,Mariano Moreno Y Ruta 15,Cura Brochero,03544-472517,30-71112130-3,782,ferreteriasol01@hotmail.com.ar,Cordoba,Inscripto   ,Carla,77," ANTICIPADO, DEV. MERC. DEBE DEL 12/2014 $ 108",31
+5237.00,Klanveg SRL****,Pellegrini 125 ,Villa Dolores ,03544-422438,30-64477505-0,782,klanveg.srl@gmail.com,Cordoba,Inscripto   ,ALEJANDRA,71.4,7 ds fecha factura,31
+5278.00,Gonzalez Nora Susana,Calle 13 Nº 75 Oeste,General Pico,02302-432564,27-12806566-6,484,(en blanco),La Pampa,Inscripto   ,(en blanco),77,15 dias c/reembolso,34
+5322.00,Ghigo Eduardo J Y Ghigo Fernando D S.H.*,Cabrera 1545,Rio Cuarto,0358-4633057,30-70849062-4,15,induferrsh@gmail.com,Cordoba,Inscripto   ,EDUARDO,77,7 ds fecha factura,31
+5337.00,Bruni Sergio Daniel,Av.San Martin 1838,Rio Cuarto,0358-4780796,20-16484466-9,15,todojardin@yahoo.com.ar,Cordoba,Inscripto   ,Sergio,77,30 ds FECHA FACTURA,31
+5361.00,Azcurra Dario Alfredo***,Paunero 286,Rio Cuarto,0358-4645244,20-28579966-0,4,casa.paunero@hotmail.com,Cordoba,Inscripto   ,DARIO,71.3,30 ds FECHA FACTURA,31
+5365.00,Biglione Gustavo Marcelo**,Av.San Martin 964,General Cabrera,0358-4933106/107,20-17271364-6,668,luficor@copespnet.com.ar,Cordoba,Inscripto   ,GUSTAVO,77,30 ds FECHA FACTURA,31
+5400.00,"Grupo "" C "" SRL",Brd Illia 521,Bell Ville,03537-426356,30-71009060-9,309,gc_sur@hotmail.com,Cordoba,Inscripto   ,Carlos Gustavo,77,15 DIAS FF,31
+5404.00,Romo Diego David****,Dr. Miguel Zucaria 358,Berrotaran,0358-4941099,20-36855699-9,15,oxiber@arnet.com.ar,Cordoba,Inscripto   ,(en blanco),77,30 C/RREMBOLSO SI O SI,31
+5406.00,Ferremar SRL,AV SABATINI 2080,Rio Cuarto,0358-4632656,30-71482591-3,15,ferremarsrl@gmail.com,C.A.B.A.,Inscripto   ,BEATRIZ,77,30ds fecha faqctura,31
+5408.00,Verra Nelter Mario Y Verra Ariel F,Av.Moreno 854,Hernando,0353-4968385,30-70967741-8,203,marioverra@coop-her.com.ar,Cordoba,Inscripto   ,(en blanco),77,30 ds FECHA FACTURA,31
+5431.00,Cordon Feresin C Y Armeñanzas R SRL**,Juarez Celman 767,La Carlota,03584-422981,30-71077478-8,80,ferreteriaeltala@gmail.com,Cordoba,Inscripto   ,(en blanco),71.3,30 ds FECHA FACTURA,31
+5458.00,Rochaix Alberto F Y Rochaix F.G,Pte.Peron 33,Bell Ville,03537-422250,30-66831974-9,749,rochaixrepuestos@arnetbiz.com.ar,Cordoba,Inscripto   ,ALBERTO,77,30 DS F/FACTURA,31
+5474.00,Gonzalo Ruben Alberto,Av.San Martin 696,Salsipuedes,03543-492707,20-05274188-3,285,(en blanco),Cordoba,Monotributo ,(en blanco),77,7 ds fecha factura,31
+5476.00,Martinez Valeria Jimena****,Av.Carcano 1124,Carlos Paz,03541-487548,27-26986685-9,750,carlos.mvelectricidad@hotmail.com,Cordoba,Inscripto   ,(en blanco),77,NO VENDER SI NO ES PAGO ANTICIPADO,31
+5509.00,Gomez Maria Eugenia*****,Cabrera 820,Achiras,03582-495348,27-33261926-3,15,valentinocorralonyferreteria@gmail.com,Cordoba,Inscripto   ,GASPAR,77,30 FF. RETIRA DEP. RIO lV,31
+5514.00,Coop.Agricola Ganadera  Ltda,Belgrano 835,Gobernador Crespo,03498-480256,30-50182150-7,117,(en blanco),Santa Fe,Inscripto   ,(en blanco),77,30 DS F/FACTURA,31
+5572.00,Union Agric.de Avellaneda Coop Ltda***,San Martin 744,Avellaneda,03482-481002/481005,30-50191240-5,137,corralon@uaa.com.ar,Santa Fe,Inscripto   ,Marcelo - Maximiliano,77,30ds fecha factura.,31
+5618.00,Yoris Carlos Daniel,Sarmiento 858,Romang,03482-496452,20-07676448-5,117,ferreteriadiego@hotmail.com,Santa Fe,Inscripto   ,DANIEL,77,30ds fecha factura,31
+5629.00,Moyano Natalia Lis,25 De Mayo 1106,Eduardo Castex,02334-445400,27-27844782-6,152,moyano@cospec.com.ar,La Pampa,Inscripto   ,(en blanco),77,20/ 40 dias c/reembolso,31
+5630.00,Weigum Damian Fernando, Av.Mexico 924,Santa Rosa,02954-422709,20-25311109-8,707,(en blanco),La Pampa,Monotributo ,(en blanco),77,30 DS F/FACTURA,34
+5649.00,Planisich Olga Beatriz,CALLE 20 Nº 538,Avellaneda,03482-483132,27-14344280-8,117,ferreterasanmartin@trcnet.com.ar,Santa Fe,Inscripto   ,NELSON,77,30ds fecha factura,31
+5653.00,Comercial Norbi SRL,Gral Paz 340,Alejandro Roca,0358-4980205,30-71053829-4,15,norbisrl@hotmail.com,Cordoba,Inscripto   ,(en blanco),77,15 DS FECHA FCTURA,31
+5669.00,Cabral Gaston Aldo,Caseros 1843,Villa Ocampo,03482-466840,20-29828738-3,136,(en blanco),Santa Fe,Inscripto   ,Aldo,77,15 ds fecha factura,31
+5678.00,Monti Claudio Monti Cristian Y Monti P,Tristan Cornejo,Balnearia,03563-420187/ 15404379,30-71156316-0,285,pablomonti@redcoop.com.ar,Cordoba,Inscripto   ,Pablo,77,30 DS C/REEMBOLSDO,31
+5692.00,Ostti Oscar Emilio*********,Almafuerte 323,Bernardo De Irigoyen,03466-494309,20-12863907-2,404,agroalmafuerte@cosmol.com.ar,Santa Fe,Inscripto   ,Oscar,77,15 ds fecha factura,31
+5693.00,Coop.Agric.Ganad Leones Ltda***,Av.Libertador 947,Leones,03472-481108,30-53342225-6,309,coopagrileo@coyspu.com.ar,Cordoba,Inscripto   ,VICTOR,77,15 ds fecha factura,31
+5702.00,Boschero Juan Alberto,Av.Nª 21  Nª 952,Las Parejas,03471-471311,20-25512215-1,281,bulferr@gmail.com,Santa Fe,Inscripto   ,GUSTAVO,77,7 ds fehca factura,31
+5712.00,Silvestrre Hector Juan,San Martin 404,Cañada Rosquin,03401-15436545,20-27321102-1,36,tatosilvestre@hotmail.com,Santa Fe,Inscripto   ,TATO,77,7 ds fecha factura,31
+5724.00,Vagni Jorge Alberto,H.Irigoyen 1184,Laguna Larga,03572-480357,20-13930184-7,646,(en blanco),Cordoba,Inscripto   ,(en blanco),77,7 ds f echa factura,31
+5726.00,Menichetti José Orlando ,Paula De Sarmiento Y Peñaloza,Rio Tercero,03571-420858,20-28816476-3,202,mtm_rio3@hotmail.com,Cordoba,Inscripto   ,(en blanco),77,30 ds FECHA FACTURA,31
+5735.00,Fattorelli Cesar Luis,Señorita Luisa Franz Y 25 De Mayo,General Roca,03472-492905,20-26686077-4,764,ferrefatto@nodosud.com.ar,Cordoba,Inscripto   ,Cesar,77,7 ds fecha factura/,31
+5741.00,Prancetti German  Y Peroni Jose SH,9 De Julio 427,Marcos Juarez,03472-443400,30-70914139-9,565,ferreteriasur@coyspu.com.ar,Cordoba,Inscripto   ,Jose,77,7 ds fecha factura,31
+5750.00,Hep Salvador Antonio*****,Av.San Martin Esq.Gral Mitre,Timbues,03476-495360/495509,20-28914981-4,404,nenusalva@hotmail.com,Santa Fe,Inscripto   ,NENU,77,7 ds fecha factura,31
+5764.00,Stantero Hugo O Y Gabriel H***,San Martin 841,Marcos Juarez,03472-426035,30-70755318-5,764,(en blanco),Cordoba,Inscripto   ,(en blanco),77,7 ds fecha factura falta transporte,31
+5766.00,Pascuali Araceli Mercedes,Bv. Celman 751,Tortugas,03471-494072 /484072,27-16957189-4,281,(en blanco),Santa Fe,Inscripto   ,(en blanco),77,7 ds  fecha factura,31
+5775.00,Peppino Nestor Raul****,Canalejas 1624,Realico,02302-15506989,20-14950167-4,8,(en blanco),La Pampa,Inscripto   ,(en blanco),77,"ANTICIPADO. PIDIO Y DEV, TODO NO TENIA PLATA",34
+5777.00,Servicentro Alvarez SRL,Belgrano 188,Alvarez,03402-462108,30-70819870-2,767,(en blanco),Santa Fe,Inscripto   ,(en blanco),77,7 ds fecah factura,31
+5784.00,Torretta Adrian Ruben**************,San Juan 757,Colonia Belgrano,03401-15641419 adrian,20-26113354-8,36,a_toretta@hotmail.com,Santa Fe,Inscripto   ,(en blanco),77,7 ds fecha factura NO VENDER SI NO ES ANTICIPADO,31
+5791.00,Sotelo Carlos Hector,9 De Julio 1036,San Genaro Norte,03401-493827,20-23428719-3,36,(en blanco),Santa Fe,Inscripto   ,(en blanco),77,7 ds feha factura.,31
+5794.00,Bellabarba Juan Pablo,San Martin 667,Serodino,03476-554045,20-25880114-9,404,ferrylubserodino@gmail.com,Santa Fe,Inscripto   ,Juan Pablo,77,15 DS fecha factura ,31
+5801.00,Dedic Nestor Mateo,Paula De Sarmiento Y  Ruta 9,Marcos Juarez,03472-425368,20-12866320-8,764,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 ds fecha factura,31
+5828.00,Vaudagna Jose Ricardo,25 De Mayo 754,Pilar,03572-470090,20-22159784-3,646,ferreteriavaudagna@yahoo.com.ar,Cordoba,Inscripto   ,(en blanco),77,7 ds f/factura,31
+5845.00,Temperini Olivio Antonio,Tucuman Y Ruta 178,Las Rosas,03471-452468,20-11028070-0,762,ferreteria_tempe@hotmail.com,Santa Fe,Inscripto   ,MARICEL,77,7 ds f echa factura,31
+5852.00,Poloni Hugo Alberto,San Lorenzo Y Maipu,Monte Buey,03467-471825,20-12619452-9,598,albertohpoloni@gmail.com,Cordoba,Inscripto   ,(en blanco),77,15 DIAS FF,31
+5857.00,Gudiño Ricardo Jose***,Guanahani 1157 Bº Residencial America,Cordoba,0351-1555-54182,20-13680691-3,15,planeadoragr@gmail.com,Cordoba,Inscripto   ,(en blanco),0,ES VENDEDOR,31
+5863.00,Cardoso Juan Carlos (USAR CLIENTE 10242),Amadeo Sabattini 65,Despeñaderos,03547-492716,20-11865506-1,694,ventas@metal-ferr.com,Cordoba,Inscripto   ,JUAN CARLOS,77,7 ds fecha factura,31
+5871.00,Casa Ermagro SH De Tomasello Roberto Y F,Francia 352,Pellegrini,02392-498250,30-70924215-2,46,ermagro@yahoo.com.ar,Buenos Aires,Inscripto   ,(en blanco),77,30 DIAS C/REEMBOLSO,34
+5881.00,Luque A.R. Y Perez M.A.SH,Rivadavia 448,Cordoba,0351-4212815,30-70968095-8,15,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15ds fecha factura,31
+5884.00,Luciani Omar Victor,Rivadavia 259,San Jose De La Esquina,03467-461635,20-14883671-0,791,omarluciani@gobbt.com.ar,Santa Fe,Inscripto   ,Omar,77,15 ds feha factura,31
+5891.00,Pereyra N.O Pereyra N.O. Pereyra J S.H.,Hipolito Irigoyen S/N,San Agustin,03547-491115,30-66867012-8,694,gomeriasanagustin@yahoo.com.ar,Cordoba,Inscripto   ,Jorge,77,7 ds fecha factura,31
+5895.00,Bottasso Luis Angel,52 Nª 431,General Pico,02302-423233,20-07664738-1,484,(en blanco),La Pampa,Inscripto   ,(en blanco),77,30 DS C/REEMBOLSO,34
+5896.00,Allivellatore Claudio Emilio,Marvinas Argentinas 425,Eduardo Castex,02333-492900,23-24067591-9,97,(en blanco),La Pampa,Inscripto   ,Irene,77,30 DS C/REEMBOLSO,31
+5907.00,Grandis Ferreteria S.A****,Moreno 789,Cañada de Gomez,03471-423499,30-71837981-0,993,grandisferreteria@hotmail.com,Santa Fe,Inscripto   ,Oscar,77,7 ds feha factura,31
+5918.00,Cornejo Pedro Y Cornejo Pablo,25 De Mayo Esq. Laprida,Quemu Quemu,02333-442054,30-71125297-1,587,pcornejo@quemudigital.com.ar,La Pampa,Inscripto   ,(en blanco),77,30 DIAS C/REEMBOLSO,34
+5926.00,Gomez Luciana Marcela,El Progreso S/N,Villa Huidobro,02336-481460,27-30704877-4,608,(en blanco),Cordoba,Inscripto   ,(en blanco),77,30 DS C/REEMBOLSDO,34
+5932.00,Bazzani Enrique Jose,Colon 287,Ingeniero Luiggi,02302-15696241,20-14479416-9,8,(en blanco),La Pampa,Inscripto   ,(en blanco),77,30 DS C/REEMBOLSO,34
+5933.00,Longo Alberto Alejandro,Presidente Peron 148,Laboulaye,03385-426809,20-17353217-3,520,agromaderaslaboulaye@arnet.com.ar,Cordoba,Inscripto   ,ALBERTO,77,15 DIAS FF,31
+5936.00,Grimaldi Silvina Sandra****,Independencia 445,Holmberg,0358-4990109,27-17623543-3,15,(en blanco),Cordoba,Monotributo ,(en blanco),77,15 DIAS FF,31
+5942.00,Carbonari Marcelo Y Jorge,Rivadavia 541,Armstrong,03471-460997 /463450,33-70864608-9,282,(en blanco),Santa Fe,Inscripto   ,(en blanco),77,30 DIAS FF,31
+5944.00,Palacios Mercedes Hector,Sarmiento 452,La Cruz,03546-494087,20-06812002-1,22,(en blanco),Cordoba,Inscripto   ,(en blanco),77,30 ds FECHA FACTURA,31
+5947.00,Gunther Jose Antonio,San Martin Y Pampa,Macachin ,02954-15690039,23-07364067-9,421,(en blanco),La Pampa,Inscripto   ,(en blanco),77,30 ds c/reembiolso,34
+5952.00,Gomez Claudia Monica,Av.Del Trabajo 645,Eduardo Castex,02334-453062,27-16636543-6,152,(en blanco),La Pampa,Inscripto   ,(en blanco),77,30 DS C/REEMBOLSO,31
+5956.00,Cordero Bonifacia Elsa****,Sarmiento 167,Salcipuedes,03543-492371,27-02439132-4,15,distribuidorawalter@hotmail.com,Cordoba,Inscripto   ,WALTER,77,7 ds feha factura,31
+5958.00,Miranda Sergio Javier,Oostendorp 910,Serrano,03385-496104,20-22405491-3,80,(en blanco),Cordoba,Inscripto   ,(en blanco),77,30 ds FECHA FACTURA,31
+5961.00,Ferreyra Patricia Edith****,Obispo Ferreyra 881,Villa Del Rosario,(en blanco),27-14278995-2,452,hnheredia@hotmail.com,Cordoba,Inscripto   ,(en blanco),77,30 DS FECHA FACTURA.FALTA TELEFONO,31
+5971.00,Agroamanecer SRL,Rura 35 Y Acceso Peron,Realico,02331-460015,30-70794724-8,8,martinponzio@hotmail.com,La Pampa,Inscripto   ,(en blanco),77,30 DS C/REEMBOLSO,34
+5983.00,Maldonado Justo Maria,Solis 378,Los Cisnes,03584-15499231,20-23817760-0,15,(en blanco),Cordoba,Inscripto   ,(en blanco),77,30 ds FECHA FACTURA,31
+5993.00,Roberi Duilio Y Juan,Libertad 594,Parera,02331-497043,30-70740962-9,8,(en blanco),La Pampa,Inscripto   ,(en blanco),77,30 DIAS C/REEMBOLSO,34
+6000.00,Pietracupa Adrian Y Pietracupa Carolina*,Italia 745,Las Rosas,03471-453788,30-71191425-7,762,ferreteriaitali@gmail.com,Santa Fe,Inscripto   ,CAROLINA // ADRIAN,77,30 DS F/FACTURA,31
+6015.00,Brero Carlos Luis,Av.A. Illia 640,Villa Dolores,03544-423287,20-12435881-8,782,carlosluisbrero@gmail.com,Cordoba,Inscripto   ,(en blanco),77,30 DS F/FACTURA,31
+6019.00,Rosso Silvina Mariel,Av.America 701,El Trebol,03401-422379,27-21099220-6,762,4hojas@arnetbiz.com.ar,Santa Fe,Inscripto   ,Fabian,77,7 ds f/factura,31
+6027.00,Cecchi Ezequiel Pedro,Av.San Martin 6308,Rio Ceballos ,03543-451875,20-05205680-3,545,oxigenoclaumar@arnet.com.ar,Cordoba,Inscripto   ,MARCELO,77,15 ds f/facturta,31
+6030.00,Pro Agro Srl,Gregorio Baigorria 155,Tres Lomas,02394-430366,33-66734037-9,783,(en blanco),Buenos Aires,Inscripto   ,(en blanco),77,30 DS F/FACTURA,34
+6033.00,Verna Alberto Jose,Av.Cordoba 394,Pueblo Italiano,03463-497031,23-11851087-9,204,(en blanco),Cordoba,Inscripto   ,(en blanco),77,30 DS F/FACTURA,31
+6046.00,Metalmix SRL,Av.San Martin S/N,San Genaro,03401-448651/15414777,30-71156460-4,36,(en blanco),Santa Fe,Inscripto   ,(en blanco),77,15 DS F/FACTURA,31
+6049.00,Nil Pablo Martin,Av.Sabattini 2403,Cordoba,(en blanco),20-29203896-9,15,pmnis@hotmail.com,Cordoba,Monotributo ,Pablo,77,7 ds f/factura,31
+6050.00,Acuña Marcela Gladys,Julio A Roca 265,Cordoba,0351-4685498,27-17530732-5,15,kamarbuloneria@yahoo.com.ar,Cordoba,Monotributo ,Dario /Marcela,77,7 ds f/factura,31
+6051.00,Pagan Rafael Alejandro,Av.Donato Alvarez 10035,Villa Allende Parque,03543-434080,23-32787949-9,767,buloneriaelrafa@gmail.com,Cordoba,Monotributo ,El Rafa Chico,77,7 ds f/factura,31
+6053.00,Smillovich Mercedes Alejandra*****,Ruta C 45 S/n,Lozada,03572-492127,27-21654494-9,15,agrorepuestoslozada@hotmail.com,Cordoba,Inscripto   ,Ramon Rodrigues,77,30 ds FECHA FACTURA,31
+6054.00,Massara Nelida Margarita***,San Jerionima 115,Laguna Larga,03572-487050,27-10366181-7,285,ferreteriapuglie@hotmail.com,Cordoba,Inscripto   ,WALTER,77,30 DS F/FACTURA,31
+6057.00,Baena Aguero Gabriela A,Av.Caraffa 2295,Cordoba,0351-4898340,27-20873945-5,545,(en blanco),Cordoba,Inscripto   ,(en blanco),77,15 DS F/FACTURA,31
+6058.00,Pich Nestor Fgabriel,Av.Fuerza Aerea Argentina 4281,Cordoba,0351-4663628,20-16408831-7,301,oxibul_cba@hotmail.com,Cordoba,Inscripto   ,NESTOR,77,15 ds f/fac tura,31
+6060.00,Pereyra Juan Carlos,Union 392,Canals,03463-15454789,20-06603998-7,204,(en blanco),Cordoba,Monotributo ,(en blanco),77,30 DS F/FACTURA. CHEQUEAR MONOTRIBUTO,31
+6070.00,Clabutor S.R.L,Sarmiento 365,Cordoba,0351-4213920,30-53260750-3,15,compras@clabutor.com.ar,Cordoba,Inscripto   ,(en blanco),77,30 DIAS FECHA FACTURA,31
+6071.00,Cattaneo Hnos SRL****,Av. Belgrano 19,Montecristo,0351-4917206,30-54073519-7,71,victorc@ypfcattaneo.com.ar,Cordoba,Inscripto   ,VICTOR,77,15 DIAS FF,31
+6085.00,Boris Alejandro Alvarez Castro,Eliseo Canton 2663,Cordoba,0351-4878588,20-94021648-7,589,tornillosdelasierra@gmail.com,Cordoba,Monotributo ,Alejandro,77,30 DS F/FACTURA,31
+6087.00,Olie Leandro,Coronel Gil 750,Santa Rosa,02954-15587767,20-30727081-2,465,leandroolie@hotmail.com,La Pampa,Inscripto   ,(en blanco),77,30 DS C/REEMBOLSO,34
+6091.00,Sosa Adrian Oscar,Manuel Dopasso 556,Vicuña Mackenna,03583-488288,20-21695160-4,15,ferreteria@ceyalcoop.com.ar,Cordoba,Inscripto   ,(en blanco),77,30 DS F/FACTURA,31
+6094.00,Irigaray Jorge Orlando ***,Av. San Martin 3372,Unquillo,03543-487742,20-08115677-9,545,bulonerairigaray@hotmail.com,Cordoba,Monotributo ,(en blanco),77,30 DIAS FF,31
+6098.00,Mattaloni Hermes Y Mattaloni Leroi,Av.de Mayo 1850,Arequito,03464-470986,30-71044695-0,777,mattalonidanilo@hotmail.com,Santa Fe,Inscripto   ,Danilo,77,30 DS F/FACTURA,31
+6115.00,Susecion De Tosini Oscar,Saenz Peña 89,Dena Funes,03521-421071,20-06363097-8,788,ferreteriatosini@intinet.com.ar,Cordoba,Inscripto   ,Tosini,77,30 DS F/FACTURA,31
+6120.00,Marcianesi Y Borgatello SRL,Dr.Fischer 428,Armstrong,03471-460399,30-70893527-8,281,ferreteria-myb@arnet.com.ar,Santa Fe,Inscripto   ,(en blanco),77,30 DS F/FACTURA,31
+6121.00,Marenghi Dario Victor****,General Lopez 228,Serodino,03476-490179,20-20577035-7,239,albamarenghi@hotmail.com,Santa Fe,Inscripto   ,DARIO,77,30 DS F/FACTURA,31
+6127.00,Hermanas Lozano SAS,Pte-M;arcelo T De Alvear 790 Centro Nort,Cruz  Del Eje,03549-15504672,30-71738719-4,249,agrohogar@cdenet.com.ar,Cordoba,Inscripto   ,FLORENCIA,77,30 DS F/FACTURA,31
+6130.00,Materiales De Construccion Zanchi S.A,Av.Rizzuto 536,Villa De Maria De Rio Seco,03522-422121,30-71010625-4,15,materconstzanchi@hotmail.com,Cordoba,Inscripto   ,(en blanco),77,30 DS F/FACTURA,31
+6138.00,Corradi Fernandez Araceli Soledad,General Paz 99,Valle Hermoso,0351-155310229,27-36131968-6,249,eduardocorradi@hotmail.com,Cordoba,Monotributo ,EDUARDO,77,30 DS F/FACTURA,31
+6139.00,Spinetti Angela Leticia,Velez Sarfield 270,Saldan,03543-494535,27-11061490-5,789,angelaspinet@hotmail.com,Cordoba,Inscripto   ,ANGELA,77,30 DS F/FACTURA,31
+6142.00,Tuertor SRL,Av.Amadeo Sabattini 4457,Cordoba,0351-4574203,30-71032998-9,402,buloneriatuertor@hotmail.com,Cordoba,Inscripto   ,(en blanco),77,30 DS F/FACTURA,31
+6155.00,Duchini Rosana Alejandra,Av.Bulnes 2356,Cordoba,0351-3113643,23-16072258-4,15,buloneriabulnes@hotmail.com,Cordoba,Monotributo ,Hugo,77,30 DS F/FACTURA,31
+6159.00,Gutierrez Pablo Ariel,Juan B.Justo 4017,Cordoba,0351-4708012,20-22792096-4,15,bulnor@hotmail.com.ar,Cordoba,Inscripto   ,CLAUDIO,77,30 DS F/FACTURA,31
+6161.00,Roldan Silvia Cerafina*****,Av.Sta Rosa Oeste 4528,25 de Mayo,0299-4948159,27-17636938-3,0,roldan.silvia@hotmail.com,La Pampa,Inscripto   ,(en blanco),77,30 DS F/FACTURA,34
+6162.00,Bartulovich Luis A.H,Josè Pierobon 960,Cruz Alta,03467-422067,20-11132782-4,791,bartulovich@coopca.com.ar,Cordoba,Inscripto   ,Luis,77,30 DS F/FACTURA,31
+6164.00,Gallo Sergio Damian,Av.Sarmiento 767,Intendente Alvear,2302-502201,20-29793875-5,484,(en blanco),La Pampa,Inscripto   ,(en blanco),77,30 DS F/FACTURA,34
+6179.00,Balicki Pedro Luis F******,San Martin 479,Sebastian El Cano,03522-498034,20-21400146-3,15,(en blanco),Cordoba,Inscripto   ,FERNANDO,77,30 DS F/FACTURA,31
+6184.00,Sucesion De Valoni Luis Ernesto,Isabel La Catolica 730,Barrio Alta Cordoba,0351-4710457,20-16158900-5,404,todorosk@hotmail.com,Cordoba,Inscripto   ,Susana,77,15 ds c/reembolso,31
+6185.00,Sanchez Daniel Alejandro,San Martin 1486,Cosquin ,03541-452056,20-23624620-6,249,ferreteriasanantonio@arnet.com.ar,Cordoba,Inscripto   ,EDUARDO,77,30 DS F/FACTURA,31
+6189.00,Zuppa Roxana Del Rosario,Buenos Aires Y French,Oncativo,03572-458693,27-22322449-6,646,lubricentrodoncelso@hotmail.com,Cordoba,Inscripto   ,Alejandro,77,30 DS F/FACTURA,31
+6195.00,"Bellin Maria C,Canseco J.I.y Canseco M.M",Rivadavia Esq Peluffo,Villa Huidobro,02336-481160,30-71211684-2,8,(en blanco),Cordoba,Inscripto   ,(en blanco),77,30 ds FECHA FACTURA,34
+6202.00,Ottaviani Marcelo Humberto,Libertad 1113,Villa Eloisa,03471-493287,20-22079613-3,281,elgauchito@veloisa.com.ar,Santa Fe,Inscripto   ,MARCELO,77,30 DS F/FACTURA,31
+6213.00,Reconquista SRL***,Monseñor Pablo Cabrera 2890,Cordoba,0351-4763473,30-71022250-5,301,reconquista2890@yahoo.com.ar,Cordoba,Inscripto   ,VIVIANA,77,El cliente prefiere anticipado para ganarse el 10%,31
+6217.00,Goldsack Jorge Eduardo,Hilario Sabroso 1717,Santo Tome,0342-155483596,20-08500769-7,117,(en blanco),Santa Fe,Inscripto   ,Jorge,77,30 DS F/FACTURA,31
+6218.00,La Tornilleria Srl,Bv.Lehmann 337,Rafaela,03492-502183,30-70731701-5,296,latornilleriasrl@gmail.com,Santa Fe,Inscripto   ,BETO,77,30 DS F/FACTURA,31
+6236.00,Ferri Patricia Maria,Av.San Martin 572,Del Campillo,3583-499033,27-22077905-5,608,(en blanco),Cordoba,Inscripto   ,(en blanco),77,30 DS F/FACTURA,34
+6249.00,Amaya Oscar Jorge,San Martin S/n,Buchardo,03387-420122,20-08116661-8,0,(en blanco),Cordoba,Inscripto   ,(en blanco),77,NO TENGO TRANSP. NI CONDICION,31
+6256.00,Carra Emma Y Skousgaard Gerda SH,San Martin 752,Totoras,03476-460063,30-71028157-9,793,vivianaronchi@live.com.ar,Santa Fe,Inscripto   ,VIVIANA,77,30 DS F/FACTURTA,31
+6263.00,El Gustavito SH,Tucuman 465,Calchaqui,03483-470295,30-71055677-2,117,aliciabanus9@hotmail.com,Santa Fe,Inscripto   ,Alicia,77,30 DS F/FACTURA,31
+6264.00,Mariano Ojeda SRL,Boulevard Brown 1887,Toay,02954-492176,30-71243261-2,259,ojedamarianoa@hotmail.com,La Pampa,Inscripto   ,(en blanco),77,30 DS F/FACTURA,34
+6304.00,Butori Bonini Andres Alejandro,Av.Bernardo O´higgins 3349,Cordoba,0351-4647050,23-28118243-9,15,butori.insumet@gmail.com,Cordoba,Inscripto   ,Andres,77,30 DS F/FACTURA,31
+6305.00,Carlini Claudio Daniel***,Duarte Quiros 3021,Cordoba,0351-4897473,20-22223795-6,15,claudiocarlini@hotmail.com,Cordoba,Inscripto   ,CLAUDIO,77,30 DS F/FACTURA,31
+6306.00,Ibarrondo Laura Beatriz*****************,Av.Velez Sarfield 3148 B,Cordoba,0351-4615082/6575148,27-16445804-6,285,steelfix@arnetbiz.com.ar,Cordoba,Inscripto   ,GUSTAVO,77,30 DS F/FACTURA,31
+6325.00,G V SRL,Calle 10 Nª 1055,Las Toscas,03482-492207,33-71124281-9,136,solamar@ltnet.com.ar,Santa Fe,Inscripto   ,Bruno,77,30 DS F/FACTURA,31
+6329.00,Tassi Ivan Dario,Av.Arturo Capdevilla 8500,Villa Esquiu,0351-4999101,20-24841139-3,15,ferretassi@hotmail.com,Cordoba,Inscripto   ,Lalo,77,30 DS F/FACTURA,31
+6333.00,Fiornovelli Lucas Matias,Av.Angel Llanos 719,Sta Rosa De Calamuchita,03546-422989,20-31276417-3,694,info@motosierrasdelvalle.com.ar,Cordoba,Inscripto   ,Lucas,77,30 DS F/FACTURA,31
+6344.00,Belanich Alejandro Daniel***,Avda Santa Ana 2903,Cordoba,0351-1564-74277,20-16500703-5,402,pabelanich@hotmail.com,Cordoba,Monotributo ,(en blanco),77,30 DIAS FF,31
+6356.00,Casas Myriam Elina,Gorriti 1365,Cordoba,0351-4559984,27-12811303-2,251,bulmecor@yahoo.com.ar,Cordoba,Inscripto   ,(en blanco),77,30 DS F/FACTURA,31
+6361.00,Diaz Juan Carlos,Lisandro De La Torre 1850,Coronda,0342-154454040,20-06256854-3,404,(en blanco),Santa Fe,Inscripto   ,JUAN CARLOS,77,30 DS F/FACTURA,31
+6365.00,Abraham Julio Cesar***,Av.Donato Alvarez 7741,Arguello,03543-425731,20-22564690-3,767,bullnorte@hotmail.com,Cordoba,Inscripto   ,JULIO,71.4,30 DS F/FACTURA,31
+6366.00,Safenor SRL,Hipolito Irigoyen 1041,Reconquista,03482-425999,33-71489110-9,136,pedidos@safenorsrl.com,Santa Fe,Inscripto   ,ADRIANA,77,30 DS F/FACTURA,31
+6380.00,Marsili Roberto Oscar,Velez Sarfield 128,Ballesteros,0353-4730338,20-07824964-2,565,(en blanco),Cordoba,Inscripto   ,(en blanco),77,30/60 ds c/reembolso,31
+6386.00,Coop.Agric.Ganad.Arroyo Cabral Ltda***,Rivadavia Esq E.Piacenza,Arroyo Cabral,0353-4877024,30-52937727-0,0,ferreteria@cooparroyocabral.com.ar,Cordoba,Inscripto   ,Diego,77,30 DS F/FACTURA,31
+6396.00,Zunino Leonardo Hernan****,Av.Angel Llanos 282 Dto 5,Santa Rosa de Calamuchita,03546-15457998,20-22739775-7,202,buloneraremache@yahoo.com.ar,Cordoba,Inscripto   ,Hernan,77,30 DS F/FACTURA,31
+6397.00,Mendez Pablo Hernan,"Av,Pte Peron (oeste) 363 Esq,Cabrera",Rio Cuarto,0358-4628730,23-27207974-9,15,pablomendez28@yahoo.com.ar,Cordoba,Inscripto   ,Pablo,77,30 DS F/FACTURA,31
+6398.00,Gutierrez Andres Y Otros SH,Antonio Torres 147,Villa Dolores,03544-422772,30-70787795-9,799,(en blanco),Cordoba,Inscripto   ,(en blanco),77,30 DS F/FACTURA,31
+6409.00,Scapin Hugo Angel,A.Brown 34,Monte Buey,03467-471149,20-08116759-2,565,agromecanicamb@gmail.com,Cordoba,Inscripto   ,DARIO,77,30 DS F/FACTURA,31
+6420.00,Dari Hector Hugo,Calle 28 Y 23 Nª1003,General Pico,02302-1551-5038,20-18334478-2,484,ferreteriadoblehache@gmail.com,La Pampa,Inscripto   ,(en blanco),77,30 DS F/FACTURA,34
+6426.00,Erico Wingeyer SA,San Martin 1402,Romang,03482-496034,30-69923720-1,117,wingeyer@romang.trcnet.com.ar,Santa Fe,Inscripto   ,Erico,77,30 DS F/FACTURA,31
+6427.00,Cima Construcciones SRL****,25 De  Mayo 445,Calchaqui,03483-470663/470154,30-69924662-6,117,cimasrl@arnetbiz.com.ar,Santa Fe,Inscripto   ,(en blanco),77,30 DS C/REEMBOLSO,31
+6432.00,El Erial Repuestos D.Torres Y S.Silva SH,Rivadavia 152,Trenel,02302-499508,30-71027824-1,434,metalurgicaelerial@yahoo.com.ar,La Pampa,Inscripto   ,(en blanco),77,30 DS F/FACTURA,34
+6435.00,Granelli Hector Oscar,Av.Carcano 1220,Villa Carlos Paz,03541-426845,20-11666959-6,767,hgranelli@salerosca.com.ar,Cordoba,Inscripto   ,HECTOR,77,30 DS F/FACTURA,31
+6450.00,Correa Daniel Alberto,Sarmiento 243,Cañada Rosquin,0340-1471125,23-13393578-9,800,(en blanco),Santa Fe,Inscripto   ,(en blanco),77,30 DS F/FACTURA,31
+6451.00,Villa Alberto Jose,Av.Yrigoyen 1064,Sunchales,03493-452791/452350,20-06299967-6,296,albertovilla@suncha-net.com.ar,Santa Fe,Inscripto   ,Jorge,77,30 DS F/FACTURA,31
+6452.00,Oldrini Oscar Francisco,Zona Rural Recreo (Fte.Protonedico),Recreo,0342-155037276,20-17422449-9,117,(en blanco),Santa Fe,Monotributo ,Oscar,77,30 DS F/FACTURA,31
+6453.00,Piascik Nestor Roque,Av.Ignacio Crespo 1136,Recreo,0342-4960092,20-11103089-9,117,electricidadnestor@hotmail.com,Santa Fe,Inscripto   ,NESTOR,77,30 DS F/FACTURA,31
+6484.00,Morbidoni Ivan Raul****,Blas Pareda 46,Ceres,03491-421973,20-17834882-6,803,acerosbimor@gmail.com,Santa Fe,Inscripto   ,Ivan,77,30 DS F/FACTURA,31
+6485.00,Persoglia Raul Antonio************,Silvestre Begnis 1640,Tostado,03491-470245,20-13894632-1,803,ferreterialatuerca@tostado.com.ar,Santa Fe,Inscripto   ,RAUL,77,30 ds f/factura FALTA TRANSPORTE,31
+6490.00,Biolatto Flavio Fernando,Almirante Brown 803,Santa Rosa,02954-415686,20-27474931-9,465,flaviobiolatto@hotmail.com,La Pampa,Inscripto   ,(en blanco),77,30 DS F/FACTURA,34
+6520.00,Casa Blas S:A:,Ruta Provincial 24 Oeste  N 133,San Basilio,0385-491888,30-71040402-6,15,fedejblas@yahoo.com.ar,Cordoba,Inscripto   ,(en blanco),77,30 DS F/FACTURA,34
+6529.00,Hep Cristian***,Cerrito 108 ,Rosario,0341-4448-106,20-23281893-0,404,cristianhep@hotmail.com,Santa Fe,Inscripto   ,CRISTIAN,77,(en blanco),31
+6543.00,Carranza Daniel Enrique,Av.Fuerza Aerea Argentina 3426 Local 3,Cordoba,0351-4668355,20-25267300-9,15,danielcarranza@hotmail.com,Cordoba,Monotributo ,DANIEL,77,30 DS F/FACTURA,31
+6546.00,Sandrin Fabricio German,Bolivar Y Mendoza,Chajan,03582-15431013,20-31383564-3,369,denher_sh@hotmail.com,Cordoba,Inscripto   ,Fabricio,77,30 DS C/REEMBOLSO,31
+6555.00,Bocoy Kevin Milton,Calle 9 Nº 178,General Pico,02302-328837,20-33526869-6,484,(en blanco),La Pampa,Inscripto   ,(en blanco),77,(en blanco),34
+6613.00,Smiriglio Javier Emiliano,33 Nª615,General Pico,02302-15566936,20-35125147-7,484,emismiriglio@live.com,La Pampa,Monotributo ,(en blanco),77,30 DS F/FACTURA,34
+6672.00,Iparraguirre Carlos Alberto***,Av.Independecia 1675,Eduardo Castex,02334-485097,20-11405816-6,152,(en blanco),La Pampa,Inscripto   ,(en blanco),71.4,ANTICIPADO,31
+6683.00,Cesare Eder,Republica Argentina 136,Ballesteros,0353-4730337,20-10235518-1,15,(en blanco),Cordoba,Inscripto   ,Eder,77,7 DIAS FF,31
+6709.00,Romero Daniel Alberto,12 De Octubre 232,Berrotaran,0358-155617582,20-13461804-4,202,full_air@hotmail.com,Cordoba,Inscripto   ,(en blanco),77,7 ds f/factura,31
+6738.00,Rossatto Juan Carlos,9 De Julio 735,General Levalle,03385-481320,20-06563146-7,22,juanchirossato@yahoo.com.ar,Cordoba,Inscripto   ,(en blanco),77,30 d c/reembolso,31
+6758.00,Rami Gisele Soledad,Cosquin 1884 Esq Av.O'higgins,Cordoba,0351-4865890,27-31843386-6,15,(en blanco),Cordoba,Monotributo ,(en blanco),77,30 DS  F/FACTURA,31
+6767.00,Heredia Estanislao Raul,Belgrano 763 Local 1,Villa Dolores,03544-15412721,20-14199386-1,7,(en blanco),Cordoba,Monotributo ,RAUL,77,30 DS F/FACTURA,31
+6871.00,Mammana Franco********,Bv. Eduardo Bulnes 2356,Cordoba,0351-153113643,20-38411034-8,15,buloneriabulnes@hotmail.com,Cordoba,Monotributo ,Hugo,77,30 DIAS FECHA FACTURA,31
+6918.00,Vera Jose Maria***,Rafael Nuñez S/N,San Carlos Mina,03542-15619535,20-22441346-8,15,carpinteriaelpulga@gmail.com,Cordoba,Inscripto   ,(en blanco),77,30 ds FECHA FAQCTURA,31
+7050.00,Toranzo Roxana Elizabet,Juan Segui 4855,Cordoba,0351-4973007/3127755,27-34840442-9,251,buloneria.toranzo@gmail.com,Cordoba,Inscripto   ,NATALIA,77,30 DS F/FACTURA,31
+7168.00,Gatti SRL,Pablo Groussac 4710,Cordoba,0351-4921927/155443637,30-71052344-0,15,gattiferreteria@gmail.com,Cordoba,Inscripto   ,Sergio,77,(en blanco),31
+7214.00,Moralejo Oscar Armando,16 Nª1141,General Pico,02302-336175,20-20576641-4,484,(en blanco),La Pampa,Inscripto   ,(en blanco),77,30 DS F/FACTURA,34
+7298.00,Priori Norma Beatriz****,Ruta 11 Y Yapeyu 1489,Puerto Gral San Martin,03476-434150,27-29260677-5,0,rusca.emi@gmail.com,Santa Fe,Inscripto   ,(en blanco),77,(en blanco),31
+7454.00,Fiori Horacio Antonio***,Alte.Brown 134,Oliva,03538-468450,20-18358513-5,646,horaciofiori@hotmail.com,Cordoba,Inscripto   ,(en blanco),77,(en blanco),31
+7769.00,"La Mattina Carlos, Roberto,Cristina Y Ma",3 DE Febrero 1053,Rosario,0341-4408555,30-65636020-4,404,compras@fbaltazar.com.ar,Santa Fe,Inscripto   ,Gabriel Macagno,77,(en blanco),31
+7888.00,Chiappero Nicolas Alfredo,Qquito 118,Villa Maria,0353-155082799,20-25643709-1,404,nicolaschiappero@yahoo.com.ar,Cordoba,Inscripto   ,(en blanco),77,(en blanco),31
+7916.00,Gonzalez Raul Alberto,Italia 650,Salliquelo,02394-480375,20-16061525-8,46,raulgonzalez@dmlconex.com.ar,Buenos Aires,Inscripto   ,(en blanco),77,30 DIAS FF,34
+8018.00,Lopez Sebastian Luis,Las Heras 131,Roldan,0341-4961599,20-06053843-4,404,(en blanco),Santa Fe,Inscripto   ,(en blanco),77,ANTICIPADO,31
+8170.00,Bruera Marcos A Y Cento Carlos SH,Av.San Martin 1381,Adelia Maria,03585-422190,30-70917266-9,15,agricolacb@amaria.com.ar,Cordoba,Inscripto   ,(en blanco),77,(en blanco),31
+8560.00,Ferreteria Puglie SAS,San Jeronimo 115,Laguna Larga,03572-487050,30-71664847-4,285,ferreteriapuglie@hotmail.com,Cordoba,Inscripto   ,WALTER,77,(en blanco),31
+9389.00,Fernandez Viviana Beatriz,Av.Pio X N° 110 Norte 5850,Rio Tercero,0357-1410861,27-11034316-2,433,(en blanco),Cordoba,Inscripto   ,Ciro Compras/Claudia Pagos,77,(en blanco),31
+9483.00,Salvagno Gino Maximiliano,9 De Julio 1038,Rio Cuarto,0358-154250059,20-35279789-9,100,adm.caugom@gmail.com,Cordoba,Inscripto   ,caugom01@gmail.com,0,(en blanco),31
+9912.00,Sarmiento Natalia Vanesa,Belgrano 55,Santa Catalina,3585-714605,23-27018480-4,15,buloneraholmberg@gmail.com,Cordoba,Inscripto   ,(en blanco),77,(en blanco),31
+10242.00,Faicar SAS,Amadero Sabatini 65,Despeñaderos,+54 9 3547 65-5784,30-71863217-6,694,administracion@metal-ferr.com,Cordoba,Inscripto   ,JUAN CARLOS,77,(en blanco),31
+10357.00,Lando Bruno Agustin,Rio Deseado 348,Rio  Cuarto,358-4314341,20-39175298-3,15,landocompeticion@hotmail.com,Cordoba,Inscripto   ,358-4314341,77,(en blanco),31
+20035.00,Ceballos Lorena G,Carlos Pellegrini 37,Las Varillas,03533-422008 423423,27-26641310-1,22,(en blanco),Cordoba,Inscripto   ,(en blanco),77,(en blanco),31
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
