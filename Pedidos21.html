@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ResorTecnica Pro | Gestión Total</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+    <style>
+        :root { --blue: #002d5a; }
+        body { background: #f0f2f5; font-family: 'Segoe UI', sans-serif; font-size: 0.85rem; }
+        .header { background: var(--blue); color: white; padding: 15px; text-align: center; border-radius: 0 0 20px 20px; }
+        .card { border-radius: 12px; border: none; box-shadow: 0 4px 10px rgba(0,0,0,0.05); margin-bottom: 15px; }
+        .info-label { font-weight: bold; color: #666; text-transform: uppercase; font-size: 0.65rem; }
+        .info-value { color: #000; margin-bottom: 4px; border-bottom: 1px solid #eee; min-height: 1.2rem; }
+        .item-row { background: white; padding: 10px; border-bottom: 1px solid #eee; }
+        .resumen-line { display: flex; justify-content: space-between; margin-bottom: 5px; font-size: 0.9rem; }
+        .app-content { display: none; padding-bottom: 50px; }
+        .nav-link { font-weight: bold; color: #555; }
+        .nav-pills .nav-link.active { background-color: var(--blue); }
+    </style>
+</head>
+<body>
+
+<div id="loginPage" class="container" style="max-width:400px; margin-top:100px;">
+    <div class="card p-4 text-center shadow">
+        <h3 class="fw-bold mb-4" style="color: var(--blue);">ResorTecnica S.R.L.</h3>
+        <input type="text" id="userInput" class="form-control mb-3" placeholder="Usuario">
+        <input type="password" id="passInput" class="form-control mb-4" placeholder="Contraseña">
+        <button class="btn btn-primary w-100 fw-bold" onclick="intentarLogin()">INGRESAR</button>
+    </div>
+</div>
+
+<div id="appPage" class="app-content">
+    <div class="header mb-3">
+        <h5 class="fw-bold mb-0">Sistema de Gestión de Pedidos</h5>
+        <div id="status" class="badge bg-light text-dark mt-2 px-3">Cargando...</div>
+    </div>
+
+    <div class="container">
+        <ul class="nav nav-pills nav-fill mb-3 shadow-sm bg-white rounded p-1">
+            <li class="nav-item"><a class="nav-link active" data-bs-toggle="pill" href="#tab-nuevo">NUEVO PEDIDO</a></li>
+            <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#tab-historial" onclick="renderizarHistorial()">HISTORIAL</a></li>
+        </ul>
+
+        <div class="tab-content">
+            <div class="tab-pane fade show active" id="tab-nuevo">
+                <div class="card p-3">
+                    <div class="input-group mb-2">
+                        <input type="text" id="busCli" class="form-control fw-bold" placeholder="COD. CLIENTE + ENTER" onkeydown="if(event.key==='Enter') buscarCliente()">
+                        <button class="btn btn-primary" onclick="buscarCliente()">BUSCAR</button>
+                    </div>
+                    
+                    <div id="infoCli" class="mt-2 p-3 bg-white rounded border-start border-4 border-primary" style="display:none;">
+                        <div class="d-flex justify-content-between align-items-center mb-2">
+                            <h6 class="fw-bold text-primary mb-0" id="v_nom"></h6>
+                            <span class="badge bg-primary" id="v_cod_display"></span>
+                        </div>
+                        <div class="row g-2">
+                            <div class="col-6"><div class="info-label">CUIT</div><div class="info-value" id="v_cuit"></div></div>
+                            <div class="col-6"><div class="info-label">EMAIL</div><div class="info-value text-lowercase" id="v_mail"></div></div>
+                            <div class="col-12"><div class="info-label">Domicilio</div><div class="info-value" id="v_dom"></div></div>
+                            <div class="col-6"><div class="info-label">Bonificación</div><div class="info-value text-success fw-bold" id="v_dto">0%</div></div>
+                            <div class="col-6"><div class="info-label">Transporte</div><div class="info-value text-danger" id="v_trans"></div></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card overflow-hidden">
+                    <div id="contenedor-items"></div>
+                    <div class="p-2 bg-light text-center">
+                        <button class="btn btn-outline-primary btn-sm fw-bold w-100" onclick="nuevaFila()">+ AGREGAR ARTÍCULO</button>
+                    </div>
+                </div>
+
+                <div class="card p-3 border-top border-4 border-primary shadow-sm">
+                    <div class="resumen-line"><span>Subtotal Bruto:</span> <span id="res_sub">$0,00</span></div>
+                    <div class="resumen-line text-success"><span>Bonif. Cliente (<span id="res_per">0</span>%):</span> <span id="res_dto">-$0,00</span></div>
+                    <div class="resumen-line fw-bold"><span>Subtotal Neto:</span> <span id="res_neto">$0,00</span></div>
+                    <div class="resumen-line text-muted"><span>IVA (21%):</span> <span id="res_iva">$0,00</span></div>
+                    <hr>
+                    <div class="resumen-line h4 fw-bold text-primary"><span>TOTAL:</span> <span id="v_total">$0,00</span></div>
+                </div>
+
+                <div class="d-grid gap-2 mb-4">
+                    <button class="btn btn-primary btn-lg fw-bold" onclick="guardarPedido()">GUARDAR PEDIDO</button>
+                    <button class="btn btn-success" onclick="compartirWhatsApp()">ENVIAR WHATSAPP</button>
+                </div>
+            </div>
+
+            <div class="tab-pane fade" id="tab-historial">
+                <div id="listaHistorial"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+const USUARIOS = {
+    "Chris": { pass: "0402", folder: "Chris", admin: true },
+    "Lucas": { pass: "1234", folder: "01-11 De Blasi" }
+    // Agregar el resto igual...
+};
+
+let DB = { cli: {}, art: {}, tra: {} };
+let SESION = null;
+let CLIENTE_SEL = null;
+
+function fmt(num) { return new Intl.NumberFormat('es-AR', { style: 'currency', currency: 'ARS' }).format(num); }
+
+function intentarLogin() {
+    const u = document.getElementById('userInput').value.trim();
+    const p = document.getElementById('passInput').value;
+    if (USUARIOS[u] && USUARIOS[u].pass === p) {
+        SESION = { user: u, ...USUARIOS[u] };
+        document.getElementById('loginPage').style.display = 'none';
+        document.getElementById('appPage').style.display = 'block';
+        cargarDatos(SESION.folder);
+    } else { alert("Usuario/Clave incorrectos"); }
+}
+
+async function cargarDatos(folder) {
+    const fetchCSV = async (n) => {
+        const r = await fetch(`data/${encodeURIComponent(folder)}/${n}.csv?v=${Date.now()}`);
+        if(!r.ok) return [];
+        const txt = await r.text();
+        return new Promise(res => {
+            Papa.parse(txt, { skipEmptyLines: 'greedy', complete: (rs) => {
+                const data = rs.data;
+                let hI = data.findIndex(row => row.some(c => ["CODIGO", "CLIENTE", "ARTICULO"].includes(c.toString().toUpperCase())));
+                if(hI === -1) hI = 0;
+                const heads = data[hI].map(h => h.toString().trim().toUpperCase());
+                res(data.slice(hI+1).map(row => {
+                    let o = {}; heads.forEach((h, i) => o[h] = row[i] ? row[i].toString().trim() : "");
+                    return o;
+                }));
+            }});
+        });
+    };
+    const [c, a, t] = await Promise.all([fetchCSV('clientes'), fetchCSV('lista'), fetchCSV('transportes')]);
+    c.forEach(i => { DB.cli[(i.CODIGO || i.COD).toString()] = i; });
+    a.forEach(i => { DB.art[(i.CODIGO || i.COD || i.ARTICULO).toString().toUpperCase()] = i; });
+    t.forEach(i => { DB.tra[i.CODIGO || i.COD] = i; });
+    document.getElementById('status').innerText = "VENDEDOR: " + folder;
+    nuevaFila();
+}
+
+function buscarCliente() {
+    let idBusca = document.getElementById('busCli').value.trim();
+    let c = DB.cli[idBusca];
+    if(c) {
+        CLIENTE_SEL = c;
+        document.getElementById('v_nom').innerText = c.CLIENTE || c.NOMBRE;
+        document.getElementById('v_cod_display').innerText = "CÓD: " + (c.CODIGO || c.COD);
+        document.getElementById('v_cuit').innerText = c.CUIT || "-";
+        document.getElementById('v_mail').innerText = c.EMAIL1 || c.EMAIL || "-";
+        document.getElementById('v_dom').innerText = (c.DOMICILIO || "-") + " (" + (c.LOCALIDAD || "-") + ")";
+        document.getElementById('v_dto').innerText = (c.DTO || 0) + "%";
+        document.getElementById('res_per').innerText = (c.DTO || 0);
+        let tId = c.TRANSPORTE;
+        document.getElementById('v_trans').innerText = DB.tra[tId] ? DB.tra[tId].NOMBRE : "A CONVENIR";
+        document.getElementById('infoCli').style.display = "block";
+        calcular();
+        setTimeout(() => document.querySelector('.art-input')?.focus(), 200);
+    } else { alert("Cliente " + idBusca + " no encontrado."); }
+}
+
+function nuevaFila() {
+    const id = Date.now();
+    const html = `
+    <div class="item-row" id="f-${id}">
+        <div class="row g-2 align-items-center">
+            <div class="col-4"><input type="text" class="form-control form-control-sm art-input fw-bold" placeholder="CÓDIGO" onkeydown="if(event.key==='Enter') buscarArticulo(event, '${id}')"></div>
+            <div class="col-4 small"><div class="fw-bold d-nom text-truncate">-</div><div class="d-pre text-muted">$0</div></div>
+            <div class="col-2"><input type="number" class="form-control form-control-sm q-in text-center" value="1" oninput="calcular()" onkeydown="if(event.key==='Enter') nuevaFila()"></div>
+            <div class="col-2 text-end"><button class="btn btn-sm text-danger" onclick="document.getElementById('f-${id}').remove(); calcular();">✕</button></div>
+        </div>
+    </div>`;
+    document.getElementById('contenedor-items').insertAdjacentHTML('beforeend', html);
+    const list = document.querySelectorAll('.art-input'); list[list.length-1].focus();
+}
+
+function buscarArticulo(e, id) {
+    let cod = e.target.value.trim().toUpperCase();
+    let a = DB.art[cod];
+    let row = document.getElementById('f-'+id);
+    if(a) {
+        row.querySelector('.d-nom').innerText = a.DESCRIPCION;
+        let p = parseFloat(a['LISTA 1']) || 0;
+        row.querySelector('.d-pre').innerText = fmt(p);
+        row.dataset.precio = p; row.dataset.nombre = a.DESCRIPCION; row.dataset.codigo = cod;
+        row.querySelector('.q-in').focus(); row.querySelector('.q-in').select();
+        calcular();
+    } else { alert("No existe el artículo."); }
+}
+
+function calcular() {
+    let sub = 0;
+    document.querySelectorAll('[id^="f-"]').forEach(r => { sub += (parseFloat(r.dataset.precio || 0) * (r.querySelector('.q-in').value || 0)); });
+    let pDto = CLIENTE_SEL ? parseFloat(CLIENTE_SEL.DTO || 0) : 0;
+    let mDto = sub * (pDto/100);
+    let neto = sub - mDto;
+    let iva = neto * 0.21;
+    document.getElementById('res_sub').innerText = fmt(sub);
+    document.getElementById('res_dto').innerText = "-" + fmt(mDto);
+    document.getElementById('res_neto').innerText = fmt(neto);
+    document.getElementById('res_iva').innerText = fmt(iva);
+    document.getElementById('v_total').innerText = fmt(neto + iva);
+}
+
+function guardarPedido() {
+    if(!CLIENTE_SEL) return alert("Falta Cliente");
+    let items = [];
+    document.querySelectorAll('[id^="f-"]').forEach(r => {
+        if(r.dataset.nombre) items.push({ c: r.dataset.codigo, n: r.dataset.nombre, q: r.querySelector('.q-in').value, p: r.dataset.precio });
+    });
+    if(items.length === 0) return alert("Pedido vacío");
+
+    const p = {
+        id: Date.now(),
+        fecha: new Date().toLocaleString(),
+        vendedor: SESION.user,
+        codCli: CLIENTE_SEL.CODIGO || CLIENTE_SEL.COD,
+        nomCli: CLIENTE_SEL.CLIENTE || CLIENTE_SEL.NOMBRE,
+        items: items,
+        total: document.getElementById('v_total').innerText,
+        desglose: {
+            sub: document.getElementById('res_sub').innerText,
+            dto: document.getElementById('res_dto').innerText,
+            per: document.getElementById('res_per').innerText,
+            iva: document.getElementById('res_iva').innerText
+        }
+    };
+
+    let hist = JSON.parse(localStorage.getItem('RT_HIST') || "[]");
+    hist.unshift(p);
+    localStorage.setItem('RT_HIST', JSON.stringify(hist));
+    alert("Pedido Guardado con Éxito");
+    descargarExcel(p);
+}
+
+function renderizarHistorial() {
+    const cont = document.getElementById('listaHistorial');
+    cont.innerHTML = "";
+    let hist = JSON.parse(localStorage.getItem('RT_HIST') || "[]");
+    if(!SESION.admin) hist = hist.filter(x => x.vendedor === SESION.user);
+
+    hist.forEach(p => {
+        cont.innerHTML += `
+        <div class="card p-3 mb-2 border-start border-4 border-primary">
+            <div class="d-flex justify-content-between align-items-start">
+                <div>
+                    <div class="fw-bold">[${p.codCli}] ${p.nomCli}</div>
+                    <div class="small text-muted">${p.fecha} ${SESION.admin ? ' | Vend: '+p.vendedor : ''}</div>
+                </div>
+                <div class="text-end">
+                    <div class="fw-bold text-primary">${p.total}</div>
+                    <button class="btn btn-sm btn-dark mt-1" onclick='descargarExcel(${JSON.stringify(p)})'>Excel</button>
+                </div>
+            </div>
+        </div>`;
+    });
+}
+
+function descargarExcel(p) {
+    let d = [
+        ["RESORTECNICA S.R.L. - COMPROBANTE"],
+        ["Fecha:", p.fecha], ["Vendedor:", p.vendedor], [],
+        ["CÓDIGO CLIENTE:", p.codCli], ["CLIENTE:", p.nomCli], [],
+        ["CÓDIGO", "DESCRIPCIÓN", "CANT", "PRECIO", "TOTAL"]
+    ];
+    p.items.forEach(i => d.push([i.c, i.n, i.q, parseFloat(i.p), (i.q*i.p)]));
+    d.push([], ["", "", "", "SUBTOTAL:", p.desglose.sub], ["", "", "", "BONIF "+p.desglose.per+"%:", p.desglose.dto], ["", "", "", "IVA 21%:", p.desglose.iva], ["", "", "", "TOTAL:", p.total]);
+    
+    const ws = XLSX.utils.aoa_to_sheet(d);
+    ws['!cols'] = [{wch:15},{wch:45},{wch:10},{wch:15},{wch:15}];
+    const wb = XLSX.utils.book_new();
+    XLSX.utils.book_append_sheet(wb, ws, "Pedido");
+    XLSX.writeFile(wb, `Pedido_${p.codCli}.xlsx`);
+}
+
+function compartirWhatsApp() {
+    if(!CLIENTE_SEL) return;
+    let t = `*RESORTECNICA*%0A*Cliente:* ${CLIENTE_SEL.CLIENTE || CLIENTE_SEL.NOMBRE}%0A---%0A`;
+    document.querySelectorAll('[id^="f-"]').forEach(r => { if(r.dataset.nombre) t += `• ${r.dataset.nombre} (x${r.querySelector('.q-in').value})%0A`; });
+    t += `---%0A*TOTAL:* ${document.getElementById('v_total').innerText}`;
+    window.open(`https://wa.me/5491154678020?text=${t}`);
+}
+</script>
+</body>
+</html>
