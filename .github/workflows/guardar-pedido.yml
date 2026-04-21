@@ -1,0 +1,22 @@
+name: Guardar Pedido
+on:
+  repository_dispatch:
+    types: [guardar_pedido]
+jobs:
+  guardar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Guardar JSON
+        run: |
+          mkdir -p historial
+          echo '${{ toJSON(github.event.client_payload) }}' > "historial/${{ github.event.client_payload.vendedor }}_${{ github.event.client_payload.id }}.json"
+      - name: Commit
+        run: |
+          git config user.email "pedidos@resortecnica.com"
+          git config user.name "ResorTecnica Bot"
+          git add historial/
+          git diff --staged --quiet || git commit -m "Pedido ${{ github.event.client_payload.vendedor }} ${{ github.event.client_payload.id }}"
+          git push
