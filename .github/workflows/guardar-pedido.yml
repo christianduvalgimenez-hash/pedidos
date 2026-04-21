@@ -2,6 +2,7 @@ name: Guardar Pedido
 on:
   repository_dispatch:
     types: [guardar_pedido]
+     workflow_dispatch:
 jobs:
   guardar:
     runs-on: ubuntu-latest
