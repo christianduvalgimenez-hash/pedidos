@@ -151,8 +151,10 @@ async function cargarBase(folder) {
     const [c, a, t] = await Promise.all([getCSV('clientes'), getCSV('lista'), getCSV('transportes')]);
 
     // FIX: indexación normalizada — clientes en MAYÚSCULAS igual que artículos
+    // FIX: eliminar decimales ".00" de códigos numéricos (ej: "7.00" → "7")
     c.forEach(i => {
         let k = (i.CODIGO || i.COD || "").toString().trim().toUpperCase();
+        k = k.replace(/\.00$/, ""); // "7.00" → "7", "102.00" → "102"
         if (k) DB.cli[k] = i;
     });
     a.forEach(i => {
@@ -164,13 +166,18 @@ async function cargarBase(folder) {
         if (k) DB.tra[k] = i;
     });
 
-    document.getElementById('status').innerText = "Vendedor: " + folder;
+    const nCli = Object.keys(DB.cli).length;
+    const nArt = Object.keys(DB.art).length;
+    document.getElementById('status').innerText = `${folder} | Clientes: ${nCli} | Arts: ${nArt}`;
+    if (nCli === 0) alert("⚠️ No se cargaron clientes. Verificá que el archivo clientes.csv exista en la carpeta correcta.");
     nuevaFila();
 }
 
 // FIX: normalizar el código ingresado a mayúsculas antes de buscar en DB.cli
+// FIX: si el usuario escribe "7" pero el CSV tiene "7.00", los dos quedan normalizados igual
 function buscarCliente() {
     let bus = document.getElementById('busCli').value.trim().toUpperCase();
+    bus = bus.replace(/\.00$/, ""); // por si alguien escribe "7.00"
     let c = DB.cli[bus];
     if (c) {
         CLIENTE_SEL = c;
