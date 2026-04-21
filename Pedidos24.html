@@ -10,7 +10,7 @@
     <style>
         :root { --blue: #002d5a; }
         body { background: #f0f2f5; font-family: 'Segoe UI', sans-serif; font-size: 0.85rem; }
-        .header { background: var(--blue); color: white; padding: 15px; text-align: center; border-radius: 0 0 20px 20px; }
+        .header { background: var(--blue); color: white; padding: 15px; border-radius: 0 0 20px 20px; }
         .card { border-radius: 12px; border: none; box-shadow: 0 4px 10px rgba(0,0,0,0.05); margin-bottom: 15px; }
         .info-label { font-weight: bold; color: #666; text-transform: uppercase; font-size: 0.65rem; }
         .info-value { color: #000; margin-bottom: 4px; border-bottom: 1px solid #eee; min-height: 1.2rem; font-weight: 500; }
@@ -33,8 +33,16 @@
 
 <div id="appPage" class="app-content" style="display:none;">
     <div class="header mb-3">
-        <h5 class="fw-bold mb-0">ResorTecnica S.R.L.</h5>
-        <div id="status" class="badge bg-light text-dark mt-2">Cargando base...</div>
+        <div class="d-flex justify-content-between align-items-center">
+            <div style="width:70px;"></div>
+            <div class="text-center">
+                <h5 class="fw-bold mb-0">ResorTecnica S.R.L.</h5>
+                <div id="status" class="badge bg-light text-dark mt-1">Cargando base...</div>
+            </div>
+            <div style="width:70px;" class="text-end">
+                <button class="btn btn-sm btn-outline-light fw-bold" onclick="cerrarSesion()">SALIR</button>
+            </div>
+        </div>
     </div>
 
     <div class="container pb-5">
@@ -50,7 +58,7 @@
                         <input type="text" id="busCli" class="form-control fw-bold" placeholder="CODIGO CLIENTE" onkeydown="if(event.key==='Enter') buscarCliente()">
                         <button class="btn btn-primary" onclick="buscarCliente()">BUSCAR</button>
                     </div>
-                    
+
                     <div id="infoCli" class="mt-2 p-3 bg-white rounded border-start border-4 border-primary" style="display:none;">
                         <div class="d-flex justify-content-between mb-2">
                             <h6 class="fw-bold text-primary mb-0" id="v_nom"></h6>
@@ -58,7 +66,9 @@
                         </div>
                         <div class="row g-2">
                             <div class="col-6"><div class="info-label">CUIT</div><div class="info-value" id="v_cuit"></div></div>
+                            <div class="col-6"><div class="info-label">Teléfono</div><div class="info-value" id="v_tel"></div></div>
                             <div class="col-6"><div class="info-label">EMAIL</div><div class="info-value" id="v_mail"></div></div>
+                            <div class="col-6"><div class="info-label">Provincia</div><div class="info-value" id="v_prov"></div></div>
                             <div class="col-12"><div class="info-label">Domicilio</div><div class="info-value" id="v_dom"></div></div>
                             <div class="col-6"><div class="info-label">Bonificación</div><div class="info-value text-success" id="v_dto">0%</div></div>
                             <div class="col-6"><div class="info-label">Transporte</div><div class="info-value text-danger" id="v_trans"></div></div>
@@ -117,6 +127,16 @@ let CLIENTE_SEL = null;
 
 function fmt(n) { return new Intl.NumberFormat('es-AR', { style: 'currency', currency: 'ARS' }).format(n); }
 
+// Normaliza códigos: "7.00" → "7", "102.00" → "102", "A001" → "A001"
+function normCod(k) {
+    k = k.toString().trim().toUpperCase();
+    // Si es puramente numérico (con o sin decimales), convertir a entero
+    if (/^\d+(\.\d+)?$/.test(k)) {
+        return String(Math.round(parseFloat(k)));
+    }
+    return k;
+}
+
 function intentarLogin() {
     const u = document.getElementById('userInput').value.trim();
     const p = document.getElementById('passInput').value;
@@ -126,6 +146,18 @@ function intentarLogin() {
         document.getElementById('appPage').style.display = 'block';
         cargarBase(SESION.folder);
     } else { alert("Datos incorrectos"); }
+}
+
+function cerrarSesion() {
+    SESION = null;
+    CLIENTE_SEL = null;
+    DB = { cli: {}, art: {}, tra: {} };
+    document.getElementById('appPage').style.display = 'none';
+    document.getElementById('loginPage').style.display = 'block';
+    document.getElementById('userInput').value = '';
+    document.getElementById('passInput').value = '';
+    document.getElementById('contenedor-items').innerHTML = '';
+    document.getElementById('infoCli').style.display = 'none';
 }
 
 async function cargarBase(folder) {
@@ -150,45 +182,31 @@ async function cargarBase(folder) {
 
     const [c, a, t] = await Promise.all([getCSV('clientes'), getCSV('lista'), getCSV('transportes')]);
 
-    // FIX: indexación normalizada — clientes en MAYÚSCULAS igual que artículos
-    // FIX: eliminar decimales ".00" de códigos numéricos (ej: "7.00" → "7")
-    c.forEach(i => {
-        let k = (i.CODIGO || i.COD || "").toString().trim().toUpperCase();
-        k = k.replace(/\.00$/, ""); // "7.00" → "7", "102.00" → "102"
-        if (k) DB.cli[k] = i;
-    });
-    a.forEach(i => {
-        let k = (i.CODIGO || i.COD || i.ARTICULO || "").toString().trim().toUpperCase();
-        if (k) DB.art[k] = i;
-    });
-    t.forEach(i => {
-        let k = (i.CODIGO || i.COD || "").toString().trim().toUpperCase();
-        if (k) DB.tra[k] = i;
-    });
+    c.forEach(i => { let k = normCod(i.CODIGO || i.COD || ""); if (k) DB.cli[k] = i; });
+    a.forEach(i => { let k = normCod(i.CODIGO || i.COD || i.ARTICULO || ""); if (k) DB.art[k] = i; });
+    t.forEach(i => { let k = normCod(i.CODIGO || i.COD || ""); if (k) DB.tra[k] = i; });
 
     const nCli = Object.keys(DB.cli).length;
     const nArt = Object.keys(DB.art).length;
-    document.getElementById('status').innerText = `${folder} | Clientes: ${nCli} | Arts: ${nArt}`;
-    if (nCli === 0) alert("⚠️ No se cargaron clientes. Verificá que el archivo clientes.csv exista en la carpeta correcta.");
+    document.getElementById('status').innerText = `${SESION.user} | ${nCli} clientes | ${nArt} arts.`;
     nuevaFila();
 }
 
-// FIX: normalizar el código ingresado a mayúsculas antes de buscar en DB.cli
-// FIX: si el usuario escribe "7" pero el CSV tiene "7.00", los dos quedan normalizados igual
 function buscarCliente() {
-    let bus = document.getElementById('busCli').value.trim().toUpperCase();
-    bus = bus.replace(/\.00$/, ""); // por si alguien escribe "7.00"
+    let bus = normCod(document.getElementById('busCli').value);
     let c = DB.cli[bus];
     if (c) {
         CLIENTE_SEL = c;
         document.getElementById('v_nom').innerText = c.CLIENTE || c.NOMBRE || "-";
         document.getElementById('v_cod_display').innerText = "CÓD: " + bus;
         document.getElementById('v_cuit').innerText = c.CUIT || "-";
-        document.getElementById('v_mail').innerText = c.EMAIL1 || c.EMAIL || "-";
-        document.getElementById('v_dom').innerText = (c.DOMICILIO || "-") + " (" + (c.LOCALIDAD || "-") + ")";
-        document.getElementById('v_dto').innerText = (c.DTO || 0) + "%";
-        document.getElementById('res_per').innerText = (c.DTO || 0);
-        let tr = (c.TRANSPORTE || "").toString().trim().toUpperCase();
+        document.getElementById('v_tel').innerText = c.TELEFONO || c.TEL || c.CELULAR || "-";
+        document.getElementById('v_mail').innerText = c['EMAIL 1'] || c.EMAIL1 || c.EMAIL || "-";
+        document.getElementById('v_prov').innerText = c.PROVINCIA || "-";
+        document.getElementById('v_dom').innerText = (c.DOMICILIO || "-") + ", " + (c.LOCALIDAD || "-");
+        document.getElementById('v_dto').innerText = (c.DTO || c.dto || 0) + "%";
+        document.getElementById('res_per').innerText = (c.DTO || c.dto || 0);
+        let tr = normCod(c.TRANSPORTE || "");
         document.getElementById('v_trans').innerText = DB.tra[tr] ? DB.tra[tr].NOMBRE : (tr || "A CONVENIR");
         document.getElementById('infoCli').style.display = "block";
         calcular();
@@ -212,22 +230,17 @@ function nuevaFila() {
     inps[inps.length - 1].focus();
 }
 
-// FIX: recibe el elemento input directamente (this) en lugar del evento
-// FIX: busca el campo de precio con múltiples nombres posibles de columna
 function buscarArt(inputEl, id) {
-    let cod = inputEl.value.trim().toUpperCase();
+    let cod = normCod(inputEl.value);
     let a = DB.art[cod];
     let row = document.getElementById('f-' + id);
     if (a) {
         row.querySelector('.d-nom').innerText = a.DESCRIPCION || a.NOMBRE || a.DESC || "-";
-
-        // FIX: buscar el precio en varias columnas posibles del CSV
         let p = parseFloat(
             a['LISTA 1'] || a['LISTA1'] || a['LISTA_1'] ||
             a['PRECIO'] || a['PRECIO1'] || a['P. LISTA'] ||
             a['PRECIO LISTA'] || a['LISTA'] || 0
         ) || 0;
-
         row.querySelector('.d-pre').innerText = fmt(p);
         row.dataset.precio = p;
         row.dataset.nombre = a.DESCRIPCION || a.NOMBRE || a.DESC || "-";
@@ -243,7 +256,7 @@ function calcular() {
     document.querySelectorAll('[id^="f-"]').forEach(r => {
         sub += (parseFloat(r.dataset.precio || 0) * (parseFloat(r.querySelector('.q-in').value) || 0));
     });
-    let porc = CLIENTE_SEL ? parseFloat(CLIENTE_SEL.DTO || 0) : 0;
+    let porc = CLIENTE_SEL ? parseFloat(CLIENTE_SEL.DTO || CLIENTE_SEL.dto || 0) : 0;
     let dto = sub * (porc / 100);
     let neto = sub - dto;
     let iva = neto * 0.21;
@@ -256,7 +269,8 @@ function calcular() {
 
 function enviarWA() {
     if (!CLIENTE_SEL) return alert("Falta cliente");
-    let msg = `*RESORTECNICA*%0A*Cod:* ${(CLIENTE_SEL.CODIGO || CLIENTE_SEL.COD)}%0A*Cliente:* ${document.getElementById('v_nom').innerText}%0A---%0A`;
+    let codCli = normCod(CLIENTE_SEL.CODIGO || CLIENTE_SEL.COD || "");
+    let msg = `*RESORTECNICA*%0A*Cod:* ${codCli}%0A*Cliente:* ${document.getElementById('v_nom').innerText}%0A---%0A`;
     document.querySelectorAll('[id^="f-"]').forEach(r => {
         if (r.dataset.nombre) msg += `• ${r.dataset.nombre} (x${r.querySelector('.q-in').value})%0A`;
     });
@@ -285,11 +299,16 @@ function obtenerDatosPedido() {
         if (r.dataset.nombre) items.push({ c: r.dataset.codigo, n: r.dataset.nombre, q: r.querySelector('.q-in').value, p: r.dataset.precio });
     });
     if (items.length === 0) { alert("El pedido está vacío"); return null; }
+    let codCli = normCod(CLIENTE_SEL.CODIGO || CLIENTE_SEL.COD || "");
     return {
         id: Date.now(), fecha: new Date().toLocaleString(), vendedor: SESION.user,
-        codCli: (CLIENTE_SEL.CODIGO || CLIENTE_SEL.COD), nomCli: (CLIENTE_SEL.CLIENTE || CLIENTE_SEL.NOMBRE),
-        cuit: document.getElementById('v_cuit').innerText, mail: document.getElementById('v_mail').innerText,
-        dom: document.getElementById('v_dom').innerText, trans: document.getElementById('v_trans').innerText,
+        codCli: codCli, nomCli: (CLIENTE_SEL.CLIENTE || CLIENTE_SEL.NOMBRE),
+        cuit: document.getElementById('v_cuit').innerText,
+        tel: document.getElementById('v_tel').innerText,
+        mail: document.getElementById('v_mail').innerText,
+        prov: document.getElementById('v_prov').innerText,
+        dom: document.getElementById('v_dom').innerText,
+        trans: document.getElementById('v_trans').innerText,
         items: items,
         res: { b: document.getElementById('res_sub').innerText, p: document.getElementById('res_per').innerText, d: document.getElementById('res_dto').innerText, n: document.getElementById('res_neto').innerText, i: document.getElementById('res_iva').innerText, f: document.getElementById('v_total').innerText }
     };
@@ -300,7 +319,9 @@ function descargarExcel(p) {
         ["RESORTECNICA S.R.L. - COMPROBANTE DE PEDIDO"],
         ["Fecha:", p.fecha], ["Vendedor:", p.vendedor], [],
         ["CÓDIGO CLIENTE:", p.codCli], ["CLIENTE:", p.nomCli],
-        ["CUIT:", p.cuit], ["EMAIL:", p.mail], ["DOMICILIO:", p.dom], ["TRANSPORTE:", p.trans], [],
+        ["CUIT:", p.cuit], ["TELÉFONO:", p.tel || ""],
+        ["EMAIL:", p.mail], ["PROVINCIA:", p.prov || ""],
+        ["DOMICILIO:", p.dom], ["TRANSPORTE:", p.trans], [],
         ["CÓDIGO", "DESCRIPCIÓN", "CANT", "P. LISTA", "SUBTOTAL"]
     ];
     p.items.forEach(i => rows.push([i.c, i.n, i.q, parseFloat(i.p), (i.q * i.p)]));
