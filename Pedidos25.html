@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ResorTecnica S.R.L. | Gestión</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+    <style>
+        :root { --blue: #002d5a; }
+        body { background: #f0f2f5; font-family: 'Segoe UI', sans-serif; font-size: 0.85rem; }
+        .header { background: var(--blue); color: white; padding: 15px; border-radius: 0 0 20px 20px; }
+        .card { border-radius: 12px; border: none; box-shadow: 0 4px 10px rgba(0,0,0,0.05); margin-bottom: 15px; }
+        .info-label { font-weight: bold; color: #666; text-transform: uppercase; font-size: 0.65rem; }
+        .info-value { color: #000; margin-bottom: 4px; border-bottom: 1px solid #eee; min-height: 1.2rem; font-weight: 500; }
+        .item-row { background: white; padding: 10px; border-bottom: 1px solid #eee; }
+        .resumen-line { display: flex; justify-content: space-between; margin-bottom: 5px; font-size: 0.9rem; }
+        .nav-pills .nav-link.active { background-color: var(--blue); }
+        .btn-xl { padding: 10px; font-weight: bold; }
+    </style>
+</head>
+<body>
+
+<div id="loginPage" class="container" style="max-width:400px; margin-top:80px;">
+    <div class="card p-4 text-center shadow border-top border-4 border-primary">
+        <h3 class="fw-bold mb-4" style="color: var(--blue);">ResorTecnica</h3>
+        <input type="text" id="userInput" class="form-control mb-3" placeholder="Usuario">
+        <input type="password" id="passInput" class="form-control mb-4" placeholder="Contraseña">
+        <button class="btn btn-primary w-100 fw-bold" onclick="intentarLogin()">INGRESAR</button>
+    </div>
+</div>
+
+<div id="appPage" class="app-content" style="display:none;">
+    <div class="header mb-3">
+        <div class="d-flex justify-content-between align-items-center">
+            <div style="width:70px;"></div>
+            <div class="text-center">
+                <h5 class="fw-bold mb-0">ResorTecnica S.R.L.</h5>
+                <div id="status" class="badge bg-light text-dark mt-1">Cargando base...</div>
+            </div>
+            <div style="width:70px;" class="text-end">
+                <button class="btn btn-sm btn-outline-light fw-bold" onclick="cerrarSesion()">SALIR</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="container pb-5">
+        <ul class="nav nav-pills nav-fill mb-3 bg-white rounded p-1 shadow-sm">
+            <li class="nav-item"><a class="nav-link active" data-bs-toggle="pill" href="#tab-nuevo">NUEVO PEDIDO</a></li>
+            <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#tab-historial" onclick="verHistorial()">HISTORIAL</a></li>
+        </ul>
+
+        <div class="tab-content">
+            <div class="tab-pane fade show active" id="tab-nuevo">
+                <div class="card p-3 shadow-sm">
+                    <div class="input-group mb-2">
+                        <input type="text" id="busCli" class="form-control fw-bold" placeholder="CODIGO CLIENTE" onkeydown="if(event.key==='Enter') buscarCliente()">
+                        <button class="btn btn-primary" onclick="buscarCliente()">BUSCAR</button>
+                    </div>
+
+                    <div id="infoCli" class="mt-2 p-3 bg-white rounded border-start border-4 border-primary" style="display:none;">
+                        <div class="d-flex justify-content-between mb-2">
+                            <h6 class="fw-bold text-primary mb-0" id="v_nom"></h6>
+                            <span class="badge bg-primary" id="v_cod_display"></span>
+                        </div>
+                        <div class="row g-2">
+                            <div class="col-6"><div class="info-label">CUIT</div><div class="info-value" id="v_cuit"></div></div>
+                            <div class="col-6"><div class="info-label">Teléfono</div><div class="info-value" id="v_tel"></div></div>
+                            <div class="col-6"><div class="info-label">EMAIL</div><div class="info-value" id="v_mail"></div></div>
+                            <div class="col-6"><div class="info-label">Provincia</div><div class="info-value" id="v_prov"></div></div>
+                            <div class="col-12"><div class="info-label">Domicilio</div><div class="info-value" id="v_dom"></div></div>
+                            <div class="col-6"><div class="info-label">Bonificación</div><div class="info-value text-success" id="v_dto">0%</div></div>
+                            <div class="col-6"><div class="info-label">Transporte</div><div class="info-value text-danger" id="v_trans"></div></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card overflow-hidden shadow-sm">
+                    <div id="contenedor-items"></div>
+                    <div class="p-2 bg-light"><button class="btn btn-outline-primary btn-sm w-100 fw-bold" onclick="nuevaFila()">+ AGREGAR ARTÍCULO</button></div>
+                </div>
+
+                <div class="card p-3 border-top border-4 border-primary shadow-sm">
+                    <div class="resumen-line"><span>Subtotal Bruto:</span> <span id="res_sub">$0,00</span></div>
+                    <div class="resumen-line text-success"><span>Bonif. Cliente (<span id="res_per">0</span>%):</span> <span id="res_dto">-$0,00</span></div>
+                    <div class="resumen-line fw-bold"><span>Subtotal Neto:</span> <span id="res_neto">$0,00</span></div>
+                    <div class="resumen-line text-muted"><span>IVA (21%):</span> <span id="res_iva">$0,00</span></div>
+                    <hr>
+                    <div class="resumen-line h4 fw-bold text-primary"><span>TOTAL:</span> <span id="v_total">$0,00</span></div>
+                </div>
+
+                <div class="d-grid gap-2">
+                    <button class="btn btn-success btn-xl shadow" onclick="enviarWA()">Enviar por WhatsApp</button>
+                    <button class="btn btn-dark btn-xl shadow" onclick="descargarSoloExcel()">Descargar Pedido en Excel</button>
+                    <button class="btn btn-primary btn-xl shadow" onclick="guardarEnHistorial()">Guardar Pedido en historial</button>
+                </div>
+            </div>
+
+            <div class="tab-pane fade" id="tab-historial">
+                <div class="card p-2 mb-2 shadow-sm">
+                    <small class="text-muted d-block mb-2">GitHub guarda los CSV del negocio; los pedidos guardados en historial viven solo en este navegador. Para llevarlos a otro equipo o al celular, usá exportar/importar.</small>
+                    <div class="d-flex flex-wrap gap-2">
+                        <button type="button" class="btn btn-outline-secondary btn-sm" onclick="exportarHistorialBackup()">Exportar historial</button>
+                        <label class="btn btn-outline-secondary btn-sm mb-0">Importar historial<input type="file" accept="application/json,.json" class="d-none" id="importHistorialFile" onchange="importarHistorialBackup(event)"></label>
+                    </div>
+                </div>
+                <div id="listaHistorial"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+/**
+ * Vacío '' = los CSV se cargan desde la misma URL que esta página (ideal GitHub Pages: misma publicación en PC y celular).
+ * Solo poné una URL absoluta aquí si los .csv están en otro sitio. En GitHub Pages las rutas se resuelven respecto a esta página.
+ */
+const DATA_ROOT = '';
+
+/** URL absoluta del CSV para fetch (sirve con GitHub Pages en subcarpeta, ej. usuario.github.io/repo/…). */
+function getCsvUrl(folder, baseName) {
+    const path = `data/${encodeURIComponent(folder)}/${baseName}.csv`;
+    const bust = String(Date.now());
+    if (DATA_ROOT) {
+        const root = DATA_ROOT.replace(/\/+$/, '');
+        return `${root}/${path}?v=${bust}`;
+    }
+    const u = new URL(path, location.href);
+    u.searchParams.set('v', bust);
+    return u.href;
+}
+
+const USUARIOS = {
+    "Chris":     { pass: "0402", folder: "Chris", admin: true },
+    "Lucas":     { pass: "1234", folder: "01-11 De Blasi" },
+    "Carlos":    { pass: "1234", folder: "06 Payeres" },
+    "Eduardo":   { pass: "1234", folder: "07 Morales" },
+    "Leandro":   { pass: "1234", folder: "10 Serra" },
+    "Andres":    { pass: "1234", folder: "17 De Felice" },
+    "Andrecito": { pass: "1234", folder: "20-21 Gallo" },
+    "Hernan":    { pass: "1234", folder: "22 Galo" },
+    "Francisco": { pass: "1234", folder: "26 Schmid" },
+    "Alfredo":   { pass: "1234", folder: "30 Pavon" },
+    "Ricardo":   { pass: "1234", folder: "31 Gudiño" },
+    "HernanR":   { pass: "1234", folder: "32 Righi" }
+};
+
+let DB = { cli: {}, art: {}, tra: {} };
+let SESION = null;
+let CLIENTE_SEL = null;
+
+function fmt(n) { return new Intl.NumberFormat('es-AR', { style: 'currency', currency: 'ARS' }).format(n); }
+
+// Normaliza códigos: "7.00" → "7", "102.00" → "102", "A001" → "A001"
+function normCod(k) {
+    k = k.toString().trim().toUpperCase();
+    // Si es puramente numérico (con o sin decimales), convertir a entero
+    if (/^\d+(\.\d+)?$/.test(k)) {
+        return String(Math.round(parseFloat(k)));
+    }
+    return k;
+}
+
+function intentarLogin() {
+    const u = document.getElementById('userInput').value.trim();
+    const p = document.getElementById('passInput').value;
+    if (USUARIOS[u] && USUARIOS[u].pass === p) {
+        if (location.protocol === 'file:') {
+            alert('Estás abriendo la página como archivo (file://). El navegador no puede cargar la carpeta data/ con los CSV.\n\n'
+                + 'Abrila desde la URL publicada (GitHub Pages, Live Server, etc.), no como archivo suelto.');
+        }
+        SESION = { user: u, ...USUARIOS[u] };
+        document.getElementById('loginPage').style.display = 'none';
+        document.getElementById('appPage').style.display = 'block';
+        cargarBase(SESION.folder);
+    } else { alert("Datos incorrectos"); }
+}
+
+function cerrarSesion() {
+    SESION = null;
+    CLIENTE_SEL = null;
+    DB = { cli: {}, art: {}, tra: {} };
+    document.getElementById('appPage').style.display = 'none';
+    document.getElementById('loginPage').style.display = 'block';
+    document.getElementById('userInput').value = '';
+    document.getElementById('passInput').value = '';
+    document.getElementById('contenedor-items').innerHTML = '';
+    document.getElementById('infoCli').style.display = 'none';
+}
+
+async function cargarBase(folder) {
+    const getCSV = async (n) => {
+        const r = await fetch(getCsvUrl(folder, n));
+        if (!r.ok) return [];
+        const t = await r.text();
+        return new Promise(res => {
+            Papa.parse(t, { skipEmptyLines: 'greedy', complete: (rs) => {
+                const data = rs.data;
+                let hI = data.findIndex(row => row.some(c => ["CODIGO", "CLIENTE", "ARTICULO", "COD"].includes(c.toString().toUpperCase().trim())));
+                if (hI === -1) hI = 0;
+                const heads = data[hI].map(h => h.toString().trim().toUpperCase());
+                res(data.slice(hI + 1).map(row => {
+                    let o = {};
+                    heads.forEach((h, i) => o[h] = row[i] ? row[i].toString().trim() : "");
+                    return o;
+                }));
+            }});
+        });
+    };
+
+    let c = [], a = [], t = [];
+    try {
+        [c, a, t] = await Promise.all([getCSV('clientes'), getCSV('lista'), getCSV('transportes')]);
+    } catch (e) {
+        console.error(e);
+        document.getElementById('status').innerText = 'Error al cargar CSV';
+        alert('No se pudieron cargar clientes.csv / lista.csv (red, 404 o página sin datos).\n\n'
+            + 'En GitHub Pages: comprobá que la carpeta data/ y los CSV estén en el repo, que GitHub Pages esté activo '
+            + 'y que las rutas/carpetas coincidan (en el servidor Linux las mayúsculas importan).');
+        nuevaFila();
+        return;
+    }
+
+    c.forEach(i => { let k = normCod(i.CODIGO || i.COD || ""); if (k) DB.cli[k] = i; });
+    a.forEach(i => { let k = normCod(i.CODIGO || i.COD || i.ARTICULO || ""); if (k) DB.art[k] = i; });
+    t.forEach(i => { let k = normCod(i.CODIGO || i.COD || ""); if (k) DB.tra[k] = i; });
+
+    const nCli = Object.keys(DB.cli).length;
+    const nArt = Object.keys(DB.art).length;
+    document.getElementById('status').innerText = `${SESION.user} | ${nCli} clientes | ${nArt} arts.`;
+    if (nCli === 0 && nArt === 0) {
+        document.getElementById('status').innerText += ' — sin datos: revisá carpeta data/ o la URL';
+        alert('La base quedó vacía (0 clientes, 0 artículos). Revisá en el repositorio la rama/carpeta publicada en Pages '
+            + 'y que exista data/' + folder + '/clientes.csv y lista.csv (nombres y mayúsculas exactas en GitHub).');
+    }
+    nuevaFila();
+}
+
+function buscarCliente() {
+    let bus = normCod(document.getElementById('busCli').value);
+    let c = DB.cli[bus];
+    if (c) {
+        CLIENTE_SEL = c;
+        document.getElementById('v_nom').innerText = c.CLIENTE || c.NOMBRE || "-";
+        document.getElementById('v_cod_display').innerText = "CÓD: " + bus;
+        document.getElementById('v_cuit').innerText = c.CUIT || "-";
+        document.getElementById('v_tel').innerText = c.TELEFONO || c.TEL || c.CELULAR || "-";
+        document.getElementById('v_mail').innerText = c['EMAIL 1'] || c.EMAIL1 || c.EMAIL || "-";
+        document.getElementById('v_prov').innerText = c.PROVINCIA || "-";
+        document.getElementById('v_dom').innerText = (c.DOMICILIO || "-") + ", " + (c.LOCALIDAD || "-");
+        document.getElementById('v_dto').innerText = (c.DTO || c.dto || 0) + "%";
+        document.getElementById('res_per').innerText = (c.DTO || c.dto || 0);
+        let tr = normCod(c.TRANSPORTE || "");
+        document.getElementById('v_trans').innerText = DB.tra[tr] ? DB.tra[tr].NOMBRE : (tr || "A CONVENIR");
+        document.getElementById('infoCli').style.display = "block";
+        calcular();
+        document.querySelector('.art-input')?.focus();
+    } else { alert("Código " + bus + " no encontrado."); }
+}
+
+function nuevaFila() {
+    const id = Date.now();
+    const html = `
+    <div class="item-row" id="f-${id}">
+        <div class="row g-2 align-items-center">
+            <div class="col-4"><input type="text" class="form-control form-control-sm art-input fw-bold" placeholder="CODIGO" onkeydown="if(event.key==='Enter') buscarArt(this, '${id}')"></div>
+            <div class="col-4 small"><div class="fw-bold d-nom text-truncate">-</div><div class="d-pre text-muted">$0</div></div>
+            <div class="col-2"><input type="number" class="form-control form-control-sm q-in text-center" value="1" oninput="calcular()" onkeydown="if(event.key==='Enter') nuevaFila()"></div>
+            <div class="col-2 text-end"><button class="btn btn-sm text-danger" onclick="document.getElementById('f-${id}').remove(); calcular();">✕</button></div>
+        </div>
+    </div>`;
+    document.getElementById('contenedor-items').insertAdjacentHTML('beforeend', html);
+    const inps = document.querySelectorAll('.art-input');
+    inps[inps.length - 1].focus();
+}
+
+function buscarArt(inputEl, id) {
+    let cod = normCod(inputEl.value);
+    let a = DB.art[cod];
+    let row = document.getElementById('f-' + id);
+    if (a) {
+        row.querySelector('.d-nom').innerText = a.DESCRIPCION || a.NOMBRE || a.DESC || "-";
+        let p = parseFloat(
+            a['LISTA 1'] || a['LISTA1'] || a['LISTA_1'] ||
+            a['PRECIO'] || a['PRECIO1'] || a['P. LISTA'] ||
+            a['PRECIO LISTA'] || a['LISTA'] || 0
+        ) || 0;
+        row.querySelector('.d-pre').innerText = fmt(p);
+        row.dataset.precio = p;
+        row.dataset.nombre = a.DESCRIPCION || a.NOMBRE || a.DESC || "-";
+        row.dataset.codigo = cod;
+        const qi = row.querySelector('.q-in');
+        qi.focus();
+        // En móvil, .select() suele dejar el cursor/indicador delante del dígito; posicionar al final.
+        const placeCaretEnd = () => {
+            const v = (qi.value != null ? String(qi.value) : '1');
+            try {
+                if (typeof qi.setSelectionRange === 'function') qi.setSelectionRange(v.length, v.length);
+            } catch (err) { /* algunos navegadores con type=number */ }
+        };
+        requestAnimationFrame(placeCaretEnd);
+        setTimeout(placeCaretEnd, 50);
+        calcular();
+    } else { alert("Artículo no encontrado."); }
+}
+
+function calcular() {
+    let sub = 0;
+    document.querySelectorAll('[id^="f-"]').forEach(r => {
+        sub += (parseFloat(r.dataset.precio || 0) * (parseFloat(r.querySelector('.q-in').value) || 0));
+    });
+    let porc = CLIENTE_SEL ? parseFloat(CLIENTE_SEL.DTO || CLIENTE_SEL.dto || 0) : 0;
+    let dto = sub * (porc / 100);
+    let neto = sub - dto;
+    let iva = neto * 0.21;
+    document.getElementById('res_sub').innerText = fmt(sub);
+    document.getElementById('res_dto').innerText = "-" + fmt(dto);
+    document.getElementById('res_neto').innerText = fmt(neto);
+    document.getElementById('res_iva').innerText = fmt(iva);
+    document.getElementById('v_total').innerText = fmt(neto + iva);
+}
+
+function enviarWA() {
+    if (!CLIENTE_SEL) return alert("Falta cliente");
+    let codCli = normCod(CLIENTE_SEL.CODIGO || CLIENTE_SEL.COD || "");
+    let msg = `*RESORTECNICA*%0A*Cod:* ${codCli}%0A*Cliente:* ${document.getElementById('v_nom').innerText}%0A---%0A`;
+    document.querySelectorAll('[id^="f-"]').forEach(r => {
+        if (r.dataset.nombre) msg += `• ${r.dataset.nombre} (x${r.querySelector('.q-in').value})%0A`;
+    });
+    msg += `---%0A*TOTAL:* ${document.getElementById('v_total').innerText}`;
+    window.open(`https://wa.me/5491154678020?text=${msg}`);
+}
+
+function descargarSoloExcel() {
+    const p = obtenerDatosPedido();
+    if (p) descargarExcel(p);
+}
+
+function guardarEnHistorial() {
+    const p = obtenerDatosPedido();
+    if (!p) return;
+    try {
+        let h = JSON.parse(localStorage.getItem('RT_H_V3') || "[]");
+        h.unshift(p);
+        localStorage.setItem('RT_H_V3', JSON.stringify(h));
+        alert("Pedido guardado en historial.");
+    } catch (e) {
+        alert('No se pudo guardar (almacenamiento lleno o modo privado).');
+    }
+}
+
+function exportarHistorialBackup() {
+    const raw = localStorage.getItem('RT_H_V3') || '[]';
+    const blob = new Blob([raw], { type: 'application/json;charset=utf-8' });
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.download = 'ResorTecnica_historial_pedidos.json';
+    a.click();
+    URL.revokeObjectURL(a.href);
+}
+
+function importarHistorialBackup(ev) {
+    const file = ev.target.files && ev.target.files[0];
+    ev.target.value = '';
+    if (!file) return;
+    const reader = new FileReader();
+    reader.onload = () => {
+        try {
+            const arr = JSON.parse(reader.result);
+            if (!Array.isArray(arr)) throw new Error('no array');
+            const cur = JSON.parse(localStorage.getItem('RT_H_V3') || '[]');
+            if (!confirm('¿Unir estos ' + arr.length + ' pedidos importados con los ' + cur.length + ' que ya hay en este dispositivo? (Cancelar = no cambiar nada)')) return;
+            const merged = [...arr, ...cur];
+            localStorage.setItem('RT_H_V3', JSON.stringify(merged));
+            alert('Listo. Historial unido.');
+            verHistorial();
+        } catch (err) {
+            alert('No se pudo leer el archivo. Tiene que ser JSON exportado desde esta app.');
+        }
+    };
+    reader.readAsText(file, 'UTF-8');
+}
+
+function obtenerDatosPedido() {
+    if (!CLIENTE_SEL) { alert("Falta seleccionar cliente"); return null; }
+    let items = [];
+    document.querySelectorAll('[id^="f-"]').forEach(r => {
+        if (r.dataset.nombre) items.push({ c: r.dataset.codigo, n: r.dataset.nombre, q: r.querySelector('.q-in').value, p: r.dataset.precio });
+    });
+    if (items.length === 0) { alert("El pedido está vacío"); return null; }
+    let codCli = normCod(CLIENTE_SEL.CODIGO || CLIENTE_SEL.COD || "");
+    return {
+        id: Date.now(), fecha: new Date().toLocaleString(), vendedor: SESION.user,
+        codCli: codCli, nomCli: (CLIENTE_SEL.CLIENTE || CLIENTE_SEL.NOMBRE),
+        cuit: document.getElementById('v_cuit').innerText,
+        tel: document.getElementById('v_tel').innerText,
+        mail: document.getElementById('v_mail').innerText,
+        prov: document.getElementById('v_prov').innerText,
+        dom: document.getElementById('v_dom').innerText,
+        trans: document.getElementById('v_trans').innerText,
+        items: items,
+        res: { b: document.getElementById('res_sub').innerText, p: document.getElementById('res_per').innerText, d: document.getElementById('res_dto').innerText, n: document.getElementById('res_neto').innerText, i: document.getElementById('res_iva').innerText, f: document.getElementById('v_total').innerText }
+    };
+}
+
+function descargarExcel(p) {
+    let rows = [
+        ["RESORTECNICA S.R.L. - COMPROBANTE DE PEDIDO"],
+        ["Fecha:", p.fecha], ["Vendedor:", p.vendedor], [],
+        ["CÓDIGO CLIENTE:", p.codCli], ["CLIENTE:", p.nomCli],
+        ["CUIT:", p.cuit], ["TELÉFONO:", p.tel || ""],
+        ["EMAIL:", p.mail], ["PROVINCIA:", p.prov || ""],
+        ["DOMICILIO:", p.dom], ["TRANSPORTE:", p.trans], [],
+        ["CÓDIGO", "DESCRIPCIÓN", "CANT", "P. LISTA", "SUBTOTAL"]
+    ];
+    p.items.forEach(i => rows.push([i.c, i.n, i.q, parseFloat(i.p), (i.q * i.p)]));
+    rows.push([], ["", "", "", "SUBTOTAL BRUTO:", p.res.b], ["", "", "", "BONIF (" + p.res.p + "%):", p.res.d], ["", "", "", "SUBTOTAL NETO:", p.res.n], ["", "", "", "IVA (21%):", p.res.i], ["", "", "", "TOTAL A PAGAR:", p.res.f]);
+    const ws = XLSX.utils.aoa_to_sheet(rows);
+    ws['!cols'] = [{wch:15},{wch:50},{wch:10},{wch:15},{wch:15}];
+    const wb = XLSX.utils.book_new();
+    XLSX.utils.book_append_sheet(wb, ws, "Pedido");
+    XLSX.writeFile(wb, `Pedido_${p.codCli}_${p.nomCli}.xlsx`);
+}
+
+function verHistorial() {
+    const cont = document.getElementById('listaHistorial'); cont.innerHTML = "";
+    let h = JSON.parse(localStorage.getItem('RT_H_V3') || "[]");
+    if (!SESION.admin) h = h.filter(x => x.vendedor === SESION.user);
+    if (h.length === 0) {
+        cont.innerHTML = "<div class='text-center p-4 text-muted'>Vacío en este dispositivo.<br><small>El historial no está en GitHub: cada teléfono o PC guarda sus propios pedidos en el navegador. Para copiar desde otro equipo usá Exportar / Importar arriba.</small></div>";
+        return;
+    }
+    h.forEach(p => {
+        cont.innerHTML += `
+        <div class="card p-3 mb-2 border-start border-4 border-primary">
+            <div class="d-flex justify-content-between">
+                <div><b>[${p.codCli}] ${p.nomCli}</b><br><small>${p.fecha} ${SESION.admin ? '| ' + p.vendedor : ''}</small></div>
+                <div class="text-end"><b>${p.res.f}</b><br><button class="btn btn-sm btn-dark mt-1" onclick='descargarExcel(${JSON.stringify(p)})'>Excel</button></div>
+            </div>
+        </div>`;
+    });
+}
+</script>
+</body>
+</html>
